@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Life Expectancy Estimator</title>
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+            margin: 0;
+        }
+
+        form {
+            background: #000000;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+            max-width: 450px;
+            margin: 40px auto;
+        }
+
+        label {
+            color: #ffffff; 
+            font-weight: bold; 
+            margin-bottom: 8px; 
+            display: block; 
+        }
+        input[type="checkbox"] + label {
+            color: #ffffff; 
+            font-weight: normal; 
+        }
+
+        input[type="number"], select {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 1em;
+            background-color: #f9f9f9;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        button {
+            width: 100%; 
+            color: #962980;
+            padding: 14px 20px;
+            margin: 16px 0;
+            border: none;
+            border-radius: 8px; 
+            cursor: pointer;
+            font-size: 1.1em;
+            font-weight: bold; 
+            transition: background-color 0.3s ease, transform 0.3s ease; 
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+        }
+
+        button:hover {
+            background-color: #9e3c8a;
+        }
+        
+        button:active {
+            transform: translateY(0); 
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+        }
+
+        .disease-box {
+            background-color: #ffffff; 
+            padding: 20px; 
+            border-radius: 10px; 
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); 
+            margin-top: 10px; 
+            color: #333333; 
+        }
+        
+        .disease-box label {
+            color: #333333; 
+            display: inline-block;
+            margin-bottom: 10px; 
+            cursor: pointer; 
+        }
+
+        .disease-box input[type="checkbox"] {
+            margin-right: 5px; 
+        }
+
+        input[type="submit"] {
+            width: 100%;
+            background-color: #962980; 
+            color: white; 
+            padding: 14px 20px;
+            margin: 16px 0;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1.1em;
+            font-weight: bold;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        input[type="submit"]:hover {
+            background-color: #9e3c8a; 
+        }
+        
+        input[type="submit"]:active {
+            transform: translateY(0); 
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+        }
+
+        #result {
+            color: #962980;
+            font-size: 1.5em;
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        @media (max-width: 480px) {
+            form {
+                padding: 20px;
+                margin: 20px auto;
+            }
+
+            h1 {
+                font-size: 1.75em;
+            }
+
+            button {
+                padding: 12px;
+                font-size: 1em;
+            }
+
+            input[type="number"], select {
+                padding: 10px;
+                font-size: 0.95em;
+            }
+        }
+    </style>
+
+    <script>
+        // Life expectancy data for males
+        const maleLifeExpectancy = {
+            60: 22.23, 61: 21.41, 62: 20.61, 63: 19.81, 64: 19.03,
+            65: 18.25, 66: 17.48, 67: 16.73, 68: 15.99, 69: 15.26,
+            70: 14.54, 71: 13.84, 72: 13.14, 73: 12.46, 74: 11.78,
+            75: 11.12, 76: 10.47, 77: 9.86, 78: 9.26, 79: 8.68,
+            80: 8.12, 81: 7.60, 82: 7.08, 83: 6.60, 84: 6.12,
+            85: 5.68, 86: 5.25, 87: 4.85, 88: 4.48, 89: 4.14,
+            90: 3.81, 91: 3.52, 92: 3.25, 93: 3.00, 94: 2.78,
+            95: 2.57, 96: 2.40, 97: 2.22, 98: 2.07, 99: 1.91, 100: 1.80
+        };
+
+        // Life expectancy data for females
+        const femaleLifeExpectancy = {
+            60: 25.02, 61: 24.15, 62: 23.29, 63: 22.44, 64: 21.60,
+            65: 20.76, 66: 19.93, 67: 19.12, 68: 18.31, 69: 17.51,
+            70: 16.72, 71: 15.94, 72: 15.17, 73: 14.41, 74: 13.66,
+            75: 12.92, 76: 12.20, 77: 11.51, 78: 10.83, 79: 10.16,
+            80: 9.53, 81: 8.91, 82: 8.32, 83: 7.75, 84: 7.20,
+            85: 6.67, 86: 6.17, 87: 5.70, 88: 5.26, 89: 4.85,
+            90: 4.47, 91: 4.11, 92: 3.78, 93: 3.49, 94: 3.23,
+            95: 2.97, 96: 2.74, 97: 2.54, 98: 2.35, 99: 2.20, 100: 2.04
+        };
+
+        // Smoking factor db
+        const smokingFactors = {
+            60: { no: 0.000, light: -0.029, moderate: -0.063, heavy: -0.108 },
+            61: { no: 0.000, light: -0.032, moderate: -0.069, heavy: -0.118 },
+            62: { no: 0.000, light: -0.034, moderate: -0.075, heavy: -0.128 },
+            63: { no: 0.000, light: -0.037, moderate: -0.082, heavy: -0.139 },
+            64: { no: 0.000, light: -0.041, moderate: -0.090, heavy: -0.152 },
+            65: { no: 0.000, light: -0.045, moderate: -0.098, heavy: -0.164 },
+            66: { no: 0.000, light: -0.049, moderate: -0.107, heavy: -0.178 },
+            67: { no: 0.000, light: -0.054, moderate: -0.116, heavy: -0.193 },
+            68: { no: 0.000, light: -0.058, moderate: -0.125, heavy: -0.208 },
+            69: { no: 0.000, light: -0.063, moderate: -0.136, heavy: -0.225 },
+            70: { no: 0.000, light: -0.070, moderate: -0.149, heavy: -0.244 },
+            71: { no: 0.000, light: -0.076, moderate: -0.157, heavy: -0.253 },
+            72: { no: 0.000, light: -0.084, moderate: -0.166, heavy: -0.264 },
+            73: { no: 0.000, light: -0.091, moderate: -0.176, heavy: -0.274 },
+            74: { no: 0.000, light: -0.099, moderate: -0.186, heavy: -0.285 },
+            75: { no: 0.000, light: -0.107, moderate: -0.196, heavy: -0.296 },
+            76: { no: 0.000, light: -0.116, moderate: -0.207, heavy: -0.307 },
+            77: { no: 0.000, light: -0.124, moderate: -0.217, heavy: -0.317 },
+            78: { no: 0.000, light: -0.133, moderate: -0.228, heavy: -0.327 },
+            79: { no: 0.000, light: -0.141, moderate: -0.237, heavy: -0.336 },
+            80: { no: 0.000, light: -0.150, moderate: -0.247, heavy: -0.345 },
+            81: { no: 0.000, light: -0.159, moderate: -0.257, heavy: -0.353 },
+            82: { no: 0.000, light: -0.167, moderate: -0.265, heavy: -0.358 },
+            83: { no: 0.000, light: -0.175, moderate: -0.272, heavy: -0.363 },
+            84: { no: 0.000, light: -0.182, moderate: -0.278, heavy: -0.365 },
+            85: { no: 0.000, light: -0.188, moderate: -0.282, heavy: -0.365 },
+            86: { no: 0.000, light: -0.192, moderate: -0.283, heavy: -0.354 },
+            88: { no: 0.000, light: -0.195, moderate: -0.278, heavy: -0.344 },
+            89: { no: 0.000, light: -0.195, moderate: -0.272, heavy: -0.330 },
+            90: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 },
+            91: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 },
+            92: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 },
+            93: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 },
+            94: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 },
+            95: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 },
+            96: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 },
+            97: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 },
+            98: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 },
+            99: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 },
+            100: { no: 0.000, light: -0.192, moderate: -0.262, heavy: -0.313 }
+        };
+
+        // Obesity factor db
+        const obesityFactors = {
+            male: { normal: 0.0, overweight: -0.012, obese1: -0.012, obese2: -0.031, obese3: -0.074 },
+            female: { normal: 0.0, overweight: 0.012, obese1: 0.006, obese2: -0.017, obese3: -0.053 }
+        };
+
+        // Alcohol consumption factor db
+        const alcoholFactors = {
+            male: { none: 0.0, low: 0.075, medium: -0.048, high: -0.16, higher: -0.26 },
+            female: { none: 0.0, low: 0.075, medium: -0.174, high: -0.254, higher: -0.379 }
+        };
+
+        // Exercise factor db
+        const exerciseFactors = {
+            low: 0.0, moderate: 0.282, high: 0.399
+        };
+
+        // Disease factor db
+        const diseaseFactors = {
+            male: {
+                tuberculosis: -0.001,
+                meningitis: 0.000,
+                esophageal_cancer: -0.028,
+                gastric_cardia_cancer: -0.012,
+                colon_cancer: -0.049,
+                bile_duct_cancer: -0.018,
+                pancreatic_cancer: -0.026,
+                tracheal_cancer: -0.084,
+                melanoma_skin_cancer: -0.007,
+                breast_cancer: 0.000,
+                cervical_cancer: 0.000,
+                ovarian_cancer: 0.000,
+                prostate_cancer: -0.062,
+                kidney_cancer: -0.014,
+                bladder_cancer: -0.020,
+                brain_tumour: -0.014,
+                non_hodgkins_lymphoma: -0.014,
+                plasma_cell_neoplasms: -0.009,
+                leukaemia: -0.015,
+                diabetes_mellitus: -0.024,
+                dementia: -0.088,
+                motor_neurone_disease: -0.006,
+                alzheimers_disease: -0.044,
+                multiple_sclerosis: -0.003,
+                ischaemic_heart_diseases: -0.220,
+                cerebrovascular_diseases: -0.074,
+                pneumonia_and_influenza: -0.056,
+                bronchitis: 0.000,
+                asthma_and_status_asthmaticus: -0.002,
+                duodenal_ulcer: -0.004,
+                diseases_of_the_liver: -0.036,
+                covid_19: -0.069
+            },
+            female: {
+                tuberculosis: 0.000,
+                meningitis: 0.000,
+                esophageal_cancer: -0.013,
+                gastric_cardia_cancer: -0.007,
+                colon_cancer: -0.043,
+                bile_duct_cancer: -0.012,
+                pancreatic_cancer: -0.027,
+                tracheal_cancer: -0.082,
+                melanoma_skin_cancer: -0.005,
+                breast_cancer: -0.060,
+                cervical_cancer: -0.005,
+                ovarian_cancer: -0.020,
+                prostate_cancer: 0.000,
+                kidney_cancer: -0.008,
+                bladder_cancer: -0.010,
+                brain_tumour: -0.010,
+                non_hodgkins_lymphoma: -0.011,
+                plasma_cell_neoplasms: -0.008,
+                leukaemia: -0.011,
+                diabetes_mellitus: -0.023,
+                dementia: -0.162,
+                motor_neurone_disease: -0.006,
+                alzheimers_disease: -0.094,
+                multiple_sclerosis: -0.005,
+                ischaemic_heart_diseases: -0.124,
+                cerebrovascular_diseases: -0.097,
+                pneumonia_and_influenza: -0.062,
+                bronchitis: 0.000,
+                asthma_and_status_asthmaticus: -0.005,
+                duodenal_ulcer: -0.002,
+                diseases_of_the_liver: -0.025,
+                covid_19: -0.061
+            }
+        };
+        
+        // Calculator
+        function calculateLifeExpectancy() {
+            const age = parseInt(document.getElementById("age").value);
+            const gender = document.getElementById("gender").value;
+            const smoking = document.getElementById("smoking").value;
+            const obesity = document.getElementById("obesity").value;
+            const alcohol = document.getElementById("alcohol").value;
+            const exercise = document.getElementById("exercise").value;
+
+            let baseLifeExpectancy = gender === "male" ? maleLifeExpectancy[age] : femaleLifeExpectancy[age];
+
+            let smokingFactor = smokingFactors[age][smoking];
+            let obesityFactor = obesityFactors[gender][obesity];
+            let alcoholFactor = alcoholFactors[gender][alcohol];
+            let exerciseFactor = exerciseFactors[exercise];
+
+            // Calculate disease factor (sum of all selected diseases)
+            let diseaseFactor = 0.0;
+            document.querySelectorAll('input[name="diseases"]:checked').forEach((checkbox) => {
+                diseaseFactor += diseaseFactors[gender][checkbox.value];
+            });
+
+            // Calculate adjusted life expectancy
+            let adjustedLifeExpectancy = baseLifeExpectancy * (1 + smokingFactor + obesityFactor + alcoholFactor + exerciseFactor + diseaseFactor);
+
+            document.getElementById("result").textContent = `Estimated Life Expectancy: ${adjustedLifeExpectancy.toFixed(2)} years`;
+        }
+    </script>
+</head>
+
+<body>
+    <form onsubmit="calculateLifeExpectancy(); return false;">
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" min="60" max="100" required><br><br>
+
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender">
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select><br><br>
+
+        <label for="smoking">What is you smoking frequency?</label>
+        <select id="smoking" name="smoking">
+            <option value="no">None</option>
+            <option value="light">Occasional</option>
+            <option value="moderate">Regualar</option>
+            <option value="heavy">Heavy</option>
+        </select><br><br>
+
+        <label for="obesity">What is your BMI?</label>
+        <select id="obesity" name="obesity">
+            <option value="normal">Normal (&lt;25.0)</option>
+            <option value="overweight">Overweight (25.0-29.9)</option>
+            <option value="obese1">Obese Class I (30.0-34.9)</option>
+            <option value="obese2">Obese Class II (35.0-39.9)</option>
+            <option value="obese3">Obese Class III (&gt;39.9)</option>
+        </select><br><br>
+
+        <label for="alcohol">How much alcohol do you drink each day?</label>
+        <select id="alcohol" name="alcohol">
+            <option value="none">Non-Drinker</option>
+            <option value="low">Low-volume Drinker (1.3-24g)</option>
+            <option value="medium">Medium-volume Drinker (25-44g)</option>
+            <option value="high">High-volume Drinker (45-64g)</option>
+            <option value="higher">Very High-volume Drinker (65g+)</option>
+        </select><br><br>
+
+        <label for="exercise">How long do you exercise each day?</label>
+        <select id="exercise" name="exercise">
+            <option value="low">&lt;75 minutes</option>
+            <option value="moderate">75-149 minutes</option>
+            <option value="high">150-300 minutes</option>
+        </select><br><br>
+
+        <label for="diseases">Please select all relevant diseases that you have.</label><br>
+        <div class="disease-box">   
+            <label><input type="checkbox" name="diseases" value="tuberculosis">Tuberculosis</label><br>
+            <label><input type="checkbox" name="diseases" value="meningitis">Meningitis</label><br>
+            <label><input type="checkbox" name="diseases" value="esophageal_cancer">Esophageal Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="gastric_cardia_cancer">Gastric Cardia Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="colon_cancer">Colon Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="bile_duct_cancer">Bile Duct Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="pancreatic_cancer">Pancreatic Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="tracheal_cancer">Tracheal Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="melanoma_skin_cancer">Melanoma Skin Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="breast_cancer">Breast Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="cervical_cancer">Cervical Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="ovarian_cancer">Ovarian Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="prostate_cancer">Prostate Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="kidney_cancer">Kidney Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="bladder_cancer">Bladder Cancer</label><br>
+            <label><input type="checkbox" name="diseases" value="brain_tumour">Brain Tumour</label><br>
+            <label><input type="checkbox" name="diseases" value="non_hodgkins_lymphoma">Non-Hodgkin's Lymphoma</label><br>
+            <label><input type="checkbox" name="diseases" value="plasma_cell_neoplasms">Plasma Cell Neoplasms</label><br>
+            <label><input type="checkbox" name="diseases" value="leukaemia">Leukaemia</label><br>
+            <label><input type="checkbox" name="diseases" value="diabetes_mellitus">Diabetes Mellitus</label><br>
+            <label><input type="checkbox" name="diseases" value="dementia">Dementia</label><br>
+            <label><input type="checkbox" name="diseases" value="motor_neurone_disease">Motor Neurone Disease</label><br>
+            <label><input type="checkbox" name="diseases" value="alzheimers_disease">Alzheimer's Disease</label><br>
+            <label><input type="checkbox" name="diseases" value="multiple_sclerosis">Multiple Sclerosis</label><br>
+            <label><input type="checkbox" name="diseases" value="ischaemic_heart_diseases">Ischaemic Heart Diseases</label><br>
+            <label><input type="checkbox" name="diseases" value="cerebrovascular_diseases">Cerebrovascular Diseases</label><br>
+            <label><input type="checkbox" name="diseases" value="pneumonia_and_influenza">Pneumonia and Influenza</label><br>
+            <label><input type="checkbox" name="diseases" value="bronchitis">Bronchitis</label><br>
+            <label><input type="checkbox" name="diseases" value="asthma_and_status_asthmaticus">Asthma and Status Asthmaticus</label><br>
+            <label><input type="checkbox" name="diseases" value="duodenal_ulcer">Duodenal Ulcer</label><br>
+            <label><input type="checkbox" name="diseases" value="diseases_of_the_liver">Diseases of the Liver</label><br>
+            <label><input type="checkbox" name="diseases" value="covid_19">COVID-19</label><br>
+        </div>
+
+        <input type="submit" value="Calculate">
+    </form>
+
+    <p id="result"></p>
+</body>
+</html>

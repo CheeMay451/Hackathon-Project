@@ -1,0 +1,829 @@
+﻿bathrooms,bedrooms,livingRooms,floorAreaSqM,propertyType,tenure,price,longitude,latitude,outcode,postcode,fullAddress,url
+1,1,1,57,Flat,Leasehold,119651,-0.2752432,51.5620158,HA9,HA9 0AJ,"169 Empire Court, North End Road, Wembley, HA9 0AJ",https://www.zoopla.co.uk/property/uprn/202100154/
+1,1,1,47,Flat,Leasehold,109664,0.0484478,51.5907307,IG5,IG5 0PX,"41 Winningales Court, Vienna Close, Ilford, IG5 0PX",https://www.zoopla.co.uk/property/uprn/10013584779/
+1,2,1,59,Flat,Leasehold,104679,0.1862362,51.5668599,RM1,RM1 2DE,"9 Merritt House, Frazer Close, Romford, RM1 2DE",https://www.zoopla.co.uk/property/uprn/100021374135/
+1,1,1,47,Flat,Leasehold,199211,-0.4306465,51.5253768,UB4,UB4 8HQ,"33 Westcombe Lodge Drive, Hayes, UB4 8HQ",https://www.zoopla.co.uk/property/uprn/100021439535/
+1,1,1,51,Flat,Leasehold,89725,-0.0410155,51.3995793,BR3,BR3 4DE,"Flat 25, Andon Court, 198 Croydon Road, Beckenham, BR3 4DE",https://www.zoopla.co.uk/property/uprn/100020375669/
+1,2,1,57,Flat,Leasehold,182000,-0.354802,51.4426323,TW2,TW2 5DL,"Flat 41, Manor Court, Manor Road, Twickenham, TW2 5DL",https://www.zoopla.co.uk/property/uprn/100022340447/
+1,1,1,44,Flat,Leasehold,176000,-0.1335248,51.6355188,N14,N14 5HT,"47 Windsor Court, London, N14 5HT",https://www.zoopla.co.uk/property/uprn/207199006/
+1,1,1,62,Flat,Leasehold,116742,-0.0192335,51.443872,SE6,SE6 2LE,"10 Stannard Court, Culverley Road, London, SE6 2LE",https://www.zoopla.co.uk/property/uprn/10070495525/
+1,1,1,50,Flat,Leasehold,107451,-0.1896769,51.3578252,SM2,SM2 5LP,"22 Forest Dene Court, 2 Cedar Road, Sutton, SM2 5LP",https://www.zoopla.co.uk/property/uprn/5870045565/
+1,1,1,36,Flat,Leasehold,139573,-0.466595,51.5233256,UB8,UB8 3UJ,"37 Clarkes Drive, Uxbridge, UB8 3UJ",https://www.zoopla.co.uk/property/uprn/100021477725/
+1,2,1,81,Flat,Leasehold,123327,0.1040154,51.4349711,DA15,DA15 9AD,"1 Greenwood Close, Sidcup, DA15 9AD",https://www.zoopla.co.uk/property/uprn/100020251532/
+1,3,1,76,Flat,Freehold,229980,0.1658416,51.5462038,RM10,RM10 7XD,"Flat 2, Foxlands Apartments, 588 Rainham Road South, Dagenham, RM10 7XD",https://www.zoopla.co.uk/property/uprn/10091590563/
+1,1,1,44,Flat,Leasehold,133529,0.1865628,51.4757004,DA8,DA8 2PL,"34 Cook Square, Erith, DA8 2PL",https://www.zoopla.co.uk/property/uprn/100020227608/
+1,1,1,56,Flat,Leasehold,116844,0.0212029,51.4070215,BR1,BR1 3AA,"Flat 9, Woodvale Court, Widmore Road, Bromley, BR1 3AA",https://www.zoopla.co.uk/property/uprn/100020420451/
+1,1,1,48,Flat,Leasehold,125245,0.1016509,51.4273425,DA15,DA15 7JU,"10 Glen Court, 8 Station Road, Sidcup, DA15 7JU",https://www.zoopla.co.uk/property/uprn/100022919628/
+1,1,1,57,Flat,Leasehold,120235,-0.4101863,51.6011859,HA6,HA6 1PB,"Flat 18, Fairfield Court, Windsor Close, Northwood, HA6 1PB",https://www.zoopla.co.uk/property/uprn/100021449050/
+1,2,1,56,Flat,Leasehold,137334,-0.1819218,51.4056722,CR4,CR4 3PG,"Flat 1, Frensham Court, Phipp's Bridge Road, Mitcham, CR4 3PG",https://www.zoopla.co.uk/property/uprn/48078161/
+1,1,1,54,Flat,Leasehold,130352,-0.4119911,51.5187952,UB3,UB3 2DJ,"196 Sutcliffe House, Addison Way, Hayes, UB3 2DJ",https://www.zoopla.co.uk/property/uprn/100021414052/
+1,2,1,54,Flat,Leasehold,195941,-0.4009412,51.5272776,UB4,UB4 9AQ,"243 Shakespeare Avenue, Hayes, UB4 9AQ",https://www.zoopla.co.uk/property/uprn/10003003117/
+1,1,1,59,Flat,Leasehold,385074,-0.3192016,51.5605133,HA0,HA0 3FE,"29 Bishops Court, 152 Watford Road, Wembley, HA0 3FE",https://www.zoopla.co.uk/property/uprn/202139139/
+1,1,1,51,Flat,Leasehold,146212,-0.2931022,51.5744075,HA3,HA3 0QH,"1 Blackberry Court, 326B Preston Road, Harrow, HA3 0QH",https://www.zoopla.co.uk/property/uprn/202149682/
+1,1,1,55,Flat,Leasehold,147228,-0.3361121,51.5580833,HA1,HA1 3RR,"6 Jem Paterson Court, Hartington Close, Harrow, HA1 3RR",https://www.zoopla.co.uk/property/uprn/100023028619/
+1,1,1,40,Flat,Leasehold,142689,-0.0322438,51.6147007,E4,E4 8JD,"89 Mandeville Court, London, E4 8JD",https://www.zoopla.co.uk/property/uprn/100022564579/
+1,1,1,54,Flat,Leasehold,254301,0.0778733,51.5417335,IG11,IG11 8PG,"Flat D, 16D Pickering Road, Barking, IG11 8PG",https://www.zoopla.co.uk/property/uprn/10002168096/
+1,2,1,68,Flat,Leasehold,264842,0.1076462,51.4307061,DA14,DA14 4EN,"38 Finch Court, 10 Lansdown Road, Sidcup, DA14 4EN",https://www.zoopla.co.uk/property/uprn/100022918478/
+1,2,1,65,Flat,Leasehold,119634,0.0947769,51.5725476,IG2,IG2 7EQ,"Flat 8, Parkview Court, 54 Brancaster Road, Ilford, IG2 7EQ",https://www.zoopla.co.uk/property/uprn/100022198682/
+1,1,1,42,Flat,Leasehold,142249,-0.0593983,51.4302633,SE26,SE26 4NN,"12 Homewalk House, Jews Walk, London, SE26 4NN",https://www.zoopla.co.uk/property/uprn/100021972112/
+1,1,1,57,Flat,Leasehold,449339,-0.3192016,51.5605133,HA0,HA0 3FE,"10 Bishops Court, 152 Watford Road, Wembley, HA0 3FE",https://www.zoopla.co.uk/property/uprn/202139121/
+1,1,1,45,Flat,Leasehold,152059,-0.0852378,51.4006169,SE25,SE25 6UU,"235B Whitehorse Lane, London, SE25 6UU",https://www.zoopla.co.uk/property/uprn/100020662063/
+1,1,1,43,Flat,Leasehold,149542,0.2225496,51.5623446,RM11,RM11 3XY,"24 Goldsmere Court, Fentiman Way, Hornchurch, RM11 3XY",https://www.zoopla.co.uk/property/uprn/100021329529/
+1,3,1,84,Flat,Freehold,153943,-0.0511632,51.5671943,E5,E5 9UE,"Flat 501, Huntswharf House, Leaside Road, London, E5 9UE",https://www.zoopla.co.uk/property/uprn/10008352374/
+1,2,1,68,Flat,Freehold,845566,-0.1992078,51.5054615,W8,W8 7AW,"Flat 11, Laurie House, 16 Airlie Gardens, London, W8 7AW",https://www.zoopla.co.uk/property/uprn/217001258/
+1,2,1,68,Flat,Leasehold,258772,-0.1071285,51.3300013,CR8,CR8 2DZ,"5 The Pines, Purley, CR8 2DZ",https://www.zoopla.co.uk/property/uprn/100020669986/
+1,1,1,51,Flat,Leasehold,157831,-0.1760566,51.6512606,EN5,EN5 5FL,"Flat 27, Argent Court, 2 Leicester Road, Barnet, EN5 5FL",https://www.zoopla.co.uk/property/uprn/200141551/
+1,1,1,49,Flat,Leasehold,159416,-0.0913835,51.5863627,N15,N15 3AN,"Flat 14, Strawbridge Court, 308 West Green Road, London, N15 3AN",https://www.zoopla.co.uk/property/uprn/10090478291/
+1,1,1,51,Flat,Leasehold,160313,0.2163625,51.5613281,RM12,RM12 4XA,"126 Abbs Cross Gardens, Hornchurch, RM12 4XA",https://www.zoopla.co.uk/property/uprn/100021321239/
+1,2,1,66,Flat,Leasehold,163504,-0.0370674,51.5520497,E5,E5 0DU,"Flat 20, Charles Burton Court, Ashenden Road, London, E5 0DU",https://www.zoopla.co.uk/property/uprn/100021024620/
+1,1,1,50,Flat,Leasehold,254031,-0.0148869,51.3804533,BR4,BR4 0QT,"Flat 24, Gable Lodge, 2 Beckenham Road, West Wickham, BR4 0QT",https://www.zoopla.co.uk/property/uprn/100020484338/
+1,1,1,60,Flat,Leasehold,142249,-0.0831553,51.4036582,SE25,SE25 6UH,"22 Cranleigh Gardens, London, SE25 6UH",https://www.zoopla.co.uk/property/uprn/100020643360/
+1,1,1,47,Flat,Leasehold,230000,-0.1060369,51.3968813,CR7,CR7 7DG,"6 Braidwood House, 18 Chipstead Avenue, Thornton Heath, CR7 7DG",https://www.zoopla.co.uk/property/uprn/100022915683/
+1,1,1,64,Flat,Leasehold,165451,-0.0178743,51.6139642,E4,E4 8LL,"20 Kingswood Court, 175 Chingford Mount Road, London, E4 8LL",https://www.zoopla.co.uk/property/uprn/100022530663/
+1,2,1,73,Flat,Leasehold,169481,0.2141533,51.5766947,RM11,RM11 2DQ,"Flat 376, Haynes Park Court, Slewins Close, Hornchurch, RM11 2DQ",https://www.zoopla.co.uk/property/uprn/100021340608/
+1,1,1,59,Flat,Leasehold,166774,-0.1747813,51.6105475,N12,N12 0PL,"20 Hamilton Square, London, N12 0PL",https://www.zoopla.co.uk/property/uprn/200101368/
+1,1,1,50,Flat,Leasehold,165323,0.1486275,51.4578493,DA7,DA7 4HJ,"40 Fern Court, 11 East Street, Bexleyheath, DA7 4HJ",https://www.zoopla.co.uk/property/uprn/100020205937/
+1,1,1,48,Flat,Leasehold,80157,-0.3716169,51.608876,HA5,HA5 4EJ,"Flat 13, Homehayes House, Oakdene Close, Pinner, HA5 4EJ",https://www.zoopla.co.uk/property/uprn/100021304818/
+2,4,1,160,Detached,Freehold,1741340,-0.1590815,51.5922511,N2,N2 9PA,"42 Church Vale, London, N2 9PA",https://www.zoopla.co.uk/property/uprn/200023013/
+2,3,2,118,Flat,Leasehold,699000,-0.3267776,51.4467765,TW1,TW1 3NR,"44A Church Street, Twickenham, TW1 3NR",https://www.zoopla.co.uk/property/uprn/100022331851/
+1,2,1,75,Flat,Leasehold,176584,-0.099744,51.4970757,SE1,SE1 6FJ,"Apartment 904, 251 Southwark Bridge Road, London, SE1 6FJ",https://www.zoopla.co.uk/property/uprn/10094085962/
+1,1,1,45,Flat,Leasehold,170333,-0.4464613,51.4825504,UB3,UB3 5BS,"35 Boltons Lane, Harlington, Hayes, UB3 5BS",https://www.zoopla.co.uk/property/uprn/100021417280/
+1,2,1,57,Flat,Freehold,166802,-0.0034839,51.5847378,E17,E17 9HH,"90A Brooke Road, London, E17 9HH",https://www.zoopla.co.uk/property/uprn/100022523864/
+1,1,1,53,Flat,Leasehold,306000,-0.0174968,51.4098586,BR3,BR3 5HL,"Flat 7, Montreaux Court, 55 Albemarle Road, Beckenham, BR3 5HL",https://www.zoopla.co.uk/property/uprn/100022896125/
+1,1,0,28,Flat,Leasehold,177689,-0.354149,51.5974995,HA2,HA2 6JY,"65C Pinner Park Avenue, Harrow, HA2 6JY",https://www.zoopla.co.uk/property/uprn/100021281186/
+1,2,1,72,Flat,Leasehold,210000,-0.0593983,51.4302633,SE26,SE26 4NN,"16A Homewalk House, Jews Walk, London, SE26 4NN",https://www.zoopla.co.uk/property/uprn/100021972149/
+1,2,1,68,Flat,Leasehold,255000,-0.091552,51.4060705,CR7,CR7 8NQ,"174 Mersham Road, Thornton Heath, CR7 8NQ",https://www.zoopla.co.uk/property/uprn/100020698860/
+1,3,2,118,Semi-Detached,Freehold,738312,-0.1389545,51.6176203,N11,N11 1JA,"35 Betstyle Road, London, N11 1JA",https://www.zoopla.co.uk/property/uprn/207053270/
+1,1,1,30,Flat,Leasehold,190319,-0.22111,51.4584673,SW15,SW15 6EW,"Flat 1, 12A Cambalt Road, London, SW15 6EW",https://www.zoopla.co.uk/property/uprn/121040250/
+1,1,1,52,Flat,Leasehold,186395,0.058446,51.4931099,SE18,SE18 5NB,"40 Church Hill, London, SE18 5NB",https://www.zoopla.co.uk/property/uprn/100020950868/
+1,1,1,57,Flat,Leasehold,192281,-0.1340839,51.4639675,SW4,SW4 6FF,"Apartment 44, 4 Bicycle Mews, London, SW4 6FF",https://www.zoopla.co.uk/property/uprn/10090197915/
+1,2,1,72,Flat,Leasehold,150000,-0.4136271,51.5637987,HA4,HA4 6LE,"20 Berkeley Close, Ruislip, HA4 6LE",https://www.zoopla.co.uk/property/uprn/100021454804/
+1,1,1,51,Flat,Leasehold,215352,-0.2716247,51.3404842,KT19,KT19 8EJ,"Flat 9, Marlborough Court, 9A Manor Green Road, Epsom, KT19 8EJ",https://www.zoopla.co.uk/property/uprn/10013953992/
+1,2,1,68,Flat,Leasehold,200391,0.1814556,51.5737714,RM1,RM1 1TF,"Flat 69, Charrington Court, Atlanta Boulevard, Romford, RM1 1TF",https://www.zoopla.co.uk/property/uprn/10070705913/
+1,2,1,89,Terraced,Freehold,362162,-0.0713171,51.6031019,N17,N17 8BQ,"47 Tenterden Road, London, N17 8BQ",https://www.zoopla.co.uk/property/uprn/100021229215/
+1,2,1,78,Terraced,Freehold,198401,0.1143489,51.3960703,BR5,BR5 3EH,"28 Station Road, St. Pauls Cray, Orpington, BR5 3EH",https://www.zoopla.co.uk/property/uprn/100020477672/
+1,1,0,37,Flat,Leasehold,154021,-0.2501671,51.4375287,SW15,SW15 3DU,"Flat 9, 98 Friars Avenue, London, SW15 3DU",https://www.zoopla.co.uk/property/uprn/100022645376/
+1,1,1,46,Flat,Leasehold,286807,-0.0958289,51.61504,N13,N13 6BZ,"150 Cherry Blossom Close, London, N13 6BZ",https://www.zoopla.co.uk/property/uprn/207191642/
+1,2,1,50,Flat,Leasehold,286807,-0.0544479,51.4106486,SE20,SE20 7RX,"24 Avenue Court, Avenue Road, London, SE20 7RX",https://www.zoopla.co.uk/property/uprn/100020430885/
+1,2,1,88,Flat,Leasehold,240000,-0.1871095,51.3679203,SM1,SM1 4HH,"24 Keswick Close, Sutton, SM1 4HH",https://www.zoopla.co.uk/property/uprn/5870048495/
+1,1,2,41,Flat,Leasehold,218233,-0.1135214,51.373252,CR0,CR0 4FN,"Flat 20, Heritage Court, 127 Connersville Way, Croydon, CR0 4FN",https://www.zoopla.co.uk/property/uprn/10090927557/
+1,2,1,71,Terraced,Freehold,420000,-0.4248472,51.5154707,UB3,UB3 2UU,"41 Willenhall Drive, Hayes, UB3 2UU",https://www.zoopla.co.uk/property/uprn/100021439889/
+2,2,1,63,Flat,Leasehold,219328,0.1032258,51.4337452,DA15,DA15 7AP,"29 Fold Apartments, Station Road, Sidcup, DA15 7AP",https://www.zoopla.co.uk/property/uprn/10023305096/
+1,1,1,49,Flat,Leasehold,219328,0.1038501,51.3840745,BR6,BR6 0UQ,"22 Coleridge Way, Orpington, BR6 0UQ",https://www.zoopla.co.uk/property/uprn/100020453776/
+1,2,1,45,Flat,Leasehold,236698,-0.064868,51.6005857,N17,N17 0YB,"41 Whitbread Close, London, N17 0YB",https://www.zoopla.co.uk/property/uprn/100021237966/
+1,2,2,88,Semi-Detached,Freehold,313317,0.1529357,51.5587976,RM10,RM10 7QS,"30 Trefgarne Road, Dagenham, RM10 7QS",https://www.zoopla.co.uk/property/uprn/100018583/
+1,3,1,85,Terraced,Freehold,445000,0.1593518,51.582987,RM7,RM7 8AL,"124 Marlborough Road, Romford, RM7 8AL",https://www.zoopla.co.uk/property/uprn/100021385691/
+1,1,1,56,Flat,Leasehold,220800,-0.0834182,51.3726016,CR0,CR0 5HD,"6 Fleetwood Close, Croydon, CR0 5HD",https://www.zoopla.co.uk/property/uprn/100020600103/
+1,2,1,78,Flat,Leasehold,541166,-0.0771157,51.5707613,N16,N16 5PR,"Flat 3, 62 Dunsmure Road, Hackney, London, N16 5PR",https://www.zoopla.co.uk/property/uprn/100021037917/
+1,2,1,74,Flat,Freehold,218979,-0.1225456,51.4051594,SW16,SW16 4UW,"19A Beatrice Avenue, London, SW16 4UW",https://www.zoopla.co.uk/property/uprn/100020638799/
+1,2,1,68,Flat,Leasehold,220730,-0.2473749,51.4537343,SW15,SW15 4PT,"59 Charcot House, Highcliffe Drive, London, SW15 4PT",https://www.zoopla.co.uk/property/uprn/100022653984/
+1,1,1,46,Flat,Feudal,215891,-0.0217923,51.6721747,EN3,EN3 7GL,"Flat 15, Fermi House, 4 Velocity Way, Enfield, EN3 7GL",https://www.zoopla.co.uk/property/uprn/207014759/
+1,2,1,50,Flat,Leasehold,223845,0.026923,51.5758171,E11,E11 2UB,"3 Westminster Court, 23 Cambridge Park, London, E11 2UB",https://www.zoopla.co.uk/property/uprn/100022248884/
+1,3,1,107,Flat,Leasehold,225636,-0.1657692,51.5253837,NW8,NW8 8TE,"Flat 11, Hardwick House, 21 Lilestone Street, London, NW8 8TE",https://www.zoopla.co.uk/property/uprn/100022773448/
+1,2,1,70,Flat,Leasehold,228711,-0.2453997,51.453554,SW15,SW15 4PY,"8 Binley House, Highcliffe Drive, London, SW15 4PY",https://www.zoopla.co.uk/property/uprn/100022654083/
+1,1,1,58,Flat,Leasehold,230541,-0.1232714,51.6077218,N11,N11 2DH,"3 Fairlawns, Brownlow Road, London, N11 2DH",https://www.zoopla.co.uk/property/uprn/100021161180/
+1,1,1,45,Flat,Leasehold,234283,-0.0198153,51.4064535,BR3,BR3 5JT,"Flat 3, 16 Wickham Road, Beckenham, BR3 5JT",https://www.zoopla.co.uk/property/uprn/100020387933/
+1,1,1,55,Flat,Leasehold,238143,0.0979384,51.3742256,BR6,BR6 0NG,"314A High Street, Orpington, BR6 0NG",https://www.zoopla.co.uk/property/uprn/100022899080/
+1,1,1,49,Flat,Leasehold,229298,-0.4669411,51.5233212,UB8,UB8 3UJ,"47 Clarkes Drive, Uxbridge, UB8 3UJ",https://www.zoopla.co.uk/property/uprn/100021477735/
+1,1,1,59,Flat,Leasehold,162500,-0.1374218,51.6373972,N14,N14 4BW,"48 Woodmere Court, 7 Avenue Road, London, N14 4BW",https://www.zoopla.co.uk/property/uprn/207115824/
+1,1,1,41,Flat,Leasehold,220971,-0.0803783,51.6532132,EN1,EN1 3EF,"33B Silver Street, Enfield, EN1 3EF",https://www.zoopla.co.uk/property/uprn/207007281/
+1,2,1,65,Flat,Leasehold,239267,0.142775,51.4825433,DA17,DA17 5NA,"2 Shaw House, Albert Road, Belvedere, DA17 5NA",https://www.zoopla.co.uk/property/uprn/100020187702/
+1,2,1,68,Flat,Leasehold,369565,-0.2542659,51.5424168,NW10,NW10 9PX,"8A Church Road, London, NW10 9PX",https://www.zoopla.co.uk/property/uprn/202114569/
+1,3,1,80,Terraced,Freehold,324000,-0.3503951,51.6012997,HA3,HA3 5NE,"173 Carmelite Road, Harrow, HA3 5NE",https://www.zoopla.co.uk/property/uprn/100021256939/
+1,1,1,40,Flat,Leasehold,235000,-0.055664,51.4385917,SE23,SE23 3YQ,"Block 14 to 60, 46 Windley Close, London, SE23 3YQ",https://www.zoopla.co.uk/property/uprn/100022021337/
+1,1,1,47,Flat,Leasehold,240000,-0.08943,51.4100646,SE19,SE19 3BS,"13 Lupus Court, 351 Grange Road, London, SE19 3BS",https://www.zoopla.co.uk/property/uprn/200001187342/
+1,1,1,49,Flat,Leasehold,220000,0.0566425,51.3642565,BR6,BR6 8NE,"Flat 39, Summerlands Lodge, Farnborough Common, Orpington, BR6 8NE",https://www.zoopla.co.uk/property/uprn/100020458155/
+1,1,1,47,Flat,Leasehold,210000,-0.3081052,51.6161065,HA7,HA7 4HL,"19 Albemarle Park, Stanmore, HA7 4HL",https://www.zoopla.co.uk/property/uprn/100021309734/
+2,2,1,77,Flat,Leasehold,330000,-0.2618717,51.5066944,W3,W3 7QB,"Flat 26, Bryant Court, 278 The Vale, London, W3 7QB",https://www.zoopla.co.uk/property/uprn/12141524/
+1,1,1,53,Flat,Leasehold,210000,-0.2225668,51.3805137,KT4,KT4 8QF,"45 Carters Close, Worcester Park, KT4 8QF",https://www.zoopla.co.uk/property/uprn/5870015671/
+1,1,1,52,Flat,Leasehold,303000,-0.1716927,51.5948397,N2,N2 8ER,"Flat 4, Sycamore House, London, N2 8ER",https://www.zoopla.co.uk/property/uprn/200115742/
+1,2,1,60,Flat,Leasehold,252500,-0.2078119,51.7007052,EN6,EN6 3DW,"Flat 10, Orchard Court, Mimms Hall Road, Potters Bar, EN6 3DW",https://www.zoopla.co.uk/property/uprn/10013906236/
+1,2,1,49,Flat,Leasehold,249149,0.0061242,51.5682165,E11,E11 1BE,"Flat 4, 107 Fairlop Road, London, E11 1BE",https://www.zoopla.co.uk/property/uprn/10009141996/
+1,2,1,71,Flat,Leasehold,274297,-0.3331408,51.5812031,HA1,HA1 2DX,"Flat 7, Time Building, 314 Station Road, Harrow, HA1 2DX",https://www.zoopla.co.uk/property/uprn/10091095460/
+1,2,1,52,Flat,Freehold,255066,0.0591508,51.5234395,E6,E6 6HL,"34A Charlemont Road, London, E6 6HL",https://www.zoopla.co.uk/property/uprn/46013232/
+1,1,1,50,Flat,Leasehold,266003,-0.1684003,51.6415143,EN4,EN4 8DG,"231 Shurland Avenue, Barnet, EN4 8DG",https://www.zoopla.co.uk/property/uprn/200103545/
+1,2,1,81,Flat,Leasehold,254222,0.1665517,51.4873582,DA8,DA8 1BT,"22 Valley Road, Erith, DA8 1BT",https://www.zoopla.co.uk/property/uprn/100020237696/
+1,1,1,51,Flat,Leasehold,256745,-0.1032359,51.3898846,CR0,CR0 2NJ,"Flat 34, Callender Court, 1 Harry Close, Croydon, CR0 2NJ",https://www.zoopla.co.uk/property/uprn/10014048901/
+1,1,1,40,Flat,Leasehold,241102,-0.256581,51.3502431,KT17,KT17 1DR,"Flat 4, Elizabeth Court, Station Approach, Epsom, KT17 1DR",https://www.zoopla.co.uk/property/uprn/200004013862/
+1,1,1,54,Flat,Leasehold,249237,-0.4394751,51.5837555,HA4,HA4 7YH,"8 St Catherines Farm Court, Howletts Lane, Ruislip, HA4 7YH",https://www.zoopla.co.uk/property/uprn/10003003448/
+1,2,1,75,Flat,Leasehold,251168,-0.0881016,51.6589684,EN2,EN2 6NX,"74A Chase Side, Enfield, EN2 6NX",https://www.zoopla.co.uk/property/uprn/207141380/
+1,1,1,48,Flat,Leasehold,250483,-0.419486,51.5146342,UB3,UB3 2DZ,"12 Churchfield Close, Hayes, UB3 2DZ",https://www.zoopla.co.uk/property/uprn/100021419864/
+1,1,1,51,Flat,Feudal,275230,-0.0988335,51.3691747,CR0,CR0 1FX,"Flat 149, Leon House, 233 High Street, Croydon, CR0 1FX",https://www.zoopla.co.uk/property/uprn/10093755435/
+1,1,1,49,Terraced,Freehold,315343,0.0370466,51.3917656,BR2,BR2 9QB,"34 Pope Road, Bromley, BR2 9QB",https://www.zoopla.co.uk/property/uprn/100020410946/
+1,1,1,50,Flat,Leasehold,264877,-0.067395,51.4135967,SE20,SE20 8FH,"Flat 7, Marshall Court, 10 Anerley Park, London, SE20 8FH",https://www.zoopla.co.uk/property/uprn/10070002952/
+1,2,1,66,Flat,Freehold,275538,0.1500169,51.4638222,DA7,DA7 5AU,"79B Long Lane, Bexleyheath, DA7 5AU",https://www.zoopla.co.uk/property/uprn/10023301979/
+1,2,1,66,Flat,Freehold,275538,0.1500025,51.4638224,DA7,DA7 5AU,"79A Long Lane, Bexleyheath, DA7 5AU",https://www.zoopla.co.uk/property/uprn/10023301978/
+1,3,1,101,Semi-Detached,Freehold,466776,0.1280498,51.4610935,DA7,DA7 4ET,"38 Glynde Road, Bexleyheath, DA7 4ET",https://www.zoopla.co.uk/property/uprn/100020207576/
+1,2,1,114,Flat,Leasehold,275000,0.0028431,51.5651342,E11,E11 4EA,"318 Grove Green Road, London, E11 4EA",https://www.zoopla.co.uk/property/uprn/100022963010/
+1,1,1,41,Flat,Leasehold,301333,-0.3631542,51.4134702,TW12,TW12 2BT,"Flat 3, St Peters Court, 29 Station Road, Hampton, TW12 2BT",https://www.zoopla.co.uk/property/uprn/100022283938/
+1,1,1,62,Flat,Leasehold,274160,-0.3682424,51.6103489,HA5,HA5 4UU,"Flat 4, Avon Court, The Avenue, Pinner, HA5 4UU",https://www.zoopla.co.uk/property/uprn/100021307119/
+1,3,3,108,Detached,Freehold,484239,-0.0594122,51.6001897,N17,N17 0NL,"35 Foyle Road, London, N17 0NL",https://www.zoopla.co.uk/property/uprn/100021180908/
+1,3,1,81,Flat,Leasehold,303112,-0.0684655,51.587606,N15,N15 4DY,"35 Saltram Close, London, N15 4DY",https://www.zoopla.co.uk/property/uprn/100021220407/
+1,2,1,60,Flat,Leasehold,271331,0.135875,51.4477135,DA5,DA5 1EP,"21 Basing Drive, Bexley, DA5 1EP",https://www.zoopla.co.uk/property/uprn/100020194730/
+2,2,1,61,Flat,Leasehold,279145,0.1255476,51.4592953,DA6,DA6 8AE,"77 Talehangers Close, Bexleyheath, DA6 8AE",https://www.zoopla.co.uk/property/uprn/10023301332/
+2,2,1,55,Flat,Leasehold,284130,0.2198934,51.5538813,RM12,RM12 6SH,"Apartment 8, Stone House, Suttons Lane, Hornchurch, RM12 6SH",https://www.zoopla.co.uk/property/uprn/10012929514/
+1,2,1,85,Flat,Leasehold,154047,-0.0873505,51.3744375,CR0,CR0 5NE,"42 St Clair's Road, Croydon, CR0 5NE",https://www.zoopla.co.uk/property/uprn/100020623818/
+1,1,1,51,Flat,Leasehold,274453,-0.3172494,51.4992555,W13,W13 9TA,"Flat 11, Mayo Court, 133 Northcroft Road, London, W13 9TA",https://www.zoopla.co.uk/property/uprn/12002131/
+2,3,1,101,Flat,Leasehold,278120,-0.1062211,51.458544,SW9,SW9 8FY,"Flat 6, Farlow House, 115 Loughborough Park, London, SW9 8FY",https://www.zoopla.co.uk/property/uprn/10093378603/
+1,2,1,58,Flat,Leasehold,306266,-0.3671911,51.4605913,TW3,TW3 2BH,"21A St Stephens Road, Hounslow, TW3 2BH",https://www.zoopla.co.uk/property/uprn/100021560524/
+1,3,2,95,Semi-Detached,Freehold,286356,-0.014434,51.355374,CR0,CR0 0RU,"147 Dunley Drive, New Addington, Croydon, CR0 0RU",https://www.zoopla.co.uk/property/uprn/100020596274/
+1,1,1,44,Flat,Leasehold,253692,-0.2410492,51.5956443,NW9,NW9 5XD,"Flat 19, Constantine House, 14 Boulevard Drive, London, NW9 5XD",https://www.zoopla.co.uk/property/uprn/200164422/
+2,3,1,94,Flat,Leasehold,285000,-0.0469748,51.6412218,EN3,EN3 4PB,"116 Kennedy Avenue, Enfield, EN3 4PB",https://www.zoopla.co.uk/property/uprn/207039862/
+1,2,1,70,Flat,Leasehold,289569,0.0085147,51.3950634,BR2,BR2 0YE,"18 Kingsleigh Walk, Bromley, BR2 0YE",https://www.zoopla.co.uk/property/uprn/100020403633/
+1,2,1,61,Flat,Leasehold,254222,0.130169,51.4589956,DA6,DA6 8BJ,"13 Whitehaven Court, 22 Crook Log, Bexleyheath, DA6 8BJ",https://www.zoopla.co.uk/property/uprn/100022922724/
+1,1,1,61,Flat,Leasehold,284130,-0.4782306,51.5383594,UB8,UB8 2PF,"44 Chiltern View Road, Uxbridge, UB8 2PF",https://www.zoopla.co.uk/property/uprn/100021477213/
+1,1,1,56,Flat,Leasehold,277139,-0.0062521,51.6276876,E4,E4 6TU,"5 Lea Court, 79 The Ridgeway, London, E4 6TU",https://www.zoopla.co.uk/property/uprn/100022590430/
+1,1,1,50,Flat,Leasehold,284497,-0.1789023,51.6129611,N12,N12 8EG,"Flat 8, Puget Court, 4 Dale Grove, London, N12 8EG",https://www.zoopla.co.uk/property/uprn/200030401/
+1,2,1,72,Bungalow Property,Freehold,268720,0.1488124,51.5349698,RM10,RM10 9PN,"1 Ron Todd Close, Dagenham, RM10 9PN",https://www.zoopla.co.uk/property/uprn/10002168159/
+1,3,1,87,Terraced,Freehold,330459,-0.0596061,51.6609559,EN1,EN1 4BN,"2 Baynes Close, Enfield, EN1 4BN",https://www.zoopla.co.uk/property/uprn/207146998/
+1,2,1,65,Flat,Leasehold,286622,-0.3782984,51.4351977,TW13,TW13 6LE,"144 Stourton Avenue, Feltham, TW13 6LE",https://www.zoopla.co.uk/property/uprn/100021534275/
+1,1,1,50,Flat,Leasehold,272507,-0.0916177,51.4752623,SE5,SE5 7BX,"Block N Flat 4, Peabody Estate, Camberwell Green, London, SE5 7BX",https://www.zoopla.co.uk/property/uprn/200003458993/
+1,1,1,48,Flat,Leasehold,290383,-0.2526672,51.5958704,NW9,NW9 5PZ,"Flat 10, Penfield Court, 2 Tanner Close, London, NW9 5PZ",https://www.zoopla.co.uk/property/uprn/200157703/
+1,1,1,58,Flat,Leasehold,307700,-0.158678,51.4708751,SW11,SW11 5AT,"3 Weybridge Point, Sheepcote Lane, London, SW11 5AT",https://www.zoopla.co.uk/property/uprn/100022690152/
+1,3,1,122,Terraced,Freehold,499583,-0.3789724,51.5629452,HA2,HA2 9HQ,"76 Leamington Crescent, Harrow, HA2 9HQ",https://www.zoopla.co.uk/property/uprn/100021274713/
+1,2,1,68,Flat,Leasehold,294099,0.0935191,51.4272542,DA14,DA14 6PL,"6 Chelsiter Court, 168 Main Road, Sidcup, DA14 6PL",https://www.zoopla.co.uk/property/uprn/100020255836/
+1,1,1,40,Flat,Leasehold,276275,-0.156987,51.5911075,N2,N2 9EU,"13 Lynton Grange, Fortis Green, London, N2 9EU",https://www.zoopla.co.uk/property/uprn/100021180389/
+3,4,2,154,Semi-Detached,Freehold,300229,-0.2098686,51.3663729,SM1,SM1 2JA,"55 Hilldale Road, Cheam, Sutton, SM1 2JA",https://www.zoopla.co.uk/property/uprn/5870020387/
+1,1,1,55,Flat,Leasehold,300587,0.0414681,51.6070713,IG8,IG8 7JD,"Flat 4, Beech Oak Court, 156 Snakes Lane East, Woodford Green, IG8 7JD",https://www.zoopla.co.uk/property/uprn/10090505595/
+1,1,1,55,Flat,Leasehold,379152,-0.1748675,51.6160719,N12,N12 9BL,"Flat 6, Waterville Lodge, 23 Friern Park, London, N12 9BL",https://www.zoopla.co.uk/property/uprn/200045256/
+1,2,1,54,Flat,Leasehold,299084,-0.4231452,51.5701476,HA4,HA4 6JA,"Flat 9, Masters Court, Wood Lane, Ruislip, HA4 6JA",https://www.zoopla.co.uk/property/uprn/100021472490/
+1,1,1,66,Flat,Leasehold,319312,-0.1872079,51.352832,SM2,SM2 5JN,"Flat 12, Claredale Court, 54 Egmont Road, Sutton, SM2 5JN",https://www.zoopla.co.uk/property/uprn/5870046941/
+1,2,1,66,Flat,Leasehold,310985,0.0148013,51.5141291,E16,E16 1LX,"27 Killip Close, London, E16 1LX",https://www.zoopla.co.uk/property/uprn/46042307/
+1,1,1,59,Flat,Leasehold,289402,-0.0839086,51.4069618,SE25,SE25 4BB,"Flat 6, Crofton Court, 1 Cypress Road, London, SE25 4BB",https://www.zoopla.co.uk/property/uprn/100020643959/
+1,1,1,45,Flat,Leasehold,302227,-0.0755623,51.4755843,SE15,SE15 5LN,"Flat 3, 20 Kelly Avenue, London, SE15 5LN",https://www.zoopla.co.uk/property/uprn/10000818576/
+1,1,1,66,Flat,Leasehold,263921,-0.3627587,51.4583417,TW3,TW3 2EL,"Flat 1, 133 Whitton Road, Hounslow, TW3 2EL",https://www.zoopla.co.uk/property/uprn/100021565668/
+1,1,1,51,Flat,Leasehold,289115,-0.2797846,51.542218,HA0,HA0 1TB,"36 Heather Park Drive, Wembley, HA0 1TB",https://www.zoopla.co.uk/property/uprn/202087838/
+1,1,1,50,Flat,Leasehold,286459,-0.0839112,51.4911257,SE17,SE17 1TW,"Flat 23, Offham House Congreve Estate, Beckway Street, London, SE17 1TW",https://www.zoopla.co.uk/property/uprn/200003420897/
+1,3,2,98,Terraced,Freehold,302562,0.0862443,51.5623761,IG1,IG1 1TS,"59 Francis Avenue, Ilford, IG1 1TS",https://www.zoopla.co.uk/property/uprn/100022212583/
+2,5,3,146,Semi-Detached,Freehold,568070,-0.2741803,51.5523602,HA9,HA9 6ND,"223 Oakington Manor Drive, Wembley, HA9 6ND",https://www.zoopla.co.uk/property/uprn/202061616/
+1,5,1,152,Terraced,Freehold,545405,-0.1401079,51.4014025,CR4,CR4 1JN,"1 Robinhood Close, Mitcham, CR4 1JN",https://www.zoopla.co.uk/property/uprn/48060266/
+2,4,2,139,Semi-Detached,Freehold,484527,0.1292385,51.4723941,DA7,DA7 4SY,"196 Brampton Road, Bexleyheath, DA7 4SY",https://www.zoopla.co.uk/property/uprn/100020203162/
+1,2,1,61,Flat,Leasehold,309054,0.0849939,51.6050421,IG6,IG6 2SZ,"26 Vincent Close, Ilford, IG6 2SZ",https://www.zoopla.co.uk/property/uprn/100022242761/
+1,1,1,35,Flat,Leasehold,289402,-0.016189,51.4918425,E14,E14 9UP,"27 Falcon Way, London, E14 9UP",https://www.zoopla.co.uk/property/uprn/6060476/
+1,2,1,67,Flat,Leasehold,262774,-0.106327,51.6213518,N13,N13 4AG,"24 Pellipar Close, London, N13 4AG",https://www.zoopla.co.uk/property/uprn/207171998/
+1,2,1,61,Flat,Leasehold,450000,-0.1979688,51.6063954,N3,N3 1JA,"82 Eversleigh Road, London, N3 1JA",https://www.zoopla.co.uk/property/uprn/200039156/
+1,1,1,47,Flat,Feudal,309023,-0.3014686,51.5233888,W5,W5 2QT,"Flat 5, 26 Montpelier Road, Ealing, W5 2QT",https://www.zoopla.co.uk/property/uprn/12191675/
+1,2,1,93,Flat,Leasehold,304118,-0.1266673,51.6283506,N14,N14 6NG,"31 Manor Court, High Street, London, N14 6NG",https://www.zoopla.co.uk/property/uprn/207188914/
+1,2,1,54,Flat,Leasehold,299084,-0.4231452,51.5701476,HA4,HA4 6JA,"Flat 19, Masters Court, Wood Lane, Ruislip, HA4 6JA",https://www.zoopla.co.uk/property/uprn/100021472499/
+1,2,1,80,Terraced,Freehold,281489,0.1240256,51.5510955,RM8,RM8 2AA,"794 Longbridge Road, Dagenham, RM8 2AA",https://www.zoopla.co.uk/property/uprn/100090543/
+1,3,1,88,Flat,Leasehold,296269,0.00037,51.5465886,E15,E15 1QA,"56 Alma Street, London, E15 1QA",https://www.zoopla.co.uk/property/uprn/46001423/
+2,2,1,67,Flat,Leasehold,311048,-0.2971055,51.5626678,HA9,HA9 7HE,"40 Bell House, Hirst Crescent, Wembley, HA9 7HE",https://www.zoopla.co.uk/property/uprn/202142519/
+1,2,1,64,Flat,Leasehold,321169,-0.0692344,51.4163609,SE20,SE20 8DF,"30 Lullington Road, London, SE20 8DF",https://www.zoopla.co.uk/property/uprn/100020438929/
+1,2,1,70,Flat,Leasehold,329449,-0.2288466,51.3697096,SM3,SM3 8JD,"34 Queensfield Court, London Road, Cheam, Sutton, SM3 8JD",https://www.zoopla.co.uk/property/uprn/5870012001/
+1,1,1,66,Flat,Leasehold,316302,0.0725742,51.4934914,SE18,SE18 6YS,"Flat 21, Building 22, Cadogan Road, London, SE18 6YS",https://www.zoopla.co.uk/property/uprn/10010221287/
+1,3,1,102,Terraced,Freehold,385775,-0.1477511,51.4076373,CR4,CR4 1BZ,"2 Thrupp Close, Mitcham, CR4 1BZ",https://www.zoopla.co.uk/property/uprn/48069051/
+1,2,1,81,Flat,Leasehold,240833,0.0253993,51.5749802,E11,E11 2PT,"Flat 8, Hardwick Court, Cambridge Park, London, E11 2PT",https://www.zoopla.co.uk/property/uprn/100022248874/
+1,3,1,81,Flat,Leasehold,262878,-0.1395014,51.4272381,SW16,SW16 1TL,"54 Shenstone House, Aldrington Road, London, SW16 1TL",https://www.zoopla.co.uk/property/uprn/100022604792/
+1,2,1,77,Flat,Leasehold,318622,-0.3958301,51.5581014,HA4,HA4 0HB,"537 Victoria Road, Ruislip, HA4 0HB",https://www.zoopla.co.uk/property/uprn/100021470679/
+1,2,1,72,Flat,Leasehold,327421,-0.1983657,51.3523567,SM2,SM2 6RW,"47 Audley Place, Sutton, SM2 6RW",https://www.zoopla.co.uk/property/uprn/5870032000/
+1,2,1,69,Flat,Leasehold,333768,-0.0969186,51.3640716,CR0,CR0 1EW,"Flat 1, 56 Heathfield Road, Croydon, CR0 1EW",https://www.zoopla.co.uk/property/uprn/10001008834/
+1,2,1,83,Flat,Leasehold,325858,-0.2719365,51.5852844,NW9,NW9 9PG,"9 Westcroft Court, 369 Kingsbury Road, London, NW9 9PG",https://www.zoopla.co.uk/property/uprn/202031591/
+1,1,1,44,Flat,Leasehold,302646,-0.1477027,51.544632,NW1,NW1 8DY,"Flat 36, Harmood House, Harmood Street, London, NW1 8DY",https://www.zoopla.co.uk/property/uprn/5059193/
+2,2,1,66,Flat,Leasehold,294733,-0.2744179,51.3586361,KT19,KT19 9AL,"Flat 4, Servalan Court, 34 Vernon Close, Epsom, KT19 9AL",https://www.zoopla.co.uk/property/uprn/10013951688/
+1,2,1,78,Flat,Leasehold,324008,0.0638496,51.3747142,BR6,BR6 8LG,"29 St Anthonys Court, Fairbank Avenue, Orpington, BR6 8LG",https://www.zoopla.co.uk/property/uprn/100020457977/
+1,1,1,49,Flat,Leasehold,318833,-0.142714,51.543537,NW1,NW1 8RL,"Flat 11, Torbay Court, Clarence Way, London, NW1 8RL",https://www.zoopla.co.uk/property/uprn/5042655/
+1,2,1,65,Flat,Leasehold,309054,-0.4231452,51.5701476,HA4,HA4 6JA,"Flat 22, Masters Court, Wood Lane, Ruislip, HA4 6JA",https://www.zoopla.co.uk/property/uprn/100021472502/
+1,2,1,61,Flat,Leasehold,332987,-0.0937236,51.4893432,SE17,SE17 1DF,"Flat 6, Shelley House Browning Estate, Browning Street, London, SE17 1DF",https://www.zoopla.co.uk/property/uprn/200003419644/
+2,2,1,67,Flat,Leasehold,284130,-0.1650603,51.3790422,SM5,SM5 2AX,"18 Baywillow Avenue, Carshalton, SM5 2AX",https://www.zoopla.co.uk/property/uprn/5870121678/
+1,2,1,65,Flat,Leasehold,326624,-0.3762865,51.5496443,UB5,UB5 5DU,"24 Millway Gardens, Northolt, UB5 5DU",https://www.zoopla.co.uk/property/uprn/12036097/
+1,2,1,58,Flat,Leasehold,326002,-0.4240471,51.5319695,UB4,UB4 8LS,"3 Percy Gardens, Hayes, UB4 8LS",https://www.zoopla.co.uk/property/uprn/100021433229/
+1,3,1,90,Flat,Leasehold,375190,-0.1148466,51.563182,N7,N7 7RD,"15 Ray Walk, London, N7 7RD",https://www.zoopla.co.uk/property/uprn/5300077202/
+1,2,1,65,Flat,Feudal,312670,-0.1054554,51.6550682,EN2,EN2 7DW,"2 Rosana Court, 1A Slades Rise, Enfield, EN2 7DW",https://www.zoopla.co.uk/property/uprn/207161001/
+1,2,1,62,Flat,Leasehold,313928,-0.0614939,51.4171144,SE20,SE20 8NS,"30 Blakewood Court, Anerley Park, London, SE20 8NS",https://www.zoopla.co.uk/property/uprn/100023251617/
+1,2,1,58,Flat,Leasehold,335656,0.099056,51.3873529,BR5,BR5 2AN,"52 Oakdene Road, Orpington, BR5 2AN",https://www.zoopla.co.uk/property/uprn/100020468865/
+1,1,1,54,Flat,Leasehold,335510,-0.0418968,51.5191993,E1,E1 3NW,"Flat 3, 10 Masters Street, London, E1 3NW",https://www.zoopla.co.uk/property/uprn/6090581/
+1,3,1,102,Semi-Detached,Freehold,586276,-0.3571462,51.4538965,TW2,TW2 7EB,"1 Prospect Crescent, Twickenham, TW2 7EB",https://www.zoopla.co.uk/property/uprn/100022343129/
+1,1,1,53,Flat,Leasehold,384967,-0.3359723,51.5795349,HA1,HA1 1GX,"Flat 32 Bryant Apartments, Perceval Square, College Road, Harrow, HA1 1GX",https://www.zoopla.co.uk/property/uprn/10094044265/
+1,2,1,51,Flat,Leasehold,330901,-0.2349637,51.5481623,NW2,NW2 5PN,"22B Chaplin Road, London, NW2 5PN",https://www.zoopla.co.uk/property/uprn/202117850/
+1,2,2,91,Terraced,Freehold,391141,-0.082307,51.5989749,N17,N17 7PD,"12 Awlfield Avenue, London, N17 7PD",https://www.zoopla.co.uk/property/uprn/100021155471/
+1,1,1,55,Flat,Leasehold,428102,-0.3081783,51.5232069,W5,W5 1QA,"Flat 2, Juniper House, Mount Avenue, London, W5 1QA",https://www.zoopla.co.uk/property/uprn/12004704/
+1,2,1,71,Flat,Leasehold,337876,-0.039076,51.3776857,CR0,CR0 8DB,"62 Cheston Avenue, Croydon, CR0 8DB",https://www.zoopla.co.uk/property/uprn/100020590094/
+2,2,2,138,Flat,Leasehold,625309,-0.3320023,51.5797143,HA1,HA1 2HQ,"Flat 9, Greenhill Mansions, 11 Gayton Road, Harrow, HA1 2HQ",https://www.zoopla.co.uk/property/uprn/100023027990/
+1,2,1,76,Terraced,Freehold,314027,0.0724055,51.5435928,IG11,IG11 8PZ,"139 Victoria Road, Barking, IG11 8PZ",https://www.zoopla.co.uk/property/uprn/100061865/
+1,1,1,36,Flat,Leasehold,338453,-0.0157528,51.4972398,E14,E14 9FG,"Apartment 644, 12 Baltimore Wharf, London, E14 9FG",https://www.zoopla.co.uk/property/uprn/6163627/
+1,2,1,46,Flat,Leasehold,343947,-0.2394649,51.3773716,KT4,KT4 8EA,"Flat 13, Brabham Court, 39 Central Road, Worcester Park, KT4 8EA",https://www.zoopla.co.uk/property/uprn/5870109814/
+1,1,1,55,Flat,Leasehold,345000,-0.2648539,51.508609,W3,W3 6BD,"Second Floor Flat, 31A Churchfield Road, Acton, W3 6BD",https://www.zoopla.co.uk/property/uprn/12149915/
+1,2,1,90,Flat,Leasehold,235446,-0.0893461,51.3917363,SE25,SE25 5PH,"Flat 3, 38 Dagnall Park, London, SE25 5PH",https://www.zoopla.co.uk/property/uprn/100020644072/
+1,1,1,60,Flat,Leasehold,333977,-0.288228,51.59465,HA7,HA7 1ER,"49 Lowther Road, Stanmore, HA7 1ER",https://www.zoopla.co.uk/property/uprn/100021316568/
+1,1,1,46,Flat,Feudal,405336,-0.2669726,51.4668066,SW14,SW14 8LW,"Second Floor Flat, 34A Sheen Lane, East Sheen, London, SW14 8LW",https://www.zoopla.co.uk/property/uprn/10070708721/
+1,2,1,54,Flat,Leasehold,445121,-0.1746645,51.5271681,NW8,NW8 8UF,"9 Pennyford Court, Henderson Drive, London, NW8 8UF",https://www.zoopla.co.uk/property/uprn/100022765204/
+1,1,1,56,Flat,Leasehold,274940,-0.1910716,51.5998268,N3,N3 2SA,"82 Station Road, London, N3 2SA",https://www.zoopla.co.uk/property/uprn/200108259/
+1,2,1,56,Flat,Leasehold,340633,-0.1711518,51.4244256,SW17,SW17 0GU,"Apartment 7, 193 Tooting High Street, London, SW17 0GU",https://www.zoopla.co.uk/property/uprn/10091501952/
+1,3,1,94,Semi-Detached,Freehold,347202,-0.3568121,51.5420985,UB6,UB6 8NA,"49 Long Drive, Greenford, UB6 8NA",https://www.zoopla.co.uk/property/uprn/12052673/
+2,3,1,138,Terraced,Freehold,399958,0.1297039,51.5117295,SE28,SE28 8QE,"32 St Georges Close, London, SE28 8QE",https://www.zoopla.co.uk/property/uprn/200002801729/
+1,2,1,67,Flat,Leasehold,343358,-0.0471614,51.5641792,E5,E5 9RR,"Flat 26, Dockside Court, Harry Zeital Way, London, E5 9RR",https://www.zoopla.co.uk/property/uprn/10008317781/
+1,2,1,71,Flat,Leasehold,245401,-0.0319206,51.4587261,SE4,SE4 1YS,"41 Ivy Road, London, SE4 1YS",https://www.zoopla.co.uk/property/uprn/100021971611/
+1,3,1,96,Terraced,Freehold,333583,0.1652691,51.55572,RM10,RM10 7AS,"26 Highland Avenue, Dagenham, RM10 7AS",https://www.zoopla.co.uk/property/uprn/100064754/
+1,3,1,94,Flat,Leasehold,278051,-0.2850755,51.6070584,HA8,HA8 6HL,"82A Chandos Crescent, Edgware, HA8 6HL",https://www.zoopla.co.uk/property/uprn/100021244302/
+1,1,1,55,Flat,Leasehold,348264,-0.0256921,51.519935,E3,E3 4SD,"Flat 602, Thimble Court, 141 Bow Common Lane, London, E3 4SD",https://www.zoopla.co.uk/property/uprn/6705230/
+1,2,1,61,Flat,Leasehold,333808,-0.2027359,51.6583598,EN5,EN5 4PL,"Flat 2, Livingstone Court, 10 Christ Church Lane, Barnet, EN5 4PL",https://www.zoopla.co.uk/property/uprn/200022178/
+1,2,1,54,Flat,Leasehold,340633,-0.2482355,51.5357175,NW10,NW10 8TS,"10B Acton Lane, London, NW10 8TS",https://www.zoopla.co.uk/property/uprn/202136923/
+1,2,1,72,Flat,Leasehold,332228,-0.284746,51.3601546,KT19,KT19 9JD,"41 Hartford Road, Epsom, KT19 9JD",https://www.zoopla.co.uk/property/uprn/100061356665/
+1,3,1,81,Flat,Leasehold,343358,-0.2435953,51.4370618,SW15,SW15 3EQ,"196 Stroud Crescent, London, SW15 3EQ",https://www.zoopla.co.uk/property/uprn/100022697784/
+1,1,1,60,Flat,Leasehold,338453,-0.0775088,51.468332,SE5,SE5 8UT,"5 Linwood Close, London, SE5 8UT",https://www.zoopla.co.uk/property/uprn/200003463961/
+1,1,1,56,Flat,Leasehold,327981,-0.2806203,51.5081936,W3,W3 9RH,"Flat 14, 353 Uxbridge Road, London, W3 9RH",https://www.zoopla.co.uk/property/uprn/12160731/
+1,1,1,54,Flat,Leasehold,225636,-0.14207,51.6167692,N11,N11 1PT,"Flat 11, Arc Court, 1 Friern Barnet Road, London, N11 1PT",https://www.zoopla.co.uk/property/uprn/200141072/
+2,2,1,65,Flat,Leasehold,333770,-0.1668419,51.3492617,SM5,SM5 4AS,"Flat 10, Hazel Court, 31 Diamond Jubilee Way, Carshalton, SM5 4AS",https://www.zoopla.co.uk/property/uprn/5870122188/
+1,1,1,47,Flat,Leasehold,343569,0.0039809,51.4904345,SE10,SE10 0TE,"Flat 11, Ossel Court, 13 Telegraph Avenue, London, SE10 0TE",https://www.zoopla.co.uk/property/uprn/10010252642/
+1,1,1,62,Flat,Leasehold,348264,-0.0928127,51.4120531,SE19,SE19 3TW,"21C Spa Hill, London, SE19 3TW",https://www.zoopla.co.uk/property/uprn/10094491051/
+1,3,1,77,Flat,Leasehold,348264,-0.0523127,51.4202895,SE26,SE26 5NU,"4 Hall House, Bailey Place, London, SE26 5NU",https://www.zoopla.co.uk/property/uprn/100020431047/
+1,2,1,46,Flat,Leasehold,348264,-0.1808231,51.4123458,SW19,SW19 2QR,"58 Liberty Avenue, London, SW19 2QR",https://www.zoopla.co.uk/property/uprn/48042874/
+1,1,1,72,Flat,Leasehold,338453,-0.1175336,51.4788736,SW8,SW8 1BD,"10 Elworth House, Oval Place, London, SW8 1BD",https://www.zoopla.co.uk/property/uprn/100021878155/
+1,2,1,54,Flat,Leasehold,348932,-0.3646493,51.5274337,UB6,UB6 9JJ,"71 Braund Avenue, Greenford, UB6 9JJ",https://www.zoopla.co.uk/property/uprn/12044011/
+2,4,2,134,Terraced,Freehold,833743,-0.0870516,51.6578092,EN2,EN2 6JS,"21 Parsonage Gardens, Enfield, EN2 6JS",https://www.zoopla.co.uk/property/uprn/207141022/
+1,3,1,90,Flat,Leasehold,358074,-0.1164332,51.5886922,N8,N8 7SA,"2 Cross Lane, London, N8 7SA",https://www.zoopla.co.uk/property/uprn/10093593971/
+1,2,1,73,Flat,Leasehold,343358,-0.1758938,51.6105515,N12,N12 0DT,"Flat 9, Colman Court, Christchurch Avenue, London, N12 0DT",https://www.zoopla.co.uk/property/uprn/200022117/
+1,3,2,98,Terraced,Freehold,356972,0.034407,51.4268653,SE12,SE12 9PU,"337 Marvels Lane, London, SE12 9PU",https://www.zoopla.co.uk/property/uprn/100021985987/
+1,1,1,56,Flat,Leasehold,361017,0.0039809,51.4904345,SE10,SE10 0TE,"Flat 47, Ossel Court, 13 Telegraph Avenue, London, SE10 0TE",https://www.zoopla.co.uk/property/uprn/10010252678/
+1,2,1,68,Flat,Leasehold,249402,0.0131222,51.4554615,SE12,SE12 8DU,"2F Leyland Road, London, SE12 8DU",https://www.zoopla.co.uk/property/uprn/200002158077/
+2,2,1,84,Flat,Leasehold,353110,-0.2511726,51.3319796,KT17,KT17 4DG,"Flat 6, Ashdown Court, 33 Alexandra Road, Epsom, KT17 4DG",https://www.zoopla.co.uk/property/uprn/10002000396/
+1,2,1,73,Terraced,Leasehold,385031,-0.1724878,51.6152976,N12,N12 9DR,"8 Northwood Gardens, London, N12 9DR",https://www.zoopla.co.uk/property/uprn/200086924/
+1,1,1,55,Flat,Leasehold,287838,-0.0001814,51.5132886,E14,E14 0NH,"Flat 810, Lighterman Point, 3 New Village Avenue, London, E14 0NH",https://www.zoopla.co.uk/property/uprn/6196693/
+1,2,1,100,Flat,Feudal,380133,-0.1941919,51.3482007,SM2,SM2 5QN,"30 The Chilterns, Brighton Road, Sutton, SM2 5QN",https://www.zoopla.co.uk/property/uprn/5870028039/
+2,2,1,68,Flat,Leasehold,367884,0.0715162,51.492556,SE18,SE18 6GA,"207 West Carriage House, Royal Carriage Mews, London, SE18 6GA",https://www.zoopla.co.uk/property/uprn/10010229952/
+1,1,1,47,Flat,Leasehold,367884,-0.1193935,51.5390019,N1,N1 0BN,"Flat 10, 56 Bemerton Street, London, N1 0BN",https://www.zoopla.co.uk/property/uprn/10012787061/
+1,1,1,56,Flat,Leasehold,367884,-0.114118,51.5511472,N7,N7 8GQ,"95 Buckler Court, Eden Grove, London, N7 8GQ",https://www.zoopla.co.uk/property/uprn/10007028525/
+2,3,1,101,Semi-Detached,Freehold,421440,0.0214794,51.4272959,SE12,SE12 0EQ,"143 Wydeville Manor Road, London, SE12 0EQ",https://www.zoopla.co.uk/property/uprn/100022022887/
+1,2,2,91,Terraced,Freehold,363590,0.0103256,51.4232429,BR1,BR1 4QP,"180 Keedonwood Road, Bromley, BR1 4QP",https://www.zoopla.co.uk/property/uprn/200000547773/
+1,4,1,82,Flat,Leasehold,367884,-0.0204781,51.4896039,E14,E14 3RB,"Flat 3, Akbar House, Cahir Street, London, E14 3RB",https://www.zoopla.co.uk/property/uprn/6059011/
+1,2,1,80,Flat,Leasehold,345102,-0.0992709,51.6311653,N21,N21 3PG,"24 Orpington Road, London, N21 3PG",https://www.zoopla.co.uk/property/uprn/207083842/
+1,3,1,71,Flat,Leasehold,305886,-0.0724518,51.5701451,N16,N16 6QP,"Flat 15, Berwyn House, Stamford Hill, London, N16 6QP",https://www.zoopla.co.uk/property/uprn/100023158474/
+1,2,1,64,Flat,Leasehold,349575,-0.2801832,51.4112525,KT1,KT1 3SG,"Flat 13, Pinkerton Court, 3 Lambourn Grove, Kingston upon Thames, KT1 3SG",https://www.zoopla.co.uk/property/uprn/128011134/
+1,2,1,57,Flat,Leasehold,350226,-0.2343854,51.6058116,NW7,NW7 2AY,"Flat 5, Fetlar Court, 32 Bampton Drive, London, NW7 2AY",https://www.zoopla.co.uk/property/uprn/200139728/
+1,3,2,115,Terraced,Freehold,479929,0.1451359,51.4828239,DA17,DA17 5LE,"13 Bedwell Road, Belvedere, DA17 5LE",https://www.zoopla.co.uk/property/uprn/100020188149/
+1,3,1,75,Terraced,Freehold,344265,0.1482567,51.5495127,RM10,RM10 8PU,"16 Eastfield Road, Dagenham, RM10 8PU",https://www.zoopla.co.uk/property/uprn/100008430/
+1,1,1,52,Flat,Leasehold,369846,-0.2180991,51.5294456,NW10,NW10 5LT,"29B Pember Road, London, NW10 5LT",https://www.zoopla.co.uk/property/uprn/202058330/
+1,1,1,70,Flat,Leasehold,329637,-0.0004566,51.4415031,SE6,SE6 1UY,"Ground Floor Flat, 95 Ardgowan Road, London, SE6 1UY",https://www.zoopla.co.uk/property/uprn/100021926366/
+1,2,1,55,Flat,Leasehold,372789,-0.1318276,51.5396142,NW1,NW1 0XG,"85 Weavers Way, London, NW1 0XG",https://www.zoopla.co.uk/property/uprn/5040407/
+1,1,1,48,Flat,Leasehold,372789,-0.0923667,51.4826644,SE5,SE5 0DF,"Flat 33, Arments Court, 392 Albany Road, London, SE5 0DF",https://www.zoopla.co.uk/property/uprn/10090748980/
+1,2,1,79,Flat,Leasehold,343358,-0.183523,51.6088095,N3,N3 1LB,"Flat 21, Northumberland House, 237 Ballards Lane, London, N3 1LB",https://www.zoopla.co.uk/property/uprn/200006833/
+1,2,1,84,Terraced,Freehold,370697,-0.0807675,51.624866,N9,N9 9UG,"13 Lambs Terrace, Great Cambridge Road, London, N9 9UG",https://www.zoopla.co.uk/property/uprn/207168897/
+3,3,1,78,Terraced,Freehold,405437,0.0560731,51.5111193,E6,E6 5PU,"138 Savage Gardens, London, E6 5PU",https://www.zoopla.co.uk/property/uprn/46064320/
+1,2,1,86,Flat,Leasehold,1397760,-0.1445811,51.5114716,W1K,W1K 3PU,"Flat 6, Bloomfield Court, Bourdon Street, London, W1K 3PU",https://www.zoopla.co.uk/property/uprn/100022727635/
+2,3,1,106,Semi-Detached,Freehold,492226,0.0530731,51.3888602,BR2,BR2 8AF,"32 Parkfield Way, Bromley, BR2 8AF",https://www.zoopla.co.uk/property/uprn/100020409878/
+1,2,1,56,Flat,Leasehold,377811,-0.1971314,51.4170761,SW19,SW19 1NR,"3 Masboro Lodge, 2 Southey Road, London, SW19 1NR",https://www.zoopla.co.uk/property/uprn/48065549/
+1,1,1,56,Flat,Leasehold,382599,-0.1375167,51.4906943,SW1V,SW1V 2NB,"Flat 3, 82 Tachbrook Street, London, SW1V 2NB",https://www.zoopla.co.uk/property/uprn/100022809927/
+1,3,1,108,Terraced,Freehold,467611,0.0131708,51.5552632,E7,E7 9EP,"145 Ramsay Road, London, E7 9EP",https://www.zoopla.co.uk/property/uprn/100022579539/
+1,3,1,111,Semi-Detached,Freehold,374105,0.1522786,51.5384495,RM10,RM10 9QU,"73 Manning Road, Dagenham, RM10 9QU",https://www.zoopla.co.uk/property/uprn/100044428/
+1,2,1,65,Flat,Leasehold,382127,-0.1963056,51.562108,NW2,NW2 2HA,"Flat 5, Hermitage Court, Hermitage Lane, London, NW2 2HA",https://www.zoopla.co.uk/property/uprn/200059884/
+1,1,1,60,Flat,Leasehold,384429,-0.0318705,51.4675833,SE4,SE4 1TE,"Flat 2, 76 Manor Avenue, London, SE4 1TE",https://www.zoopla.co.uk/property/uprn/100021984217/
+1,2,1,92,Flat,Leasehold,387505,-0.2417332,51.5973248,NW9,NW9 5RH,"Flat 6 Hewlett Court, 13 Heath Parade, Grahame Park Way, London, NW9 5RH",https://www.zoopla.co.uk/property/uprn/10091039556/
+1,2,1,66,Flat,Leasehold,387505,-0.0052149,51.5160083,E14,E14 0XS,"Flat 22, Cityview Point, 139 Leven Road, London, E14 0XS",https://www.zoopla.co.uk/property/uprn/6721142/
+1,1,1,56,Flat,Freehold,332793,0.0980992,51.5610136,IG3,IG3 9TL,"325A Green Lane, Ilford, IG3 9TL",https://www.zoopla.co.uk/property/uprn/10034915199/
+1,1,1,59,Flat,Leasehold,385402,-0.0382117,51.4910339,SE8,SE8 5EP,"Flat 54, Oslo Tower, Naomi Street, London, SE8 5EP",https://www.zoopla.co.uk/property/uprn/10091633683/
+1,1,1,56,Flat,Leasehold,387349,-0.0378487,51.4906514,SE8,SE8 5EX,"Flat 125, Nyland Court, Naomi Street, London, SE8 5EX",https://www.zoopla.co.uk/property/uprn/10091634119/
+1,2,1,67,Flat,Leasehold,372789,-0.3356864,51.5128183,W7,W7 1LH,"37 Tennyson Road, London, W7 1LH",https://www.zoopla.co.uk/property/uprn/12059196/
+2,2,1,90,Flat,Leasehold,448626,-0.269018,51.6179526,HA8,HA8 9QS,"4 Bays Court, 245 Hale Lane, Edgware, HA8 9QS",https://www.zoopla.co.uk/property/uprn/200054899/
+2,2,1,78,Flat,Leasehold,497870,-0.2102964,51.5868732,NW11,NW11 9JU,"Flat 24, The Brookdales, Bridge Lane, London, NW11 9JU",https://www.zoopla.co.uk/property/uprn/200014677/
+1,1,1,53,Flat,Leasehold,362979,-0.1305906,51.4937945,SW1P,SW1P 4DQ,"Flat 43, Tothill House, Page Street, London, SW1P 4DQ",https://www.zoopla.co.uk/property/uprn/100022787313/
+2,3,2,79,Terraced,Freehold,598263,-0.3060605,51.4959921,W5,W5 4RL,"212 South Ealing Road, London, W5 4RL",https://www.zoopla.co.uk/property/uprn/12080005/
+1,3,1,90,Terraced,Freehold,368533,0.0723585,51.5511296,IG1,IG1 2HA,"27 Natal Road, Ilford, IG1 2HA",https://www.zoopla.co.uk/property/uprn/100022228680/
+1,2,1,81,Flat,Freehold,384156,-0.1499891,51.4921777,SW1W,SW1W 9QJ,"Flat 44, Semley House, Semley Place, London, SW1W 9QJ",https://www.zoopla.co.uk/property/uprn/100022800537/
+2,2,1,62,Flat,Leasehold,405475,-0.1979489,51.356379,SM2,SM2 6GE,"Flat 6, Holmeswood, 46 Worcester Road, Sutton, SM2 6GE",https://www.zoopla.co.uk/property/uprn/5870111563/
+1,3,1,92,Terraced,Freehold,387656,0.0562983,51.549083,E12,E12 6DP,"131 Fourth Avenue, London, E12 6DP",https://www.zoopla.co.uk/property/uprn/46027702/
+1,2,1,53,Flat,Freehold,328333,0.2341776,51.5636438,RM11,RM11 3AT,"75B Wingletye Lane, Hornchurch, RM11 3AT",https://www.zoopla.co.uk/property/uprn/100021345478/
+1,2,1,67,Flat,Leasehold,392410,-0.3414064,51.5231687,W7,W7 3AS,"1 Gifford Gardens, London, W7 3AS",https://www.zoopla.co.uk/property/uprn/12062739/
+1,2,1,72,Terraced,Freehold,388470,-0.415923,51.4431162,TW13,TW13 4JL,"59 Granville Avenue, Feltham, TW13 4JL",https://www.zoopla.co.uk/property/uprn/100021524085/
+1,1,1,70,Flat,Leasehold,416935,-0.1080183,51.4432619,SE24,SE24 9AZ,"Flat 1, 58 Romola Road, London, SE24 9AZ",https://www.zoopla.co.uk/property/uprn/100021885393/
+1,3,1,104,Terraced,Freehold,380528,-0.0841905,51.3974703,SE25,SE25 6PT,"212 Holmesdale Road, London, SE25 6PT",https://www.zoopla.co.uk/property/uprn/100020649138/
+1,3,2,113,Terraced,Freehold,396803,0.1467721,51.4872994,DA17,DA17 5BA,"84 Milton Road, Belvedere, DA17 5BA",https://www.zoopla.co.uk/property/uprn/100020191533/
+1,1,1,42,Flat,Feudal,376125,-0.0739885,51.5016555,SE1,SE1 2JW,"261 The Circle, Queen Elizabeth Street, London, SE1 2JW",https://www.zoopla.co.uk/property/uprn/200003359092/
+1,2,1,63,Flat,Leasehold,369831,-0.0841099,51.476075,SE5,SE5 7QF,"26 Gables Close, London, SE5 7QF",https://www.zoopla.co.uk/property/uprn/200003458644/
+2,2,1,79,Flat,Feudal,399781,0.2512808,51.5594545,RM14,RM14 1TW,"23 St Kathryns Place, Deyncourt Gardens, Upminster, RM14 1TW",https://www.zoopla.co.uk/property/uprn/100021406501/
+1,2,1,83,Flat,Leasehold,385543,-0.1674207,51.468432,SW11,SW11 2TT,"167 Este Road, London, SW11 2TT",https://www.zoopla.co.uk/property/uprn/100022639755/
+1,3,1,86,Flat,Leasehold,388809,0.0273004,51.6076532,IG8,IG8 0DH,"2 Hadleigh Lodge, Snakes Lane West, Woodford Green, IG8 0DH",https://www.zoopla.co.uk/property/uprn/10013586271/
+1,1,1,50,Flat,Feudal,399610,-0.3222991,51.5178793,W13,W13 8EL,"86D Argyle Road, London, W13 8EL",https://www.zoopla.co.uk/property/uprn/12168695/
+1,2,1,74,Terraced,Freehold,400340,0.0084827,51.4225461,BR1,BR1 4QX,"179 Rangefield Road, Bromley, BR1 4QX",https://www.zoopla.co.uk/property/uprn/10013151677/
+1,2,1,82,Terraced,Freehold,392235,-0.1665128,51.3861428,SM5,SM5 1JA,"546 Middleton Road, Carshalton, SM5 1JA",https://www.zoopla.co.uk/property/uprn/5870068189/
+1,2,1,86,Semi-Detached,Freehold,402395,0.108445,51.4039915,BR5,BR5 3DD,"14 Croxley Close, Orpington, BR5 3DD",https://www.zoopla.co.uk/property/uprn/100020455848/
+2,2,1,71,Terraced,Freehold,549517,-0.1371753,51.3713821,SM6,SM6 7AW,"9 Church Paddock Court, Wallington, SM6 7AW",https://www.zoopla.co.uk/property/uprn/5870110860/
+1,2,1,68,Terraced,Freehold,397795,-0.3771668,51.5492248,UB5,UB5 5TW,"1 Bluebell Close, Northolt, UB5 5TW",https://www.zoopla.co.uk/property/uprn/12145909/
+1,2,1,74,Terraced,Freehold,401188,-0.303188,51.367968,KT9,KT9 1AW,"70 Elm Road, Chessington, KT9 1AW",https://www.zoopla.co.uk/property/uprn/128028716/
+1,3,2,100,Terraced,Freehold,332322,0.0954898,51.5598012,IG3,IG3 9JW,"5 Cobham Road, Ilford, IG3 9JW",https://www.zoopla.co.uk/property/uprn/100022203675/
+1,2,1,73,Flat,Leasehold,402987,-0.2921858,51.3743191,KT6,KT6 7EY,"Flat 7, Colthurst House, 92 Tala Close, Surbiton, KT6 7EY",https://www.zoopla.co.uk/property/uprn/128046530/
+1,3,1,85,Flat,Leasehold,401271,-0.1602623,51.4165573,CR4,CR4 2AT,"10 Carlingford Gardens, Mitcham, CR4 2AT",https://www.zoopla.co.uk/property/uprn/48012720/
+1,1,1,66,Flat,Leasehold,400258,0.0273962,51.4992101,E16,E16 2SS,"32 Carrick House, 25 Royal Crest Avenue, London, E16 2SS",https://www.zoopla.co.uk/property/uprn/10093133478/
+1,1,1,32,Flat,Leasehold,402220,-0.0937408,51.5213757,EC2Y,EC2Y 8PQ,"93 Breton House, Breton Highwalk, London, EC2Y 8PQ",https://www.zoopla.co.uk/property/uprn/200000073149/
+1,2,1,56,Flat,Leasehold,672571,-0.1767874,51.48811,SW10,SW10 9QW,"Flat 35, 95 Elm Park Gardens, London, SW10 9QW",https://www.zoopla.co.uk/property/uprn/217028933/
+2,3,1,94,Terraced,Freehold,412095,-0.068414,51.3252143,CR2,CR2 9BR,"10 Peartree Close, South Croydon, CR2 9BR",https://www.zoopla.co.uk/property/uprn/100020683928/
+1,4,1,107,Flat,Leasehold,349087,-0.1424912,51.4260166,SW16,SW16 1TD,"2 Adams House, Fayland Avenue, London, SW16 1TD",https://www.zoopla.co.uk/property/uprn/100022641681/
+2,3,1,100,Semi-Detached,Freehold,416232,-0.2739382,51.5477076,HA9,HA9 6NU,"24 Grittleton Avenue, Wembley, HA9 6NU",https://www.zoopla.co.uk/property/uprn/202093154/
+1,2,1,72,Terraced,Freehold,406723,-0.1081675,51.328822,CR8,CR8 5NB,"30 Lower Road, Kenley, CR8 5NB",https://www.zoopla.co.uk/property/uprn/100020636012/
+1,1,1,59,Flat,Leasehold,409578,-0.0054795,51.5068229,E14,E14 9AY,"Apartment 404, Charrington Tower, 11 Biscayne Avenue, London, E14 9AY",https://www.zoopla.co.uk/property/uprn/6199521/
+1,3,1,115,Semi-Detached,Freehold,564101,-0.0665248,51.6210711,N9,N9 9BD,"109 Victoria Road, London, N9 9BD",https://www.zoopla.co.uk/property/uprn/207005013/
+1,3,1,101,Flat,Leasehold,412030,-0.1269028,51.5724486,N19,N19 3ST,"15 Bayon House, 1 New Orleans Walk, London, N19 3ST",https://www.zoopla.co.uk/property/uprn/5300066071/
+1,3,1,83,Terraced,Freehold,383301,0.0135602,51.5216057,E16,E16 4JS,"4 Florence Street, London, E16 4JS",https://www.zoopla.co.uk/property/uprn/46026555/
+1,3,2,83,Semi-Detached,Freehold,574592,-0.2618719,51.6237596,HA8,HA8 9TD,"70 Riverdene, Edgware, HA8 9TD",https://www.zoopla.co.uk/property/uprn/200098826/
+1,1,1,76,Flat,Leasehold,411680,-0.1607374,51.5450618,NW3,NW3 4SB,"Flat 5, Waverley Court, 41–43 Steele's Road, London, NW3 4SB",https://www.zoopla.co.uk/property/uprn/5084459/
+1,2,1,47,Flat,Leasehold,412123,-0.1310798,51.4666714,SW4,SW4 6LL,"Flat B, 59 Gauden Road, London, SW4 6LL",https://www.zoopla.co.uk/property/uprn/100021842322/
+1,1,1,50,Flat,Leasehold,416935,-0.0269375,51.5425736,E9,E9 5SZ,"Flat 503, 2 White Post Lane, London, E9 5SZ",https://www.zoopla.co.uk/property/uprn/6722076/
+1,2,2,100,Terraced,Freehold,436114,-0.000443,51.4536792,SE13,SE13 5LR,"45 Longhurst Road, London, SE13 5LR",https://www.zoopla.co.uk/property/uprn/100021981685/
+1,2,1,55,Flat,Leasehold,418492,-0.0994423,51.5589135,N5,N5 1EJ,"35 Twyford House, Elwood Street, London, N5 1EJ",https://www.zoopla.co.uk/property/uprn/5300052050/
+1,3,1,124,Terraced,Freehold,379220,0.0886188,51.5360931,IG11,IG11 7QL,"42 Essex Road, Barking, IG11 7QL",https://www.zoopla.co.uk/property/uprn/100040803/
+2,2,1,86,Flat,Leasehold,402220,0.0504477,51.4857589,SE18,SE18 4AL,"Flat 1, 60 Hillreach, London, SE18 4AL",https://www.zoopla.co.uk/property/uprn/10010248631/
+1,1,1,55,Flat,Leasehold,399028,-0.2640764,51.4914577,W4,W4 4LP,"19 Heathfield Court, Heathfield Terrace, London, W4 4LP",https://www.zoopla.co.uk/property/uprn/100021586259/
+1,1,1,50,Flat,Leasehold,412030,-0.0870274,51.564269,N16,N16 0HL,"8 Queen Elizabeths Close, London, N16 0HL",https://www.zoopla.co.uk/property/uprn/100021067191/
+1,4,1,139,Terraced,Freehold,421603,0.1899432,51.54975,RM12,RM12 4BA,"44 Carfax Road, Hornchurch, RM12 4BA",https://www.zoopla.co.uk/property/uprn/100021325081/
+1,1,1,54,Flat,Leasehold,407125,-0.2186281,51.4937439,W6,W6 7LH,"357 Latymer Court, Hammersmith Road, London, W6 7LH",https://www.zoopla.co.uk/property/uprn/34027861/
+1,2,1,53,Terraced,Leasehold,431651,-0.0049892,51.566176,E10,E10 6NF,"77A Claude Road, London, E10 6NF",https://www.zoopla.co.uk/property/uprn/100022532427/
+1,2,1,48,Flat,Leasehold,399028,-0.1322152,51.5393056,NW1,NW1 0XG,"147 Weavers Way, London, NW1 0XG",https://www.zoopla.co.uk/property/uprn/5064518/
+1,3,1,94,Terraced,Freehold,377965,0.0613667,51.4614128,SE9,SE9 1RN,"642 Rochester Way, London, SE9 1RN",https://www.zoopla.co.uk/property/uprn/100022830355/
+1,2,2,82,Semi-Detached,Freehold,403695,0.2258674,51.5628364,RM11,RM11 3SB,"87 Westland Avenue, Hornchurch, RM11 3SB",https://www.zoopla.co.uk/property/uprn/100021345086/
+1,3,1,95,Terraced,Freehold,414226,-0.5288814,51.5729508,UB9,UB9 4HS,"50 Skylark Road, Denham, Uxbridge, UB9 4HS",https://www.zoopla.co.uk/property/uprn/100080497879/
+1,2,1,69,Flat,Leasehold,392410,-0.0868791,51.4690879,SE5,SE5 8SL,"Flat 12, Hull Court, Grove Lane, London, SE5 8SL",https://www.zoopla.co.uk/property/uprn/200003463003/
+1,2,2,104,Terraced,Freehold,445073,-0.0730861,51.6176,N18,N18 1RR,"67 Warwick Road, London, N18 1RR",https://www.zoopla.co.uk/property/uprn/207054339/
+1,3,2,96,Terraced,Freehold,382412,-0.1789223,51.3671548,SM1,SM1 3RD,"25 Cowper Avenue, Sutton, SM1 3RD",https://www.zoopla.co.uk/property/uprn/5870047594/
+1,2,1,66,Flat,Leasehold,413309,-0.2271654,51.5165167,W12,W12 0HL,"14 Cavell House, 243 Wood Lane, London, W12 0HL",https://www.zoopla.co.uk/property/uprn/34141865/
+1,1,1,64,Flat,Leasehold,417916,-0.1970798,51.5553199,NW6,NW6 1DF,"Flat 109, Alfred Court, 53 Fortune Green Road, London, NW6 1DF",https://www.zoopla.co.uk/property/uprn/5155193/
+1,1,1,55,Flat,Leasehold,778002,-0.1717952,51.5430045,NW3,NW3 3NT,"Flat 40, Melrose Apartments, 6 Winchester Road, London, NW3 3NT",https://www.zoopla.co.uk/property/uprn/5155875/
+1,3,1,85,Semi-Detached,Freehold,424897,-0.1154988,51.3814312,CR0,CR0 3NY,"35 Onslow Road, Croydon, CR0 3NY",https://www.zoopla.co.uk/property/uprn/100020615784/
+1,3,2,94,Terraced,Freehold,420950,-0.0833972,51.3851554,CR0,CR0 6DY,"50 Edward Road, Croydon, CR0 6DY",https://www.zoopla.co.uk/property/uprn/100020597355/
+2,2,1,75,Flat,Leasehold,405917,0.0126227,51.5122856,E16,E16 1FH,"Flat 301, Jupiter House, 2 Turner Street, London, E16 1FH",https://www.zoopla.co.uk/property/uprn/10023995979/
+1,2,1,80,Flat,Shared,420092,-0.3097497,51.3871994,KT6,KT6 6NG,"36 Marlborough Gardens, 24 Lovelace Road, Surbiton, KT6 6NG",https://www.zoopla.co.uk/property/uprn/128012268/
+1,2,2,93,Flat,Leasehold,426746,-0.0856491,51.5384099,N1,N1 5EY,"5 Balmes Road, London, N1 5EY",https://www.zoopla.co.uk/property/uprn/10008334169/
+1,3,1,89,Terraced,Freehold,391984,-0.0307454,51.6596385,EN3,EN3 5HZ,"48 Brimsdown Avenue, Enfield, EN3 5HZ",https://www.zoopla.co.uk/property/uprn/207138963/
+1,2,1,82,Flat,Leasehold,409087,-0.032422,51.5126199,E14,E14 7LE,"Flat 104, Mission Building, 747 Commercial Road, London, E14 7LE",https://www.zoopla.co.uk/property/uprn/6047431/
+1,2,1,71,Semi-Detached,Freehold,441306,0.1004718,51.4565009,DA16,DA16 2HW,"190 Westwood Lane, Welling, DA16 2HW",https://www.zoopla.co.uk/property/uprn/100020277189/
+1,1,1,54,Flat,Leasehold,420822,-0.3408345,51.4436394,TW2,TW2 5TP,"Flat 15, Gifford Lodge, 25 Popes Avenue, Twickenham, TW2 5TP",https://www.zoopla.co.uk/property/uprn/10024347573/
+1,2,1,83,Flat,Leasehold,447690,-0.0785972,51.5743017,N16,N16 5JT,"Flat 13, Parklea Court, 86 Durley Road, London, N16 5JT",https://www.zoopla.co.uk/property/uprn/100021038076/
+1,2,2,82,Semi-Detached,Freehold,455496,0.0486485,51.4705927,SE18,SE18 4NE,"56 Barlow Drive, London, SE18 4NE",https://www.zoopla.co.uk/property/uprn/200001929484/
+1,3,2,91,Terraced,Freehold,390654,-0.0657893,51.6502131,EN1,EN1 1QS,"1 Percival Road, Enfield, EN1 1QS",https://www.zoopla.co.uk/property/uprn/207161461/
+2,4,1,150,Terraced,Leasehold,428687,-0.1707672,51.3601842,SM5,SM5 3SB,"14 Bankside Close, Carshalton, SM5 3SB",https://www.zoopla.co.uk/property/uprn/5870061289/
+1,2,1,89,Flat,Leasehold,447374,-0.0283554,51.4124878,BR3,BR3 1NB,"Flat 8, Camellia Court, 18 Copers Cope Road, Beckenham, BR3 1NB",https://www.zoopla.co.uk/property/uprn/100022893684/
+1,1,1,46,Flat,Freehold,437957,-0.3076529,51.5136673,W5,W5 2BE,"Flat 44, Belgravia House Dickens Yard, Longfield Avenue, London, W5 2BE",https://www.zoopla.co.uk/property/uprn/12174295/
+2,4,3,157,Terraced,Freehold,376556,0.101085,51.5597461,IG3,IG3 9TY,"34 Oakwood Gardens, Ilford, IG3 9TY",https://www.zoopla.co.uk/property/uprn/100022230570/
+1,1,1,77,Flat,Leasehold,441461,-0.088781,51.5715777,N4,N4 2GR,"Flat 91, City View Apartments, Devan Grove, London, N4 2GR",https://www.zoopla.co.uk/property/uprn/10008335672/
+2,4,1,82,Terraced,Freehold,414477,0.1546042,51.5547202,RM10,RM10 7NU,"80 Bosworth Road, Dagenham, RM10 7NU",https://www.zoopla.co.uk/property/uprn/100003219/
+2,2,1,78,Flat,Leasehold,441461,-0.0783317,51.5860775,N15,N15 4FA,"64 Butterfly Court, Bathurst Square, London, N15 4FA",https://www.zoopla.co.uk/property/uprn/10090479767/
+2,2,1,86,Flat,Leasehold,441461,-0.0565155,51.5899084,N17,N17 9GP,"Flat 38, Lapwing Heights, Waterside Way, London, N17 9GP",https://www.zoopla.co.uk/property/uprn/10090480126/
+1,1,1,52,Flat,Leasehold,441461,-0.0157528,51.4972398,E14,E14 9FG,"Apartment 952, 12 Baltimore Wharf, London, E14 9FG",https://www.zoopla.co.uk/property/uprn/6163562/
+1,2,1,67,Detached,Freehold,431277,-0.3328958,51.4708223,TW7,TW7 6SA,"12 Pankhurst Close, Isleworth, TW7 6SA",https://www.zoopla.co.uk/property/uprn/100021571884/
+1,3,1,58,Terraced,Freehold,438410,-0.187306,51.3931389,SM4,SM4 6JE,"177 St Helier Avenue, Morden, SM4 6JE",https://www.zoopla.co.uk/property/uprn/48062476/
+2,3,1,98,Flat,Leasehold,451091,-0.1874383,51.356984,SM2,SM2 5FT,"Flat 1, 27 Cavendish Road, Sutton, SM2 5FT",https://www.zoopla.co.uk/property/uprn/5870125372/
+1,3,1,91,Flat,Leasehold,450003,-0.178609,51.4651532,SW11,SW11 2BA,"55 Wallis Close, London, SW11 2BA",https://www.zoopla.co.uk/property/uprn/100022710273/
+1,3,1,90,Terraced,Freehold,441885,0.0832198,51.3769613,BR6,BR6 8BA,"64 Allington Road, Orpington, BR6 8BA",https://www.zoopla.co.uk/property/uprn/100020446658/
+1,2,1,73,Flat,Leasehold,424293,-0.027591,51.5713781,E17,E17 8EQ,"28 Harris Street, London, E17 8EQ",https://www.zoopla.co.uk/property/uprn/100022551635/
+2,3,1,90,Semi-Detached,Freehold,440102,0.0888769,51.5006012,SE28,SE28 0JD,"11 Delisle Road, London, SE28 0JD",https://www.zoopla.co.uk/property/uprn/10010203541/
+1,3,2,77,Terraced,Freehold,436483,0.225615,51.5830382,RM11,RM11 2NP,"50 Primrose Glen, Hornchurch, RM11 2NP",https://www.zoopla.co.uk/property/uprn/100021338809/
+1,4,1,75,Flat,Leasehold,519735,-0.1967679,51.4690668,SW6,SW6 3DB,"72 Sulivan Court, London, SW6 3DB",https://www.zoopla.co.uk/property/uprn/34064000/
+1,3,2,95,Terraced,Freehold,440374,0.0126063,51.3995345,BR2,BR2 0QP,"36 Aylesbury Road, Bromley, BR2 0QP",https://www.zoopla.co.uk/property/uprn/100020389404/
+1,3,1,104,Terraced,Freehold,439403,-0.0456664,51.4064916,BR3,BR3 4QR,"62 Churchfields Road, Beckenham, BR3 4QR",https://www.zoopla.co.uk/property/uprn/100020373887/
+1,2,1,82,Flat,Leasehold,400748,-0.1081296,51.4990548,SE1,SE1 7QH,"Flat 18, Jurston Court, Gerridge Street, London, SE1 7QH",https://www.zoopla.co.uk/property/uprn/200003375161/
+2,3,2,106,Terraced,Freehold,431268,0.0573841,51.5491719,E12,E12 6DF,"17 Harcourt Avenue, London, E12 6DF",https://www.zoopla.co.uk/property/uprn/46034554/
+1,3,1,90,Semi-Detached,Freehold,421247,0.1251101,51.4312991,DA14,DA14 4RN,"99 Maylands Drive, Sidcup, DA14 4RN",https://www.zoopla.co.uk/property/uprn/100020256592/
+1,2,1,63,Bungalow Property,Freehold,401188,0.139106,51.4789322,DA17,DA17 5NY,"302 Bedonwell Road, Belvedere, DA17 5NY",https://www.zoopla.co.uk/property/uprn/100020188069/
+1,2,1,84,Flat,Leasehold,434377,-0.3036164,51.4228655,KT2,KT2 5DF,"Flat 9, Albany Court, Richmond Road, Kingston upon Thames, KT2 5DF",https://www.zoopla.co.uk/property/uprn/100021767000/
+1,2,1,75,Flat,Leasehold,403201,-0.0539499,51.5221785,E1,E1 4HQ,"13 Wyllen Close, London, E1 4HQ",https://www.zoopla.co.uk/property/uprn/6034477/
+1,2,1,91,Flat,Leasehold,448626,-0.3806648,51.6013756,HA5,HA5 3DD,"29 Barrowdene Close, Pinner, HA5 3DD",https://www.zoopla.co.uk/property/uprn/100021298225/
+1,3,1,90,Semi-Detached,Freehold,347711,-0.3589128,51.6071343,HA3,HA3 6PQ,"299 Headstone Lane, Harrow, HA3 6PQ",https://www.zoopla.co.uk/property/uprn/100021268484/
+1,1,1,63,Flat,Leasehold,417916,-0.1468525,51.4529741,SW4,SW4 9DX,"Flat 307, 130 Clapham Common South Side, London, SW4 9DX",https://www.zoopla.co.uk/property/uprn/10008787251/
+1,2,1,71,Flat,Leasehold,370589,-0.0562491,51.4725946,SE15,SE15 2HL,"Flat 13, 9 Evan Cook Close, London, SE15 2HL",https://www.zoopla.co.uk/property/uprn/10009807921/
+1,2,1,74,Semi-Detached,Freehold,276646,-0.1105024,51.3170696,CR8,CR8 5LP,"21 Steyning Close, Kenley, CR8 5LP",https://www.zoopla.co.uk/property/uprn/100020636555/
+1,2,1,83,Flat,Leasehold,452315,-0.5009353,51.5854913,UB9,UB9 5NP,"7 Oberon Court, Patrons Way East, Denham Garden Village, Uxbridge, UB9 5NP",https://www.zoopla.co.uk/property/uprn/10003446768/
+1,1,1,50,Flat,Leasehold,442823,-0.0670358,51.5658293,N16,N16 6BB,"Flat 2, 89 Cazenove Road, Hackney, London, N16 6BB",https://www.zoopla.co.uk/property/uprn/100021030391/
+1,1,1,88,Flat,Leasehold,446366,-0.0309515,51.5079549,E14,E14 8AY,"Flat 105, Dundee Wharf, 100 Three Colt Street, London, E14 8AY",https://www.zoopla.co.uk/property/uprn/6042007/
+1,2,1,66,Flat,Freehold,432092,-0.1722991,51.4216288,SW17,SW17 9DL,"67D Robinson Road, London, SW17 9DL",https://www.zoopla.co.uk/property/uprn/10094252887/
+1,3,1,107,Terraced,Freehold,455563,-0.0308239,51.3593728,CR0,CR0 5AU,"17 Boundary Way, Croydon, CR0 5AU",https://www.zoopla.co.uk/property/uprn/100020585350/
+1,2,1,89,Flat,Leasehold,479848,-0.2039694,51.6520986,EN5,EN5 2JG,"5 Abingdon Lodge, 37 Manor Road, Barnet, EN5 2JG",https://www.zoopla.co.uk/property/uprn/200078128/
+1,3,1,112,Terraced,Freehold,445805,-0.069039,51.4124638,SE20,SE20 8BB,"2 Rowan Terrace, Sycamore Grove, London, SE20 8BB",https://www.zoopla.co.uk/property/uprn/10003619408/
+1,2,1,79,Flat,Leasehold,438657,-0.5008827,51.5864629,UB9,UB9 5PP,"12 Chairmans Walk, Denham Garden Village, Uxbridge, UB9 5PP",https://www.zoopla.co.uk/property/uprn/10003447867/
+2,3,1,98,Semi-Detached,Freehold,424212,0.1172279,51.5379631,RM9,RM9 4TA,"185 Woodward Road, Dagenham, RM9 4TA",https://www.zoopla.co.uk/property/uprn/100052199/
+1,2,1,67,Flat,Leasehold,389829,-0.1275652,51.5524598,N7,N7 0JZ,"11 Ivinghoe House, Hilldrop Road, London, N7 0JZ",https://www.zoopla.co.uk/property/uprn/5300046902/
+2,3,2,102,Terraced,Freehold,461745,0.1274795,51.5781373,RM6,RM6 5AR,"169 Havering Gardens, Romford, RM6 5AR",https://www.zoopla.co.uk/property/uprn/100022264500/
+1,1,1,49,Flat,Leasehold,456176,-0.1003588,51.5417616,N1,N1 2DH,"13 Whiston House, 71 Halton Road, London, N1 2DH",https://www.zoopla.co.uk/property/uprn/5300039471/
+1,2,1,78,Flat,Leasehold,456176,-0.0254076,51.5901445,E17,E17 5LD,"409 Forest Road, London, E17 5LD",https://www.zoopla.co.uk/property/uprn/100022543665/
+1,3,1,122,Terraced,Freehold,563689,-0.0173627,51.4618171,SE13,SE13 7JX,"9 Ellerdale Street, London, SE13 7JX",https://www.zoopla.co.uk/property/uprn/100021955561/
+1,2,1,89,Flat,Leasehold,470920,0.0787784,51.4108889,BR7,BR7 6FA,"Flat 5, Faulkner House, St Pauls Cray Road, Chislehurst, BR7 6FA",https://www.zoopla.co.uk/property/uprn/10070014781/
+2,2,1,62,Flat,Leasehold,465987,-0.113016,51.4850509,SE11,SE11 5SE,"38 Kilner House, Clayton Street, London, SE11 5SE",https://www.zoopla.co.uk/property/uprn/100021826101/
+1,1,1,55,Flat,Leasehold,461081,-0.1389331,51.5672715,N19,N19 5NG,"Flat 8, 1 Gordon Close, London, N19 5NG",https://www.zoopla.co.uk/property/uprn/10093112500/
+1,2,1,76,Flat,Leasehold,461081,0.000361,51.5092234,E14,E14 2DQ,"Flat 45, Sail Court, 15 Newport Avenue, London, E14 2DQ",https://www.zoopla.co.uk/property/uprn/6137980/
+1,2,1,58,Flat,Leasehold,461081,-0.1172709,51.4593094,SW2,SW2 1EG,"Flat 22, Somerset Place, 10 Brixton Hill, London, SW2 1EG",https://www.zoopla.co.uk/property/uprn/10093379002/
+1,3,1,42,Flat,Leasehold,458629,-0.1061522,51.4904528,SE11,SE11 4HP,"6 Adam Court, Opal Street, London, SE11 4HP",https://www.zoopla.co.uk/property/uprn/100021877655/
+1,2,1,59,Flat,Freehold,306094,-0.1990305,51.5413574,NW6,NW6 7RB,"Lower Ground Floor Flat, Sussex House, 7 Willesden Lane, London, NW6 7RB",https://www.zoopla.co.uk/property/uprn/202040169/
+1,2,1,78,Flat,Leasehold,510231,-0.1001196,51.4699159,SE5,SE5 9EB,"Flat 5, 131 Lilford Road, London, SE5 9EB",https://www.zoopla.co.uk/property/uprn/10093378832/
+2,3,1,94,Detached,Freehold,457415,0.0857528,51.500051,SE28,SE28 0HL,"42 Warepoint Drive, London, SE28 0HL",https://www.zoopla.co.uk/property/uprn/100021014060/
+1,3,2,98,Terraced,Freehold,536311,-0.0899823,51.3768006,CR0,CR0 6UG,"21 Cedar Road, Croydon, CR0 6UG",https://www.zoopla.co.uk/property/uprn/100020588710/
+2,2,1,65,Flat,Freehold,456176,-0.052304,51.5195026,E1,E1 3AQ,"11 Redmans Road, London, E1 3AQ",https://www.zoopla.co.uk/property/uprn/6170252/
+1,2,2,85,Terraced,Freehold,525032,-0.0608558,51.5981634,N17,N17 9UY,"20 Tilson Road, London, N17 9UY",https://www.zoopla.co.uk/property/uprn/100021230855/
+2,2,1,82,Flat,Leasehold,470892,-0.0378271,51.5069101,SE16,SE16 5XJ,"37 William Square, London, SE16 5XJ",https://www.zoopla.co.uk/property/uprn/200003412820/
+1,2,1,92,Semi-Detached,Freehold,476410,0.2242493,51.5524059,RM12,RM12 6AP,"16 Central Drive, Hornchurch, RM12 6AP",https://www.zoopla.co.uk/property/uprn/100021325513/
+1,2,1,72,Semi-Detached,Freehold,479211,-0.1847326,51.3946008,SM4,SM4 6DW,"26A Leonard Avenue, Morden, SM4 6DW",https://www.zoopla.co.uk/property/uprn/48042324/
+1,2,1,104,Flat,Leasehold,510842,-0.1805172,51.648871,EN5,EN5 1QY,"12 Barnes Court, 66–72 Station Road, New Barnet, Barnet, EN5 1QY",https://www.zoopla.co.uk/property/uprn/200107475/
+1,2,1,74,Flat,Leasehold,477268,-0.0220298,51.5967869,E17,E17 5AZ,"59 Brettenham Road, London, E17 5AZ",https://www.zoopla.co.uk/property/uprn/100022522625/
+1,1,1,51,Flat,Leasehold,431651,-0.0981719,51.5184711,EC1A,EC1A 7ES,"Flat 31, 28 Bartholomew Close, London, EC1A 7ES",https://www.zoopla.co.uk/property/uprn/100020000062/
+1,2,1,98,Flat,Leasehold,436878,-0.1562559,51.4417824,SW17,SW17 7JS,"Flat H25, Du Cane Court, Balham High Road, London, SW17 7JS",https://www.zoopla.co.uk/property/uprn/121019747/
+1,3,1,74,Terraced,Freehold,466243,-0.2405818,51.3817838,KT4,KT4 8BD,"101 Longfellow Road, Worcester Park, KT4 8BD",https://www.zoopla.co.uk/property/uprn/5870006444/
+2,3,2,106,Flat,Leasehold,360098,-0.1718671,51.4659745,SW11,SW11 2NJ,"3 Kite House, 50 Meyrick Road, London, SW11 2NJ",https://www.zoopla.co.uk/property/uprn/100022671800/
+1,1,1,72,Flat,Feudal,467154,-0.0254184,51.5022773,E14,E14 9AL,"Flat 2304, Landmark West Tower, 22 Marsh Wall, London, E14 9AL",https://www.zoopla.co.uk/property/uprn/6166426/
+1,2,1,71,Flat,Freehold,468099,-0.1722991,51.4216288,SW17,SW17 9DL,"67C Robinson Road, London, SW17 9DL",https://www.zoopla.co.uk/property/uprn/10094252886/
+1,2,1,69,Flat,Leasehold,470892,-0.0990919,51.4902855,SE17,SE17 3BU,"606, 83 Crampton Street, London, SE17 3BU",https://www.zoopla.co.uk/property/uprn/10013526542/
+1,2,1,69,Flat,Leasehold,472363,-0.1865521,51.4572637,SW18,SW18 2QD,"Flat 3, Nell Lodge, 89 East Hill, London, SW18 2QD",https://www.zoopla.co.uk/property/uprn/10090499547/
+1,1,1,60,Flat,Leasehold,475797,-0.1683414,51.5166111,W2,W2 2PJ,"198 Quadrangle Tower, Cambridge Square, London, W2 2PJ",https://www.zoopla.co.uk/property/uprn/100022730995/
+1,1,1,52,Flat,Leasehold,426746,-0.1751409,51.4874999,SW10,SW10 9PB,"Flat 2, 68 Elm Park Gardens, London, SW10 9PB",https://www.zoopla.co.uk/property/uprn/217029131/
+2,2,1,79,Flat,Leasehold,437957,-0.2706132,51.5125428,W3,W3 9HS,"33 Grasgarth Close, London, W3 9HS",https://www.zoopla.co.uk/property/uprn/12147714/
+2,3,1,70,Flat,Leasehold,543336,-0.3603833,51.6088095,HA5,HA5 4DS,"Flat 1, St Catharines Court, 106 Uxbridge Road, Pinner, HA5 4DS",https://www.zoopla.co.uk/property/uprn/10095546427/
+1,2,1,68,Flat,Leasehold,495981,0.061423,51.4106019,BR7,BR7 5HF,"Flat 6, Mountfield, 70 Camden Park Road, Chislehurst, BR7 5HF",https://www.zoopla.co.uk/property/uprn/100022900818/
+2,2,1,75,Flat,Leasehold,451271,-0.0316882,51.5236306,E3,E3 4TX,"Flat 19, Blackett Apartments, 1 Rushton Walk, London, E3 4TX",https://www.zoopla.co.uk/property/uprn/6178483/
+1,1,1,53,Flat,Leasehold,480702,-0.2010664,51.508026,W11,W11 3RL,"Flat 5, Linton House, 11 Holland Park Avenue, London, W11 3RL",https://www.zoopla.co.uk/property/uprn/217038899/
+1,3,1,91,Terraced,Freehold,471203,-0.4813839,51.5510524,UB8,UB8 1XT,"50 Pages Lane, Uxbridge, UB8 1XT",https://www.zoopla.co.uk/property/uprn/100021490852/
+1,3,1,85,Flat,Leasehold,485607,-0.0781309,51.5326314,N1,N1 6RN,"Flat 8, John Parry Court, Hare Walk, London, N1 6RN",https://www.zoopla.co.uk/property/uprn/100023136204/
+1,1,2,49,Flat,Leasehold,476887,-0.0724573,51.5153982,E1,E1 7AP,"Apartment 1314, Crawford Building, 112 Whitechapel High Street, London, E1 7AP",https://www.zoopla.co.uk/property/uprn/6192579/
+1,2,1,78,Flat,Leasehold,455328,-0.0657403,51.5729032,N16,N16 6BP,"25 Craven Close, Craven Walk, London, N16 6BP",https://www.zoopla.co.uk/property/uprn/100021034839/
+2,2,1,55,Flat,Leasehold,490463,-0.2170755,51.5676151,NW2,NW2 1FA,"Flat 13, Langhorne House, 5 Swannell Way, London, NW2 1FA",https://www.zoopla.co.uk/property/uprn/10093298132/
+1,2,1,77,Detached,Freehold,477783,-0.0087516,51.6187825,E4,E4 9TA,"31 Suffield Road, London, E4 9TA",https://www.zoopla.co.uk/property/uprn/100022588242/
+2,1,1,74,Flat,Leasehold,484174,-0.1036996,51.5574897,N5,N5 1FG,"39 Weststand Apartments, Highbury Stadium Square, London, N5 1FG",https://www.zoopla.co.uk/property/uprn/10023218315/
+1,3,1,120,Flat,Leasehold,1288835,-0.1091686,51.5198898,EC1N,EC1N 7SQ,"Flat 2, 32 Leather Lane, London, EC1N 7SQ",https://www.zoopla.co.uk/property/uprn/5138662/
+2,2,1,58,Flat,Leasehold,465005,-0.2654807,51.5023505,W4,W4 5LB,"199A Southfield Road, London, W4 5LB",https://www.zoopla.co.uk/property/uprn/12133163/
+1,3,1,101,Terraced,Freehold,484571,0.0964049,51.473921,SE18,SE18 2DP,"5 Combeside, London, SE18 2DP",https://www.zoopla.co.uk/property/uprn/100020952499/
+1,3,1,89,Terraced,Freehold,644479,-0.2395293,51.5076203,W12,W12 0PH,"39 Galloway Road, London, W12 0PH",https://www.zoopla.co.uk/property/uprn/34015073/
+1,3,1,96,Terraced,Freehold,503385,-0.1384428,51.4056375,SW16,SW16 5JL,"64 Rowan Road, London, SW16 5JL",https://www.zoopla.co.uk/property/uprn/48061301/
+3,3,1,97,Semi-Detached,Freehold,526559,-0.1609784,51.3262716,CR5,CR5 2QU,"37 Richland Avenue, Coulsdon, CR5 2QU",https://www.zoopla.co.uk/property/uprn/5870074106/
+1,3,1,91,Terraced,Freehold,504438,0.0459776,51.5456933,E12,E12 6TU,"281 Monega Road, London, E12 6TU",https://www.zoopla.co.uk/property/uprn/46051356/
+3,3,1,105,Terraced,Freehold,480960,-0.1695758,51.3724139,SM5,SM5 2RF,"5 Highgrove Mews, Carshalton, SM5 2RF",https://www.zoopla.co.uk/property/uprn/5870067103/
+1,3,1,72,Flat,Leasehold,480702,-0.0523592,51.5395167,E9,E9 7QG,"Flat 21, Grendon House, Shore Place, London, E9 7QG",https://www.zoopla.co.uk/property/uprn/100023024057/
+1,3,1,97,Terraced,Freehold,486083,-0.0485801,51.4052631,BR3,BR3 4NT,"8 Clement Road, Beckenham, BR3 4NT",https://www.zoopla.co.uk/property/uprn/100020374031/
+1,3,2,110,Terraced,Freehold,459441,-0.2599366,51.3405091,KT17,KT17 1LR,"86 Farriers Road, Epsom, KT17 1LR",https://www.zoopla.co.uk/property/uprn/100061355276/
+2,2,2,100,Terraced,Freehold,477217,-0.2656529,51.3560608,KT19,KT19 9QT,"72 Heatherside Road, Epsom, KT19 9QT",https://www.zoopla.co.uk/property/uprn/100061356959/
+2,2,1,83,Terraced,Freehold,486787,-0.1953561,51.3850888,SM4,SM4 6LX,"71 Garendon Road, Morden, SM4 6LX",https://www.zoopla.co.uk/property/uprn/5870041723/
+1,3,1,96,Semi-Detached,Freehold,469442,0.0057543,51.6214582,E4,E4 6LB,"63 Connington Crescent, London, E4 6LB",https://www.zoopla.co.uk/property/uprn/100022534484/
+1,1,1,62,Flat,Leasehold,488060,-0.0934022,51.5303276,N1,N1 7GL,"Flat 2, Maldon Apartments, Micawber Street, London, N1 7GL",https://www.zoopla.co.uk/property/uprn/10008334102/
+1,1,1,66,Flat,Leasehold,506208,-0.0738233,51.545724,E8,E8 3BQ,"Flat 58, Gaumont Tower, Dalston Square, London, E8 3BQ",https://www.zoopla.co.uk/property/uprn/10008322016/
+2,3,1,102,Terraced,Freehold,447056,-0.0726803,51.6527004,EN1,EN1 3AL,"7 Ladysmith Road, Enfield, EN1 3AL",https://www.zoopla.co.uk/property/uprn/207137767/
+2,3,2,126,Terraced,Freehold,444210,-0.0637963,51.6118626,N18,N18 2RF,"5 Hester Road, London, N18 2RF",https://www.zoopla.co.uk/property/uprn/207051357/
+1,2,1,109,Flat,Leasehold,533072,-0.1811004,51.6492297,EN5,EN5 1QY,"47 Barnes Court, 66–72 Station Road, New Barnet, Barnet, EN5 1QY",https://www.zoopla.co.uk/property/uprn/200107512/
+1,3,1,105,Flat,Leasehold,496352,-0.0095495,51.4994098,E14,E14 3NY,"Flat 13, Queen of the Isle Apartments, 1 East Ferry Road, London, E14 3NY",https://www.zoopla.co.uk/property/uprn/6210509/
+2,2,2,80,Terraced,Freehold,494262,-0.1025604,51.5945834,N22,N22 6QD,"20 Hewitt Avenue, London, N22 6QD",https://www.zoopla.co.uk/property/uprn/100021188761/
+1,3,2,115,Terraced,Freehold,496131,-0.2895886,51.5330541,NW10,NW10 7EB,"7 Huxley Gardens, London, NW10 7EB",https://www.zoopla.co.uk/property/uprn/12093104/
+1,3,1,148,Terraced,Freehold,499021,0.0404827,51.5469852,E7,E7 8AL,"40 Shrewsbury Road, London, E7 8AL",https://www.zoopla.co.uk/property/uprn/46066768/
+1,2,1,76,Flat,Leasehold,510133,-0.069902,51.5538313,N16,N16 7TU,"Flat 5, Barnard House, 10A Shacklewell Road, London, N16 7TU",https://www.zoopla.co.uk/property/uprn/10008327520/
+1,2,2,85,Semi-Detached,Freehold,515844,-0.0453065,51.4078525,BR3,BR3 4QP,"26 Blandford Avenue, Beckenham, BR3 4QP",https://www.zoopla.co.uk/property/uprn/100020371793/
+1,2,1,54,Flat,Leasehold,510950,-0.1885994,51.450272,SW18,SW18 2BW,"13A Treport Street, London, SW18 2BW",https://www.zoopla.co.uk/property/uprn/100022704586/
+1,3,2,110,Detached,Freehold,513452,-0.2847497,51.5237032,W5,W5 3HB,"67 Corringway, London, W5 3HB",https://www.zoopla.co.uk/property/uprn/12096617/
+1,3,1,87,Terraced,Freehold,404462,-0.2437238,51.3973164,KT3,KT3 6EX,"25 Byron Avenue, New Malden, KT3 6EX",https://www.zoopla.co.uk/property/uprn/48010502/
+1,3,1,93,Terraced,Freehold,516169,-0.2130335,51.3658906,SM1,SM1 2LL,"32 Alberta Avenue, Cheam, Sutton, SM1 2LL",https://www.zoopla.co.uk/property/uprn/5870020716/
+1,3,1,75,Flat,Leasehold,470892,-0.1404453,51.5500117,NW5,NW5 2AA,"Flat 3, 268 Kentish Town Road, London, NW5 2AA",https://www.zoopla.co.uk/property/uprn/5039905/
+2,3,1,102,Flat,Leasehold,486619,-0.0484294,51.5508182,E9,E9 6EY,"18 Ambleside Close, London, E9 6EY",https://www.zoopla.co.uk/property/uprn/10008233834/
+1,2,1,77,Detached,Freehold,539743,-0.4430337,51.5337068,UB10,UB10 0QD,"95 Pole Hill Road, Uxbridge, UB10 0QD",https://www.zoopla.co.uk/property/uprn/100021492379/
+1,3,2,105,Terraced,Freehold,483960,0.0110984,51.3900552,BR2,BR2 9DT,"14 Speldhurst Close, Bromley, BR2 9DT",https://www.zoopla.co.uk/property/uprn/100020415823/
+1,2,1,78,Flat,Leasehold,501218,-0.0761629,51.5334803,E2,E2 8JA,"109 Geffrye Street, London, E2 8JA",https://www.zoopla.co.uk/property/uprn/100021042680/
+1,3,2,82,Terraced,Freehold,521934,-0.2044488,51.3569196,SM2,SM2 6JP,"130B Mulgrave Road, Sutton, SM2 6JP",https://www.zoopla.co.uk/property/uprn/5870032453/
+2,3,1,109,Terraced,Freehold,526953,-0.2092139,51.362532,SM1,SM1 2XD,"6 Cormorant Place, Cheam, Sutton, SM1 2XD",https://www.zoopla.co.uk/property/uprn/5870107380/
+1,1,1,81,Flat,Leasehold,907447,-0.1929883,51.5045925,W8,W8 4AD,"Flat 38, Winchester Court, Vicarage Gate, London, W8 4AD",https://www.zoopla.co.uk/property/uprn/217088894/
+2,3,2,96,Terraced,Freehold,479725,0.0073965,51.5187888,E16,E16 4LU,"39 Liverpool Road, London, E16 4LU",https://www.zoopla.co.uk/property/uprn/46046229/
+2,2,1,91,Flat,Leasehold,515816,-0.1775374,51.6333778,N20,N20 9BE,"Flat 26, Maison House, 2 Acton Walk, London, N20 9BE",https://www.zoopla.co.uk/property/uprn/10091041586/
+1,2,1,75,Flat,Leasehold,515816,-0.074846,51.4922708,SE1,SE1 5ST,"4 New Claremont Apartments, 53 Setchell Road, London, SE1 5ST",https://www.zoopla.co.uk/property/uprn/10090749563/
+1,2,1,92,Semi-Detached,Freehold,644288,-0.0250168,51.4765868,SE8,SE8 4RB,"1 Hales Street, London, SE8 4RB",https://www.zoopla.co.uk/property/uprn/10070494344/
+1,1,1,53,Flat,Leasehold,519943,0.0071686,51.5016964,SE10,SE10 0XY,"Flat 1311, 10 Cutter Lane, London, SE10 0XY",https://www.zoopla.co.uk/property/uprn/10010259332/
+1,1,1,55,Flat,Leasehold,519943,-0.1965009,51.4405433,SW18,SW18 5LE,"505 Merton Road, London, SW18 5LE",https://www.zoopla.co.uk/property/uprn/121006097/
+2,2,1,72,Flat,Leasehold,535661,-0.2425064,51.5771123,NW9,NW9 7BF,"Flat 64, Hawfinch House, 1 Moorhen Drive, London, NW9 7BF",https://www.zoopla.co.uk/property/uprn/10091039191/
+1,2,1,70,Terraced,Freehold,483931,-0.2913063,51.4174081,KT2,KT2 6JF,"16 York Road, Kingston upon Thames, KT2 6JF",https://www.zoopla.co.uk/property/uprn/100021770860/
+1,3,1,94,Semi-Detached,Freehold,523109,0.1405808,51.443401,DA5,DA5 1HY,"78 Parkhill Road, Bexley, DA5 1HY",https://www.zoopla.co.uk/property/uprn/100020198588/
+1,2,1,77,Flat,Leasehold,426746,-0.0280157,51.5699014,E17,E17 8HB,"17 Hibbert Road, London, E17 8HB",https://www.zoopla.co.uk/property/uprn/100022553395/
+2,2,1,89,Bungalow Property,Leasehold,532821,-0.5037276,51.5859561,UB9,UB9 5PF,"3 Presidents Lane, Patrons Way West, Denham Garden Village, Uxbridge, UB9 5PF",https://www.zoopla.co.uk/property/uprn/10003447751/
+2,2,1,83,Flat,Leasehold,519943,-0.1057009,51.4763464,SW9,SW9 6FY,"Flat 7, 22 Patmos Road, London, SW9 6FY",https://www.zoopla.co.uk/property/uprn/10091118082/
+1,2,2,99,Flat,Leasehold,528635,-0.2415576,51.4654033,SW13,SW13 0HU,"Flat 21, Roehampton Court, Queens Ride, London, SW13 0HU",https://www.zoopla.co.uk/property/uprn/100023308337/
+1,2,1,88,Detached,Freehold,516360,-0.1114675,51.301923,CR5,CR5 1QQ,"8 Lingfield Gardens, Coulsdon, CR5 1QQ",https://www.zoopla.co.uk/property/uprn/100020575520/
+1,1,1,59,Flat,Leasehold,568013,-0.0649217,51.54423,E8,E8 3BH,"107A Forest Road, London, E8 3BH",https://www.zoopla.co.uk/property/uprn/10008354643/
+1,2,1,51,Flat,Leasehold,538582,-0.1003588,51.5417616,N1,N1 2DH,"26 Whiston House, 71 Halton Road, London, N1 2DH",https://www.zoopla.co.uk/property/uprn/5300039484/
+2,2,1,78,Flat,Leasehold,510152,-0.2341731,51.5769726,NW4,NW4 3PS,"Flat 1, 20 Park Road, London, NW4 3PS",https://www.zoopla.co.uk/property/uprn/10093994451/
+1,2,2,99,Terraced,Freehold,570971,-0.0347409,51.5461205,E9,E9 5SX,"20 Bushberry Road, London, E9 5SX",https://www.zoopla.co.uk/property/uprn/100021029473/
+1,3,1,63,Terraced,Freehold,326087,-0.047326,51.6418947,EN3,EN3 4ER,"64A High Street, Enfield, EN3 4ER",https://www.zoopla.co.uk/property/uprn/207009569/
+1,2,1,85,Terraced,Freehold,562102,-0.0892881,51.4227779,SE19,SE19 1JH,"49 Bloomhall Road, London, SE19 1JH",https://www.zoopla.co.uk/property/uprn/200000455195/
+1,2,1,70,Terraced,Freehold,503953,-0.2142657,51.6078744,NW7,NW7 1GF,"18 Honiton Gardens, London, NW7 1GF",https://www.zoopla.co.uk/property/uprn/200197392/
+2,4,2,109,Terraced,Freehold,482704,-0.2718904,51.6301869,HA8,HA8 8XW,"10 Meadfield, Edgware, HA8 8XW",https://www.zoopla.co.uk/property/uprn/200080574/
+1,2,1,80,Terraced,Freehold,558500,-0.3436685,51.4455255,TW2,TW2 6QS,"130A Colne Road, Twickenham, TW2 6QS",https://www.zoopla.co.uk/property/uprn/100022332740/
+1,3,1,107,Terraced,Freehold,525764,-0.4147461,51.6050063,HA6,HA6 1SS,"13 Addison Way, Northwood, HA6 1SS",https://www.zoopla.co.uk/property/uprn/100021442158/
+1,3,1,109,Terraced,Freehold,510114,-0.1061123,51.6601235,EN2,EN2 8HS,"96 Crofton Way, Enfield, EN2 8HS",https://www.zoopla.co.uk/property/uprn/207144937/
+2,2,1,74,Flat,Leasehold,536047,-0.3110307,51.4826647,TW8,TW8 8LF,"Flat 20, Oakbark House, High Street, Brentford, TW8 8LF",https://www.zoopla.co.uk/property/uprn/10014075327/
+1,2,2,74,Flat,Leasehold,535281,-0.2768309,51.4850343,W4,W4 3QT,"21 Loraine Road, London, W4 3QT",https://www.zoopla.co.uk/property/uprn/200003969976/
+1,4,2,130,Terraced,Freehold,536176,-0.2101787,51.6514737,EN5,EN5 2SQ,"62 Bells Hill, Barnet, EN5 2SQ",https://www.zoopla.co.uk/property/uprn/200010117/
+1,3,1,93,Terraced,Freehold,533028,0.0468613,51.4609026,SE9,SE9 6NJ,"8 Sandby Green, London, SE9 6NJ",https://www.zoopla.co.uk/property/uprn/100021001710/
+2,2,1,91,Flat,Leasehold,538552,-0.3002886,51.387701,KT6,KT6 6LG,"3 Sycamore Court, Penners Gardens, Surbiton, KT6 6LG",https://www.zoopla.co.uk/property/uprn/100021795341/
+2,3,1,97,Semi-Detached,Freehold,529066,0.1801244,51.5889177,RM1,RM1 4NR,"40 Fontayne Avenue, Romford, RM1 4NR",https://www.zoopla.co.uk/property/uprn/10033420749/
+1,3,2,104,Terraced,Freehold,526290,0.1946289,51.5808986,RM2,RM2 5AR,"75 Glenwood Drive, Romford, RM2 5AR",https://www.zoopla.co.uk/property/uprn/100021375012/
+1,2,1,81,Flat,Leasehold,524357,-0.0359654,51.5200354,E3,E3 4RL,"Flat 51, Candy Wharf, 22 Copperfield Road, London, E3 4RL",https://www.zoopla.co.uk/property/uprn/6364218/
+2,3,1,126,Terraced,Freehold,509284,-0.0287066,51.4718377,SE8,SE8 4QD,"91 Tanners Hill, London, SE8 4QD",https://www.zoopla.co.uk/property/uprn/10070495718/
+1,2,1,70,Flat,Leasehold,607662,-0.3034951,51.4564145,TW10,TW10 6UW,"6 Mallard Court, 14 Petersham Road, Richmond, TW10 6UW",https://www.zoopla.co.uk/property/uprn/100022313899/
+1,2,1,80,Flat,Leasehold,542016,-0.2136786,51.4581925,SW15,SW15 2BW,"6 Ashcombe Court, 31 Carlton Drive, London, SW15 2BW",https://www.zoopla.co.uk/property/uprn/100022623225/
+1,2,1,56,Flat,Leasehold,540147,-0.0428963,51.4632805,SE4,SE4 2JJ,"39A Dundalk Road, London, SE4 2JJ",https://www.zoopla.co.uk/property/uprn/10070494031/
+2,2,1,79,Flat,Leasehold,549374,-0.0072006,51.4978699,E14,E14 3PP,"Flat 302, Lotus House, 35 Ovex Close, London, E14 3PP",https://www.zoopla.co.uk/property/uprn/6711833/
+1,3,1,69,Bungalow Property,Freehold,563353,0.0979207,51.3829579,BR6,BR6 0EF,"122 Perry Hall Road, Orpington, BR6 0EF",https://www.zoopla.co.uk/property/uprn/100020470240/
+1,2,1,67,Flat,Leasehold,554279,-0.2185896,51.5136104,W10,W10 6HP,"Flat 2, Blessingham House, 3 Shalfleet Drive, London, W10 6HP",https://www.zoopla.co.uk/property/uprn/217128507/
+1,3,1,84,Flat,Leasehold,554279,-0.2519099,51.49458,W4,W4 1PG,"46 Upham Park Road, London, W4 1PG",https://www.zoopla.co.uk/property/uprn/100023489758/
+2,3,1,85,Flat,Leasehold,557222,-0.0159281,51.5193926,E3,E3 3GX,"Flat 509, Kara Court, 15 Seven Sea Gardens, London, E3 3GX",https://www.zoopla.co.uk/property/uprn/6174954/
+1,1,1,59,Flat,Leasehold,714451,-0.1780619,51.5251257,W9,W9 1AJ,"Flat 20, Clarendon Court, 33 Maida Vale, London, W9 1AJ",https://www.zoopla.co.uk/property/uprn/200001926501/
+1,3,1,93,Flat,Leasehold,564089,-0.0181258,51.4983322,E14,E14 9DL,"Flat 286, Ability Place, 37 Millharbour, London, E14 9DL",https://www.zoopla.co.uk/property/uprn/6164512/
+1,2,1,61,Flat,Leasehold,371360,-0.197615,51.4348628,SW19,SW19 8AQ,"156B Arthur Road, Wimbledon, SW19 8AQ",https://www.zoopla.co.uk/property/uprn/48104796/
+1,1,1,46,Flat,Leasehold,564089,-0.1557102,51.520307,W1U,W1U 6NQ,"Flat 2, 63 Chiltern Street, London, W1U 6NQ",https://www.zoopla.co.uk/property/uprn/100022734963/
+1,3,1,127,Terraced,Freehold,553933,-0.1225659,51.4155463,SW16,SW16 3AZ,"100 Strathbrook Road, London, SW16 3AZ",https://www.zoopla.co.uk/property/uprn/200000481823/
+1,2,1,93,Terraced,Freehold,567243,-0.0969225,51.4844761,SE17,SE17 3UF,"1 Langdale Close, London, SE17 3UF",https://www.zoopla.co.uk/property/uprn/200003430710/
+1,2,1,91,Flat,Leasehold,535281,-0.2067807,51.522133,W10,W10 5QT,"84 St Ervans Road, London, W10 5QT",https://www.zoopla.co.uk/property/uprn/217080568/
+1,3,2,112,Semi-Detached,Freehold,511369,-0.3969349,51.5358554,UB5,UB5 6LU,"73 Nutfield Gardens, Northolt, UB5 6LU",https://www.zoopla.co.uk/property/uprn/12021390/
+1,3,2,107,Semi-Detached,Freehold,553293,-0.2677852,51.5995481,HA8,HA8 5LF,"1 Oak Gardens, Edgware, HA8 5LF",https://www.zoopla.co.uk/property/uprn/202061992/
+1,4,1,112,Semi-Detached,Freehold,526559,-0.4305118,51.5007813,UB3,UB3 1LX,"87 Dawley Road, Hayes, UB3 1LX",https://www.zoopla.co.uk/property/uprn/100021422075/
+1,2,1,80,Terraced,Freehold,557256,-0.0029676,51.5530393,E15,E15 2TR,"53 Downsell Road, London, E15 2TR",https://www.zoopla.co.uk/property/uprn/200001417211/
+1,1,1,59,Flat,Leasehold,564089,-0.0624217,51.5311046,E2,E2 6PQ,"Flat 13, Minstrel Court, Teesdale Close, London, E2 6PQ",https://www.zoopla.co.uk/property/uprn/6022189/
+1,2,1,80,Detached,Freehold,571249,-0.4022184,51.598227,HA5,HA5 3TX,"44 Woodford Crescent, Pinner, HA5 3TX",https://www.zoopla.co.uk/property/uprn/100021453686/
+1,3,2,92,Semi-Detached,Freehold,530592,-0.3191326,51.5948358,HA3,HA3 8QE,"17 Irvine Avenue, Harrow, HA3 8QE",https://www.zoopla.co.uk/property/uprn/100021271039/
+1,3,1,120,Semi-Detached,Freehold,565287,0.0207581,51.43801,SE12,SE12 0LF,"3 Pragnell Road, London, SE12 0LF",https://www.zoopla.co.uk/property/uprn/100021997004/
+1,2,1,98,Flat,Leasehold,530244,0.0013701,51.4622274,SE13,SE13 5BT,"14A Church Terrace, London, SE13 5BT",https://www.zoopla.co.uk/property/uprn/100021944716/
+1,3,2,116,Semi-Detached,Freehold,839128,-0.2956131,51.5288703,W5,W5 1AW,"122 Brunswick Road, London, W5 1AW",https://www.zoopla.co.uk/property/uprn/12092556/
+1,1,1,58,Flat,Leasehold,562532,-0.1809667,51.5520587,NW3,NW3 6BH,"Flat 5A, 28 Arkwright Road, London, NW3 6BH",https://www.zoopla.co.uk/property/uprn/5027081/
+1,1,1,70,Flat,Feudal,568994,-0.1551145,51.4511893,SW12,SW12 8TN,"7 Nightingale Mansions, 44 Nightingale Lane, London, SW12 8TN",https://www.zoopla.co.uk/property/uprn/100022674534/
+1,1,1,79,Flat,Freehold,568994,-0.1550621,51.4953331,SW1X,SW1X 8LW,"Flat 2, 100 Eaton Place, London, SW1X 8LW",https://www.zoopla.co.uk/property/uprn/100022745246/
+1,2,1,79,Flat,Leasehold,1547807,-0.1232129,51.5092611,WC2N,WC2N 6HA,"Flat 33, 10 John Adam Street, London, WC2N 6HA",https://www.zoopla.co.uk/property/uprn/100022768948/
+1,4,1,88,Flat,Leasehold,569344,-0.1654566,51.534947,NW8,NW8 7DR,"Flat 82, Townshend Court, Mackennal Street, London, NW8 7DR",https://www.zoopla.co.uk/property/uprn/100023120454/
+1,1,1,70,Flat,Leasehold,573899,-0.1500666,51.4770892,SW11,SW11 4BG,"12A Prince of Wales Mansions, Prince of Wales Drive, London, SW11 4BG",https://www.zoopla.co.uk/property/uprn/100022680819/
+1,2,1,83,Flat,Leasehold,595448,-0.2860744,51.4607474,TW10,TW10 5AZ,"8 Carisbrooke House, Courtlands, Richmond, TW10 5AZ",https://www.zoopla.co.uk/property/uprn/100022316527/
+1,3,1,77,Terraced,Freehold,543336,-0.1776619,51.5935266,N2,N2 0SW,"84 Hamilton Road, London, N2 0SW",https://www.zoopla.co.uk/property/uprn/200055658/
+1,2,2,71,Terraced,Freehold,557032,-0.300874,51.4665382,TW9,TW9 2TA,"1 St Johns Cottages, Kew Foot Road, Richmond, TW9 2TA",https://www.zoopla.co.uk/property/uprn/100022308341/
+1,3,1,109,Terraced,Freehold,1279234,-0.2168619,51.4873233,W6,W6 8HF,"4 Claxton Grove, London, W6 8HF",https://www.zoopla.co.uk/property/uprn/34023178/
+1,3,1,90,Flat,Leasehold,583709,-0.1216127,51.4672126,SW9,SW9 9JA,"138A Landor Road, London, SW9 9JA",https://www.zoopla.co.uk/property/uprn/100021861849/
+2,4,2,145,Semi-Detached,Freehold,594885,-0.162682,51.6554437,EN4,EN4 9DW,"47 Northfield Road, Barnet, EN4 9DW",https://www.zoopla.co.uk/property/uprn/200086575/
+4,5,1,200,Terraced,Freehold,592228,-0.449286,51.5232366,UB8,UB8 3HD,"17 Moorcroft, Harlington Road, Uxbridge, UB8 3HD",https://www.zoopla.co.uk/property/uprn/10009948632/
+1,3,1,117,Semi-Detached,Freehold,981084,-0.3322857,51.4531946,TW1,TW1 1BX,"42 Grimwood Road, Twickenham, TW1 1BX",https://www.zoopla.co.uk/property/uprn/100022336277/
+2,2,1,62,Flat,Leasehold,593675,-0.2492689,51.4933869,W4,W4 1SY,"Flat 2, Burlington House, 64 Chiswick High Road, London, W4 1SY",https://www.zoopla.co.uk/property/uprn/10093257519/
+1,2,2,66,Semi-Detached,Freehold,611734,-0.1621913,51.4301399,SW17,SW17 8LL,"96 Cowick Road, London, SW17 8LL",https://www.zoopla.co.uk/property/uprn/100022629599/
+1,3,1,78,Semi-Detached,Freehold,573413,-0.2981508,51.492759,TW8,TW8 9RB,"15 Carville Crescent, Brentford, TW8 9RB",https://www.zoopla.co.uk/property/uprn/100021512417/
+2,4,1,138,Terraced,Freehold,563566,-0.0478561,51.4327334,SE23,SE23 2XU,"28 Acorn Way, London, SE23 2XU",https://www.zoopla.co.uk/property/uprn/100021923163/
+1,3,1,108,Terraced,Freehold,627481,-0.2774073,51.5894832,NW9,NW9 9JJ,"125 Princes Avenue, London, NW9 9JJ",https://www.zoopla.co.uk/property/uprn/202056742/
+2,4,2,123,Semi-Detached,Freehold,611811,0.1072666,51.3774124,BR6,BR6 0QD,"18 Bark Hart Road, Orpington, BR6 0QD",https://www.zoopla.co.uk/property/uprn/100020448183/
+1,3,2,99,Terraced,Freehold,590244,0.0885577,51.5700416,IG2,IG2 7AD,"100 Charter Avenue, Ilford, IG2 7AD",https://www.zoopla.co.uk/property/uprn/100022201987/
+2,2,1,77,Flat,Leasehold,588615,-0.2689486,51.4942656,W4,W4 5LE,"Flat 4, 2B Bollo Lane, London, W4 5LE",https://www.zoopla.co.uk/property/uprn/12173537/
+1,3,2,119,Semi-Detached,Freehold,621841,0.2110223,51.5758449,RM11,RM11 2BZ,"67 Slewins Lane, Hornchurch, RM11 2BZ",https://www.zoopla.co.uk/property/uprn/100021340670/
+2,2,1,57,Flat,Leasehold,579077,-0.181906,51.4734866,SW6,SW6 2SS,"Flat 40, Harbour Reach, The Boulevard, London, SW6 2SS",https://www.zoopla.co.uk/property/uprn/34134285/
+2,3,1,107,Flat,Leasehold,568260,-0.3153346,51.6104554,HA7,HA7 3QG,"3 Gleneagles, Stanmore, HA7 3QG",https://www.zoopla.co.uk/property/uprn/200000306928/
+1,2,1,81,Flat,Shared,583943,-0.1795782,51.5265071,W9,W9 1SQ,"Flat 1B, Alexandra Court, 63 Maida Vale, London, W9 1SQ",https://www.zoopla.co.uk/property/uprn/10033583407/
+2,3,1,97,Terraced,Freehold,604260,-0.0575279,51.4929847,SE16,SE16 2HE,"20 Benwick Close, London, SE16 2HE",https://www.zoopla.co.uk/property/uprn/200003401675/
+1,1,1,60,Flat,Leasehold,593520,-0.0697489,51.5144771,E1,E1 8NG,"Apartment 2210, Altitude Point, 71 Alie Street, London, E1 8NG",https://www.zoopla.co.uk/property/uprn/6177783/
+1,3,2,99,Terraced,Freehold,587650,0.0014079,51.6132952,E4,E4 9RR,"85 Richmond Avenue, London, E4 9RR",https://www.zoopla.co.uk/property/uprn/100022580151/
+1,2,1,55,Terraced,Freehold,581485,-0.303256,51.5113737,W5,W5 5DS,"29 Grove Road, London, W5 5DS",https://www.zoopla.co.uk/property/uprn/12084318/
+1,3,1,100,Flat,Leasehold,595622,-0.3039281,51.5188832,W5,W5 2RN,"Flat 4, 28 Mount Park Crescent, Ealing, W5 2RN",https://www.zoopla.co.uk/property/uprn/12119785/
+1,2,2,85,Terraced,Freehold,593114,-0.0182161,51.4683694,SE8,SE8 4JN,"16 Elverson Road, London, SE8 4JN",https://www.zoopla.co.uk/property/uprn/100021956356/
+2,2,1,76,Flat,Leasehold,500272,-0.0522661,51.5415638,E9,E9 7PQ,"21 Frampton Park Road, London, E9 7PQ",https://www.zoopla.co.uk/property/uprn/10008341958/
+2,4,2,121,Terraced,Freehold,573200,-0.1396347,51.4173652,SW16,SW16 5BD,"53 Canmore Gardens, London, SW16 5BD",https://www.zoopla.co.uk/property/uprn/100021819454/
+2,6,1,204,Semi-Detached,Freehold,616826,0.1161613,51.397962,BR5,BR5 3ET,"Upper Gables, Main Road, Orpington, BR5 3ET",https://www.zoopla.co.uk/property/uprn/10013149791/
+2,4,3,135,Semi-Detached,Freehold,737182,-0.3556808,51.5338727,UB6,UB6 9LR,"21 Barnham Road, Greenford, UB6 9LR",https://www.zoopla.co.uk/property/uprn/12051908/
+2,2,1,90,Flat,Leasehold,606273,-0.2684452,51.5024482,W3,W3 8AU,"Flat 4, 78 Bollo Bridge Road, Acton, W3 8AU",https://www.zoopla.co.uk/property/uprn/12183171/
+1,3,1,114,Semi-Detached,Freehold,616181,0.0023777,51.379926,BR2,BR2 7HX,"36 Hilldown Road, Bromley, BR2 7HX",https://www.zoopla.co.uk/property/uprn/100020401768/
+1,2,1,74,Flat,Leasehold,601682,-0.0927302,51.5541733,N5,N5 2HA,"19 Belmont Court, 93–107 Highbury New Park, London, N5 2HA",https://www.zoopla.co.uk/property/uprn/5300044930/
+1,3,1,92,Terraced,Freehold,394136,-0.4267111,51.5136613,UB3,UB3 1JG,"64 Chestnut Close, Hayes, UB3 1JG",https://www.zoopla.co.uk/property/uprn/100021419609/
+1,2,2,59,Terraced,Freehold,605713,-0.0174217,51.5878697,E17,E17 4SW,"26 Byron Road, London, E17 4SW",https://www.zoopla.co.uk/property/uprn/100022980743/
+1,4,2,165,Semi-Detached,Freehold,625698,-0.3268094,51.5823831,HA1,HA1 2LQ,"3 Bonnersfield Close, Harrow, HA1 2LQ",https://www.zoopla.co.uk/property/uprn/100021254073/
+2,2,1,101,Terraced,Freehold,564702,-0.0803262,51.6609457,EN1,EN1 3JZ,"18 Bell Road, Enfield, EN1 3JZ",https://www.zoopla.co.uk/property/uprn/207135789/
+1,2,1,80,Terraced,Freehold,576639,-0.1154867,51.5438582,N7,N7 8UJ,"92 Centurion Close, London, N7 8UJ",https://www.zoopla.co.uk/property/uprn/5300018056/
+1,2,1,67,Flat,Leasehold,705598,-0.0993473,51.5348928,N1,N1 8JW,"Flat A, 18 St Peter's Street, London, N1 8JW",https://www.zoopla.co.uk/property/uprn/5300086969/
+1,2,1,70,Flat,Leasehold,655365,-0.0756207,51.5179681,E1,E1 7ND,"Flat 2, Esprit Court, 21 Brune Street, London, E1 7ND",https://www.zoopla.co.uk/property/uprn/6354263/
+1,2,1,57,Flat,Leasehold,662404,-0.124164,51.5278463,WC1H,WC1H 9PA,"Flat 22, Tonbridge House, Tonbridge Street, London, WC1H 9PA",https://www.zoopla.co.uk/property/uprn/5061569/
+2,2,1,81,Flat,Leasehold,618045,-0.183407,51.4650567,SW18,SW18 1TR,"78 Ensign House, Juniper Drive, London, SW18 1TR",https://www.zoopla.co.uk/property/uprn/10070242053/
+1,3,2,97,Terraced,Freehold,685971,-0.0456616,51.4015454,BR3,BR3 4LD,"213 Clock House Road, Beckenham, BR3 4LD",https://www.zoopla.co.uk/property/uprn/100020374263/
+2,2,1,76,Flat,Leasehold,607254,-0.1255938,51.486017,SW8,SW8 2LR,"Flat 185, 14 St George Wharf, London, SW8 2LR",https://www.zoopla.co.uk/property/uprn/200000467285/
+2,4,2,159,Detached,Freehold,937787,-0.136598,51.6381035,N14,N14 4QG,"124 Trent Gardens, London, N14 4QG",https://www.zoopla.co.uk/property/uprn/207176473/
+1,2,1,61,Flat,Freehold,511569,-0.2125598,51.493094,W14,W14 0SP,"Flat 3, 29 Auriol Road, London, W14 0SP",https://www.zoopla.co.uk/property/uprn/34103655/
+1,2,1,100,Flat,Leasehold,606273,-0.1190264,51.4621801,SW9,SW9 8AY,"9 Glasbury House, Ferndale Road, London, SW9 8AY",https://www.zoopla.co.uk/property/uprn/100021839967/
+1,3,1,102,Semi-Detached,Freehold,621841,-0.1940402,51.6942325,EN6,EN6 2EA,"24 Baker Street, Potters Bar, EN6 2EA",https://www.zoopla.co.uk/property/uprn/100080770171/
+2,3,1,103,Terraced,Freehold,529849,-0.2175111,51.4433139,SW19,SW19 6ER,"110 Augustus Road, London, SW19 6ER",https://www.zoopla.co.uk/property/uprn/100022608822/
+1,1,1,68,Flat,Leasehold,632605,-0.148609,51.4526062,SW4,SW4 9AH,"Apartment 36, 3 Nightingale Lane, London, SW4 9AH",https://www.zoopla.co.uk/property/uprn/10095439145/
+1,1,1,53,Flat,Leasehold,632605,-0.148933,51.4819723,SW11,SW11 8PP,"163 Eustace Building, 372 Queenstown Road, London, SW11 8PP",https://www.zoopla.co.uk/property/uprn/10008159169/
+1,3,1,83,Flat,Leasehold,637666,-0.2228066,51.5111654,W12,W12 7LG,"53 Lincoln Apartments, Fountain Park Way, London, W12 7LG",https://www.zoopla.co.uk/property/uprn/34167485/
+2,2,1,62,Flat,Leasehold,603330,-0.1300955,51.5283997,NW1,NW1 2AT,"Flat 4, 36 Churchway, London, NW1 2AT",https://www.zoopla.co.uk/property/uprn/5161385/
+1,2,1,65,Flat,Leasehold,613140,-0.1619208,51.4551627,SW11,SW11 6SE,"Flat 4, James House, 70 Webbs Road, London, SW11 6SE",https://www.zoopla.co.uk/property/uprn/10033238861/
+1,2,2,87,Semi-Detached,Freehold,635703,0.0257581,51.4762243,SE3,SE3 8SU,"105 Old Dover Road, London, SE3 8SU",https://www.zoopla.co.uk/property/uprn/100020991272/
+1,3,2,105,Terraced,Freehold,600868,-0.229008,51.4089133,SW20,SW20 8BA,"55 Approach Road, London, SW20 8BA",https://www.zoopla.co.uk/property/uprn/48001996/
+1,2,1,82,Semi-Detached,Freehold,625923,-0.090779,51.4222087,SE19,SE19 1JL,"13 Gibbs Close, London, SE19 1JL",https://www.zoopla.co.uk/property/uprn/100021842678/
+1,3,1,119,Terraced,Freehold,629942,-0.0030604,51.4543892,SE13,SE13 5JD,"77 Ennersdale Road, London, SE13 5JD",https://www.zoopla.co.uk/property/uprn/100021957052/
+1,3,1,122,Terraced,Freehold,533028,-0.089475,51.608462,N17,N17 7NH,"100 Devonshire Hill Lane, London, N17 7NH",https://www.zoopla.co.uk/property/uprn/100021172694/
+2,3,2,130,Semi-Detached,Freehold,628742,0.0845896,51.4383938,DA15,DA15 8BQ,"87 Valliers Wood Road, Sidcup, DA15 8BQ",https://www.zoopla.co.uk/property/uprn/100020263048/
+1,2,1,93,Terraced,Freehold,621368,-0.0312569,51.5890918,E17,E17 6EX,"6 Renness Road, London, E17 6EX",https://www.zoopla.co.uk/property/uprn/100022579910/
+1,2,1,75,Bungalow Property,Freehold,642327,-0.3270456,51.5020304,W13,W13 9UA,"28 Balmoral Gardens, London, W13 9UA",https://www.zoopla.co.uk/property/uprn/12068767/
+2,5,2,197,Semi-Detached,Freehold,636885,0.1412076,51.4718433,DA7,DA7 5EU,"12 Hollingbourne Avenue, Bexleyheath, DA7 5EU",https://www.zoopla.co.uk/property/uprn/100020209120/
+1,2,1,71,Flat,Leasehold,613140,-0.1697631,51.4231809,SW17,SW17 9LN,"56A Trevelyan Road, London, SW17 9LN",https://www.zoopla.co.uk/property/uprn/121038681/
+1,3,1,103,Semi-Detached,Freehold,658499,0.079599,51.3883925,BR5,BR5 1LL,"8 Acacia Close, Petts Wood, Orpington, BR5 1LL",https://www.zoopla.co.uk/property/uprn/100020446477/
+2,3,1,94,Terraced,Freehold,625096,0.026169,51.597682,E18,E18 2RJ,"23 Fieldhouse Close, London, E18 2RJ",https://www.zoopla.co.uk/property/uprn/10034917678/
+1,4,1,133,Semi-Detached,Freehold,606363,0.065773,51.4305165,SE9,SE9 3NT,"85 Felhampton Road, London, SE9 3NT",https://www.zoopla.co.uk/property/uprn/100020963555/
+1,4,2,140,Semi-Detached,Freehold,630704,-0.2983499,51.5853643,HA3,HA3 0UT,"1 Brookfield Crescent, Harrow, HA3 0UT",https://www.zoopla.co.uk/property/uprn/202125541/
+2,2,1,74,Flat,Leasehold,601461,-0.2076517,51.4584423,SW15,SW15 2RP,"Flat 4, 66 Upper Richmond Road, London, SW15 2RP",https://www.zoopla.co.uk/property/uprn/121005103/
+2,4,2,170,Semi-Detached,Freehold,387656,0.0065318,51.4417165,SE6,SE6 1JW,"46 South Park Crescent, London, SE6 1JW",https://www.zoopla.co.uk/property/uprn/100022004881/
+1,2,1,52,Flat,Leasehold,632751,-0.1085253,51.454673,SE24,SE24 0NJ,"Flat 1, 29 Dulwich Road, London, SE24 0NJ",https://www.zoopla.co.uk/property/uprn/100021834216/
+1,3,1,73,Terraced,Freehold,596022,-0.0404825,51.5068196,SE16,SE16 5EF,"374 Rotherhithe Street, London, SE16 5EF",https://www.zoopla.co.uk/property/uprn/200003411462/
+2,4,1,148,Detached,Freehold,670896,-0.0952415,51.3407709,CR2,CR2 0RT,"10 Tindale Close, South Croydon, CR2 0RT",https://www.zoopla.co.uk/property/uprn/100020687674/
+1,5,1,172,Semi-Detached,Freehold,1199385,-0.0729966,51.4599215,SE22,SE22 9HD,"17 Worlingham Road, London, SE22 9HD",https://www.zoopla.co.uk/property/uprn/200003445062/
+2,3,2,170,Flat,Leasehold,667955,-0.2009091,51.6903183,EN6,EN6 2SP,"Flat D, Rydal Mount, Santers Lane, Potters Bar, EN6 2SP",https://www.zoopla.co.uk/property/uprn/10013034472/
+1,3,1,93,Terraced,Freehold,662311,-0.1782492,51.5932666,N2,N2 0SW,"62 Hamilton Road, London, N2 0SW",https://www.zoopla.co.uk/property/uprn/200055647/
+1,3,1,112,Semi-Detached,Freehold,605385,-0.264058,51.3868731,KT3,KT3 5NX,"76 Gainsborough Road, New Malden, KT3 5NX",https://www.zoopla.co.uk/property/uprn/100021775851/
+2,3,1,109,Terraced,Freehold,675574,0.0061298,51.3888454,BR2,BR2 9ET,"182 Mead Way, Bromley, BR2 9ET",https://www.zoopla.co.uk/property/uprn/100020406465/
+1,2,2,101,Terraced,Freehold,629942,-0.0181423,51.5308058,E3,E3 2TJ,"64 Wrexham Road, London, E3 2TJ",https://www.zoopla.co.uk/property/uprn/6076309/
+2,3,2,89,Terraced,Freehold,613364,-0.2619848,51.3520319,KT19,KT19 9TQ,"50 Riverholme Drive, Epsom, KT19 9TQ",https://www.zoopla.co.uk/property/uprn/100061363672/
+2,3,3,139,Detached,Freehold,665852,-0.1813934,51.3954303,SM4,SM4 6EP,"6 Edward Avenue, Morden, SM4 6EP",https://www.zoopla.co.uk/property/uprn/48024655/
+2,2,1,98,Flat,Leasehold,657985,-0.3224873,51.4652144,TW7,TW7 7EP,"Flat 209, Waterside Apartments, 3 Railshead Road, Isleworth, TW7 7EP",https://www.zoopla.co.uk/property/uprn/10091159846/
+2,5,2,144,Semi-Detached,Freehold,524375,0.0221673,51.4262588,BR1,BR1 5BT,"3 Treewall Gardens, Bromley, BR1 5BT",https://www.zoopla.co.uk/property/uprn/100020417323/
+1,2,1,77,Flat,Leasehold,657909,-0.1461064,51.4497159,SW12,SW12 9LJ,"7 Beira Street, London, SW12 9LJ",https://www.zoopla.co.uk/property/uprn/100022614863/
+1,2,1,82,Flat,Leasehold,670760,-0.2257754,51.5174219,W12,W12 0HB,"53 Eynham Road, London, W12 0HB",https://www.zoopla.co.uk/property/uprn/34039901/
+1,4,1,121,Semi-Detached,Freehold,616104,-0.1254574,51.6282593,N14,N14 6DQ,"163 Leigh Hunt Drive, London, N14 6DQ",https://www.zoopla.co.uk/property/uprn/207167728/
+2,3,2,96,Terraced,Freehold,652845,-0.0978845,51.6004156,N22,N22 5EA,"21 Melrose Avenue, London, N22 5EA",https://www.zoopla.co.uk/property/uprn/100021201355/
+1,2,1,57,Flat,Leasehold,659762,-0.3051127,51.422164,KT2,KT2 5ST,"Flat 23, York Court, Albany Park Road, Kingston upon Thames, KT2 5ST",https://www.zoopla.co.uk/property/uprn/100021753241/
+1,3,1,77,Terraced,Freehold,647386,-0.0102101,51.4740072,SE10,SE10 8QW,"80 Point Hill, London, SE10 8QW",https://www.zoopla.co.uk/property/uprn/100020995196/
+2,4,1,134,Semi-Detached,Freehold,687034,-0.4704186,51.5462541,UB10,UB10 0QX,"38 Masterman Place, Uxbridge, UB10 0QX",https://www.zoopla.co.uk/property/uprn/10093735855/
+1,2,2,82,Terraced,Freehold,645452,-0.3413572,51.5062802,W7,W7 2PB,"6 Green Lane, London, W7 2PB",https://www.zoopla.co.uk/property/uprn/12058152/
+1,3,2,127,Semi-Detached,Freehold,686937,0.0693189,51.5810931,IG2,IG2 6YQ,"40 Kenwood Gardens, Ilford, IG2 6YQ",https://www.zoopla.co.uk/property/uprn/100022221520/
+2,2,2,118,Semi-Detached,Freehold,664645,-0.4381541,51.5759776,HA4,HA4 7NE,"38 Heathfield Rise, Ruislip, HA4 7NE",https://www.zoopla.co.uk/property/uprn/100021461684/
+2,2,1,80,Flat,Leasehold,676907,-0.0803789,51.4975824,SE1,SE1 3FD,"Flat 7, 12 Bermondsey Square, London, SE1 3FD",https://www.zoopla.co.uk/property/uprn/10013530064/
+1,2,1,95,Flat,Leasehold,681812,-0.1458686,51.4666094,SW4,SW4 0LX,"11A Lambourn Road, London, SW4 0LX",https://www.zoopla.co.uk/property/uprn/100023362309/
+2,5,2,147,Semi-Detached,Freehold,663965,-0.1721248,51.3513385,SM5,SM5 4PE,"Portland, The Close, Carshalton, SM5 4PE",https://www.zoopla.co.uk/property/uprn/5870060256/
+1,1,1,68,Flat,Leasehold,1171324,-0.1862732,51.4823397,SW10,SW10 0QB,"Flat 25, Milliner House, Hortensia Road, London, SW10 0QB",https://www.zoopla.co.uk/property/uprn/217122257/
+1,3,2,125,Semi-Detached,Freehold,709601,-0.2691468,51.6165957,HA8,HA8 9UX,"134 St Margarets Road, Edgware, HA8 9UX",https://www.zoopla.co.uk/property/uprn/200106673/
+2,2,1,86,Terraced,Freehold,634938,-0.1718449,51.4394995,SW17,SW17 7UQ,"107 College Gardens, London, SW17 7UQ",https://www.zoopla.co.uk/property/uprn/100022627974/
+1,1,1,58,Flat,Leasehold,535281,-0.0975315,51.5258797,EC1V,EC1V 3AN,"209 Dance Square, London, EC1V 3AN",https://www.zoopla.co.uk/property/uprn/10090267075/
+2,3,2,129,Terraced,Freehold,838092,-0.3290716,51.4501634,TW1,TW1 3JB,"12 Marys Terrace, Twickenham, TW1 3JB",https://www.zoopla.co.uk/property/uprn/100022340701/
+1,3,1,92,Flat,Leasehold,681267,-0.1209708,51.5731721,N4,N4 4SB,"1 Lochbie, Crouch Hill, London, N4 4SB",https://www.zoopla.co.uk/property/uprn/5300025995/
+2,2,1,95,Flat,Leasehold,686717,-0.2054371,51.4818794,SW6,SW6 7HP,"Flat 3, 99 Rylston Road, London, SW6 7HP",https://www.zoopla.co.uk/property/uprn/34148775/
+1,2,1,69,Flat,Leasehold,686717,-0.2143681,51.4763054,SW6,SW6 6RD,"128 Wardo Avenue, London, SW6 6RD",https://www.zoopla.co.uk/property/uprn/34046446/
+1,3,1,90,Detached,Freehold,706206,-0.4356681,51.574225,HA4,HA4 7JN,"5 Hill Rise, Ruislip, HA4 7JN",https://www.zoopla.co.uk/property/uprn/100021462097/
+2,4,1,191,Detached,Freehold,675940,0.1887912,51.5803866,RM1,RM1 3NA,"3 Kingston Road, Romford, RM1 3NA",https://www.zoopla.co.uk/property/uprn/10091578053/
+1,3,2,100,Semi-Detached,Freehold,655263,-0.1396872,51.6277753,N14,N14 7NN,"7 Summit Way, London, N14 7NN",https://www.zoopla.co.uk/property/uprn/200110410/
+3,4,2,152,Detached,Freehold,765065,-0.0961402,51.3201107,CR8,CR8 5DX,"19 Cumberlands, Kenley, CR8 5DX",https://www.zoopla.co.uk/property/uprn/100020634758/
+1,3,2,119,Semi-Detached,Freehold,684603,0.0045687,51.6168473,E4,E4 6LT,"7 The Bramblings, London, E4 6LT",https://www.zoopla.co.uk/property/uprn/100022589478/
+1,3,1,127,Terraced,Freehold,689590,-0.2192131,51.3931962,SM4,SM4 4JJ,"72 Camborne Road, Morden, SM4 4JJ",https://www.zoopla.co.uk/property/uprn/48011107/
+2,4,2,145,Terraced,Leasehold,684485,-0.2898657,51.6201355,HA8,HA8 8FZ,"2 Lacey Drive, Edgware, HA8 8FZ",https://www.zoopla.co.uk/property/uprn/10093230347/
+1,4,2,90,Terraced,Freehold,823770,-0.0913508,51.436103,SE21,SE21 8EX,"67 Park Hall Road, London, SE21 8EX",https://www.zoopla.co.uk/property/uprn/100021879079/
+2,4,2,168,Terraced,Freehold,768805,0.0588492,51.4061238,BR7,BR7 5PA,"2 Timber Close, Chislehurst, BR7 5PA",https://www.zoopla.co.uk/property/uprn/100020426910/
+2,3,1,95,Semi-Detached,Freehold,688872,0.003009,51.6322691,E4,E4 7DR,"5A Mornington Road, London, E4 7DR",https://www.zoopla.co.uk/property/uprn/100022570896/
+2,5,1,113,Terraced,Freehold,688090,-0.126422,51.5550045,N7,N7 0EY,"53 Penderyn Way, London, N7 0EY",https://www.zoopla.co.uk/property/uprn/5300072537/
+2,2,1,80,Flat,Leasehold,695865,-0.1776772,51.4892749,SW7,SW7 3BD,"Flat 11, 17 Cranley Gardens, London, SW7 3BD",https://www.zoopla.co.uk/property/uprn/217020314/
+2,2,2,84,Terraced,Freehold,704325,-0.2594276,51.4024788,KT3,KT3 3AA,"61 Grafton Road, New Malden, KT3 3AA",https://www.zoopla.co.uk/property/uprn/100021776259/
+1,3,1,113,Flat,Freehold,702207,-0.1997682,51.6013044,N3,N3 1BJ,"50 Church Crescent, London, N3 1BJ",https://www.zoopla.co.uk/property/uprn/200219723/
+1,3,1,95,Flat,Leasehold,721409,-0.3275495,51.4260512,TW11,TW11 9BF,"Flat 32, Fullerton Court, 27 Udney Park Road, Teddington, TW11 9BF",https://www.zoopla.co.uk/property/uprn/10002260639/
+1,3,1,111,Semi-Detached,Freehold,643013,0.1885777,51.5774021,RM1,RM1 3PB,"75 Eastern Road, Romford, RM1 3PB",https://www.zoopla.co.uk/property/uprn/100021371850/
+3,3,1,112,Terraced,Freehold,726380,0.0526166,51.5800824,IG4,IG4 5HN,"22 Grangeway Gardens, Ilford, IG4 5HN",https://www.zoopla.co.uk/property/uprn/100022215056/
+2,2,2,112,Semi-Detached,Freehold,416905,0.0421117,51.6049326,IG8,IG8 7JW,"28 Finchingfield Avenue, Woodford Green, IG8 7JW",https://www.zoopla.co.uk/property/uprn/100022268799/
+1,3,3,130,Terraced,Freehold,674353,-0.0268303,51.4722737,SE8,SE8 4QH,"59 Lucas Street, London, SE8 4QH",https://www.zoopla.co.uk/property/uprn/100021982928/
+2,3,1,109,Flat,Leasehold,706337,-0.1932069,51.5358363,NW6,NW6 5AA,"121 Cambridge Avenue, London, NW6 5AA",https://www.zoopla.co.uk/property/uprn/202208837/
+3,3,2,102,Detached,Freehold,724366,0.104153,51.4448429,DA15,DA15 9ES,"28 The Oval, Sidcup, DA15 9ES",https://www.zoopla.co.uk/property/uprn/100020262622/
+1,3,2,117,Semi-Detached,Freehold,744430,0.0990767,51.3639175,BR6,BR6 9HT,"89 Repton Road, Orpington, BR6 9HT",https://www.zoopla.co.uk/property/uprn/100020472447/
+1,2,1,82,Flat,Leasehold,674454,-0.1464635,51.4384087,SW12,SW12 9NF,"57 Dornton Road, London, SW12 9NF",https://www.zoopla.co.uk/property/uprn/100022634277/
+2,4,1,145,Terraced,Freehold,840245,-0.1585642,51.4215936,SW17,SW17 9QS,"34 Seely Road, London, SW17 9QS",https://www.zoopla.co.uk/property/uprn/48063688/
+1,2,1,50,Flat,Leasehold,710464,-0.123581,51.5160835,WC2B,WC2B 5LF,"Flat 2, Goldsmith Court, Stukeley Street, London, WC2B 5LF",https://www.zoopla.co.uk/property/uprn/5067837/
+1,2,1,82,Flat,Leasehold,725063,-0.1005755,51.4846073,SE17,SE17 3QT,"9 Lorrimore Square, London, SE17 3QT",https://www.zoopla.co.uk/property/uprn/200003430216/
+1,3,2,112,Semi-Detached,Freehold,739045,-0.2529022,51.4011106,KT3,KT3 4AB,"15 Coombe Gardens, New Malden, KT3 4AB",https://www.zoopla.co.uk/property/uprn/100021774697/
+1,4,1,263,Terraced,Freehold,491401,-0.0281535,51.5690494,E10,E10 7LD,"302 Lea Bridge Road, London, E10 7LD",https://www.zoopla.co.uk/property/uprn/100022561593/
+2,3,2,122,Terraced,Freehold,697782,-0.2322444,51.3999817,SW20,SW20 9BH,"66 Greenway, London, SW20 9BH",https://www.zoopla.co.uk/property/uprn/48031320/
+1,3,1,113,Semi-Detached,Freehold,712360,-0.3618093,51.4261487,TW12,TW12 1QP,"33 Wolsey Road, Hampton Hill, Hampton, TW12 1QP",https://www.zoopla.co.uk/property/uprn/100022285424/
+1,2,1,80,Flat,Leasehold,729929,-0.1998295,51.5521698,NW6,NW6 1QD,"Flat 1, 33 Hillfield Road, London, NW6 1QD",https://www.zoopla.co.uk/property/uprn/5048580/
+1,3,1,116,Semi-Detached,Freehold,732167,-0.208344,51.4017627,SM4,SM4 4DG,"24 Mossville Gardens, Morden, SM4 4DG",https://www.zoopla.co.uk/property/uprn/48051977/
+1,1,1,65,Terraced,Freehold,759589,-0.2953241,51.4617869,TW10,TW10 6DG,"39 Worple Way, Richmond, TW10 6DG",https://www.zoopla.co.uk/property/uprn/10091160137/
+1,4,1,111,Terraced,Freehold,722521,0.0260111,51.4812829,SE7,SE7 7JN,"108 Bramshot Avenue, London, SE7 7JN",https://www.zoopla.co.uk/property/uprn/100020943840/
+1,3,2,89,Semi-Detached,Freehold,731428,-0.2906512,51.3987208,KT5,KT5 8DR,"4 Hillside Road, Surbiton, KT5 8DR",https://www.zoopla.co.uk/property/uprn/100021790603/
+2,2,2,83,Flat,Leasehold,707833,-0.3152221,51.4549649,TW1,TW1 2AR,"Flat 3, 5 Rosslyn Road, Twickenham, TW1 2AR",https://www.zoopla.co.uk/property/uprn/100022344784/
+1,3,2,127,Semi-Detached,Freehold,695914,-0.0756186,51.6362472,EN1,EN1 2LF,"17 Brendon Way, Enfield, EN1 2LF",https://www.zoopla.co.uk/property/uprn/207108685/
+1,3,2,121,Semi-Detached,Freehold,727153,-0.0145008,51.377749,BR4,BR4 0PR,"58 Station Road, West Wickham, BR4 0PR",https://www.zoopla.co.uk/property/uprn/100020489878/
+1,3,1,87,Flat,Freehold,705598,-0.1454967,51.4494905,SW12,SW12 9PY,"23A Yukon Road, London, SW12 9PY",https://www.zoopla.co.uk/property/uprn/100022717930/
+2,5,1,125,Terraced,Freehold,746116,-0.1256818,51.4800023,SW8,SW8 2UJ,"16 Walton Close, London, SW8 2UJ",https://www.zoopla.co.uk/property/uprn/100021909558/
+2,4,3,177,Semi-Detached,Freehold,732167,-0.1066417,51.3480961,CR2,CR2 6DJ,"74 Mount Park Avenue, South Croydon, CR2 6DJ",https://www.zoopla.co.uk/property/uprn/100020682461/
+2,4,2,93,Terraced,Freehold,712319,-0.0006106,51.5679718,E11,E11 1DL,"76 Cavendish Drive, London, E11 1DL",https://www.zoopla.co.uk/property/uprn/100022528221/
+3,3,1,178,Semi-Detached,Freehold,583472,-0.3183686,51.5611938,HA0,HA0 3HD,"39 Stilecroft Gardens, Wembley, HA0 3HD",https://www.zoopla.co.uk/property/uprn/202042854/
+1,1,1,69,Flat,Leasehold,711243,-0.1779937,51.5315274,NW8,NW8 9BY,"Flat 105, Abbey House, 1 Garden Road, London, NW8 9BY",https://www.zoopla.co.uk/property/uprn/100023123709/
+2,4,1,141,Semi-Detached,Freehold,727265,-0.3671149,51.5814043,HA2,HA2 7NU,"21 Hawthorn Drive, Harrow, HA2 7NU",https://www.zoopla.co.uk/property/uprn/100021267934/
+2,2,1,98,Flat,Leasehold,681267,-0.2084678,51.5514837,NW2,NW2 3XJ,"Flat 1, 72 Shoot-Up Hill, London, NW2 3XJ",https://www.zoopla.co.uk/property/uprn/5175134/
+2,2,1,100,Flat,Leasehold,851584,-0.0518191,51.5366301,E9,E9 7HS,"16 St Agnes Close, London, E9 7HS",https://www.zoopla.co.uk/property/uprn/100021074291/
+1,1,1,84,Flat,Leasehold,743616,-0.1825493,51.4957083,SW7,SW7 5NF,"Flat 1, 52 Queen's Gate Gardens, London, SW7 5NF",https://www.zoopla.co.uk/property/uprn/217071938/
+2,3,1,115,Terraced,Freehold,734132,-0.1146193,51.5460025,N7,N7 8XE,"25 Roman Way, London, N7 8XE",https://www.zoopla.co.uk/property/uprn/5300079033/
+2,2,1,73,Flat,Leasehold,735768,-0.0897748,51.5713063,N4,N4 2BS,"Flat 126, Residence Tower, Woodberry Grove, London, N4 2BS",https://www.zoopla.co.uk/property/uprn/10008326389/
+2,2,1,117,Flat,Leasehold,736989,0.0250055,51.5089351,E16,E16 1DR,"Flat 14, Warehouse K, 2 Western Gateway, London, E16 1DR",https://www.zoopla.co.uk/property/uprn/10034512891/
+1,1,1,87,Flat,Leasehold,755389,-0.0952878,51.5326597,N1,N1 7SH,"Flat 408, Royle Building, 31 Wenlock Road, London, N1 7SH",https://www.zoopla.co.uk/property/uprn/100021080875/
+1,2,1,83,Flat,Leasehold,760294,-0.0779315,51.520169,E1,E1 6GH,"Flat 1, 20 Bishops Square, London, E1 6GH",https://www.zoopla.co.uk/property/uprn/6159490/
+3,3,1,187,Terraced,Freehold,864317,-0.155661,51.416878,CR4,CR4 2DN,"28 Edenvale Road, Mitcham, CR4 2DN",https://www.zoopla.co.uk/property/uprn/48024210/
+3,4,1,157,Detached,Freehold,736203,-0.2525749,51.3710011,KT19,KT19 0QF,"6 Cudas Close, Epsom, KT19 0QF",https://www.zoopla.co.uk/property/uprn/100061352960/
+2,3,1,139,Flat,Leasehold,715330,-0.2119828,51.5981753,NW4,NW4 1JL,"Flat 7, Allerton Court, 1 Turnberry Close, London, NW4 1JL",https://www.zoopla.co.uk/property/uprn/200119069/
+2,2,1,55,Flat,Leasehold,515038,-0.0935516,51.5304433,N1,N1 7GH,"Flat 11, Spenlow Apartments, Wenlock Road, London, N1 7GH",https://www.zoopla.co.uk/property/uprn/10008334046/
+2,2,1,112,Terraced,Freehold,847999,-0.1054534,51.4878516,SE17,SE17 3UR,"38A De Laune Street, London, SE17 3UR",https://www.zoopla.co.uk/property/uprn/200003432806/
+1,3,1,112,Terraced,Freehold,767734,-0.0189536,51.4749377,SE10,SE10 8LL,"23 Burgos Grove, London, SE10 8LL",https://www.zoopla.co.uk/property/uprn/100020945915/
+2,2,1,82,Flat,Leasehold,760294,-0.1333914,51.4908266,SW1V,SW1V 2RD,"Flat 41, 60 Vauxhall Bridge Road, London, SW1V 2RD",https://www.zoopla.co.uk/property/uprn/10033555499/
+2,2,1,83,Flat,Leasehold,798055,-0.1411733,51.4535317,SW4,SW4 9LA,"Flat 3, 15 Abbeville Road, London, SW4 9LA",https://www.zoopla.co.uk/property/uprn/100021804267/
+1,3,1,109,Detached,Freehold,717418,-0.1206432,51.6492875,EN2,EN2 7PB,"30 Netherby Gardens, Enfield, EN2 7PB",https://www.zoopla.co.uk/property/uprn/207143190/
+1,3,1,106,Terraced,Freehold,770467,-0.0088128,51.5585792,E10,E10 5NN,"26 Adelaide Road, London, E10 5NN",https://www.zoopla.co.uk/property/uprn/100022514496/
+1,5,4,177,Detached,Freehold,1228400,-0.2261363,51.5984917,NW4,NW4 1SG,"179 Sunny Gardens Road, London, NW4 1SG",https://www.zoopla.co.uk/property/uprn/200222673/
+1,3,1,96,Semi-Detached,Freehold,719616,-0.2587024,51.3446633,KT17,KT17 1NF,"17 Corbet Road, Epsom, KT17 1NF",https://www.zoopla.co.uk/property/uprn/100061352620/
+1,4,3,145,Detached,Freehold,779091,0.0659401,51.3732745,BR6,BR6 8LA,"8 Poplar Avenue, Orpington, BR6 8LA",https://www.zoopla.co.uk/property/uprn/100020471114/
+2,3,1,133,Flat,Leasehold,780159,-0.2333604,51.4139952,SW20,SW20 0DG,"136 Durham Road, London, SW20 0DG",https://www.zoopla.co.uk/property/uprn/48023380/
+1,2,1,69,Flat,Leasehold,700936,-0.09071,51.5517753,N5,N5 2QX,"Second Floor Flat, 25 Petherton Road, London, N5 2QX",https://www.zoopla.co.uk/property/uprn/5300073749/
+2,2,1,84,Flat,Leasehold,794630,-0.2689615,51.4926359,W4,W4 4BA,"Flat 4, Noble House, Kings Place, London, W4 4BA",https://www.zoopla.co.uk/property/uprn/10091691951/
+2,3,1,141,Terraced,Freehold,786943,-0.2868218,51.5184279,W3,W3 0HR,"27 Deena Close, London, W3 0HR",https://www.zoopla.co.uk/property/uprn/12012634/
+2,2,1,77,Flat,Freehold,809345,-0.1693785,51.5521932,NW3,NW3 5AB,"18 Belsize Lane, London, NW3 5AB",https://www.zoopla.co.uk/property/uprn/5039598/
+1,3,3,140,Semi-Detached,Freehold,806854,-0.1194597,51.6450511,N14,N14 4XH,"155 South Lodge Drive, London, N14 4XH",https://www.zoopla.co.uk/property/uprn/207133424/
+1,4,1,139,Terraced,Freehold,789850,0.0336269,51.5497842,E7,E7 0PP,"113 Osborne Road, London, E7 0PP",https://www.zoopla.co.uk/property/uprn/46055464/
+2,1,2,159,Semi-Detached,Freehold,797119,-0.0990985,51.6211359,N13,N13 5SW,"15 Wentworth Gardens, London, N13 5SW",https://www.zoopla.co.uk/property/uprn/207086740/
+2,3,1,132,Flat,Leasehold,807527,-0.3226417,51.6261441,HA7,HA7 3HD,"15 Lancaster House, Park Lane, Stanmore, HA7 3HD",https://www.zoopla.co.uk/property/uprn/200000303531/
+1,3,2,116,Semi-Detached,Freehold,789956,-0.0827468,51.6378656,N21,N21 2DS,"26 Bush Hill Road, London, N21 2DS",https://www.zoopla.co.uk/property/uprn/207104097/
+2,2,1,118,Flat,Leasehold,734604,-0.1283237,51.4678774,SW9,SW9 9AF,"Flat 17, 378 Clapham Road, London, SW9 9AF",https://www.zoopla.co.uk/property/uprn/10008788744/
+2,2,1,65,Flat,Leasehold,686717,-0.125362,51.4864,SW8,SW8 2LQ,"117 Bridge House, 18 St George Wharf, London, SW8 2LQ",https://www.zoopla.co.uk/property/uprn/200000489926/
+1,3,2,96,Detached,Freehold,1057405,-0.2435331,51.6225977,NW7,NW7 4RE,"85 Sunnyfield, London, NW7 4RE",https://www.zoopla.co.uk/property/uprn/200111354/
+3,3,1,116,Flat,Leasehold,814250,-0.0210722,51.4988316,E14,E14 9EZ,"Flat 1302, 15 Indescon Square, London, E14 9EZ",https://www.zoopla.co.uk/property/uprn/6162346/
+2,3,1,84,Semi-Detached,Freehold,799845,-0.1871841,51.6531674,EN5,EN5 5LG,"15 Meadway, New Barnet, Barnet, EN5 5LG",https://www.zoopla.co.uk/property/uprn/200080773/
+2,2,1,102,Flat,Leasehold,833871,-0.2136969,51.423693,SW19,SW19 4RX,"Flat 20, Grosvenor Court, Grosvenor Hill, London, SW19 4RX",https://www.zoopla.co.uk/property/uprn/10094252212/
+2,4,2,146,Terraced,Freehold,843206,-0.3369693,51.4430085,TW1,TW1 4LY,"75 Heath Gardens, Twickenham, TW1 4LY",https://www.zoopla.co.uk/property/uprn/100022337464/
+2,2,1,105,Flat,Leasehold,833871,-0.2388278,51.4177637,SW20,SW20 0FQ,"15 Henrietta House, Atkinson Close, London, SW20 0FQ",https://www.zoopla.co.uk/property/uprn/10094252260/
+2,2,2,151,Flat,Leasehold,833871,-0.2076472,51.6141873,NW7,NW7 1RF,"Flat 35, Garrison Heights, 55 Henry Darlot Drive, London, NW7 1RF",https://www.zoopla.co.uk/property/uprn/10093299258/
+1,3,1,135,Terraced,Freehold,823770,-0.0480726,51.4549945,SE15,SE15 3EJ,"129 Athenlay Road, London, SE15 3EJ",https://www.zoopla.co.uk/property/uprn/200003386966/
+1,3,1,125,Semi-Detached,Freehold,861797,-0.2228511,51.3672269,SM3,SM3 8LX,"2 Priory Avenue, Cheam, Sutton, SM3 8LX",https://www.zoopla.co.uk/property/uprn/5870011643/
+2,3,2,103,Terraced,Freehold,813892,-0.104432,51.5853424,N8,N8 0NH,"63 Fairfax Road, London, N8 0NH",https://www.zoopla.co.uk/property/uprn/100021177665/
+1,2,1,105,Terraced,Freehold,804387,-0.1982891,51.4516442,SW18,SW18 5SP,"156 Merton Road, London, SW18 5SP",https://www.zoopla.co.uk/property/uprn/121008472/
+1,2,2,101,Semi-Detached,Freehold,842752,-0.2996874,51.415183,KT2,KT2 6EL,"22 East Road, Kingston upon Thames, KT2 6EL",https://www.zoopla.co.uk/property/uprn/100021758739/
+2,3,1,127,Flat,Leasehold,828965,-0.1355591,51.4415361,SW2,SW2 4XP,"2 Rastell Avenue, London, SW2 4XP",https://www.zoopla.co.uk/property/uprn/100021882971/
+2,2,3,108,Terraced,Freehold,794773,-0.3002137,51.5172198,W5,W5 2NG,"24 Mountfield Road, London, W5 2NG",https://www.zoopla.co.uk/property/uprn/12091653/
+1,3,2,147,Semi-Detached,Freehold,799054,-0.255085,51.3287465,KT17,KT17 4LD,"6 Lynwood Road, Epsom, KT17 4LD",https://www.zoopla.co.uk/property/uprn/100061360366/
+2,2,1,107,Terraced,Freehold,838307,0.00108,51.5624395,E11,E11 4DU,"98 Ashville Road, London, E11 4DU",https://www.zoopla.co.uk/property/uprn/100022516705/
+2,4,2,98,Terraced,Freehold,825986,-0.049392,51.5185328,E1,E1 3HY,"100 Jamaica Street, London, E1 3HY",https://www.zoopla.co.uk/property/uprn/6136990/
+2,2,1,95,Flat,Leasehold,762746,-0.257746,51.5011478,W4,W4 1BY,"97 Speldhurst Road, London, W4 1BY",https://www.zoopla.co.uk/property/uprn/12106419/
+2,5,1,133,Flat,Leasehold,812654,-0.2186281,51.4937439,W6,W6 7LD,"289 Latymer Court, Hammersmith Road, London, W6 7LD",https://www.zoopla.co.uk/property/uprn/34027794/
+1,3,2,96,Terraced,Freehold,824190,-0.331175,51.4458729,TW1,TW1 4HF,"108 Holly Road, Twickenham, TW1 4HF",https://www.zoopla.co.uk/property/uprn/100022338119/
+2,4,2,149,Semi-Detached,Freehold,836972,-0.1614853,51.6238853,N20,N20 0XA,"62 Raleigh Drive, London, N20 0XA",https://www.zoopla.co.uk/property/uprn/200096485/
+1,2,2,87,Flat,Leasehold,745578,-0.1366993,51.4538293,SW4,SW4 8QG,"125 Elms Crescent, London, SW4 8QG",https://www.zoopla.co.uk/property/uprn/100021837183/
+2,4,1,152,Detached,Freehold,808486,-0.4112285,51.613106,HA6,HA6 3PS,"41 Ravenswood Park, Northwood, HA6 3PS",https://www.zoopla.co.uk/property/uprn/100021447621/
+1,3,1,102,Bungalow Property,Freehold,737032,-0.210933,51.5276279,W10,W10 4DH,"44 Droop Street, London, W10 4DH",https://www.zoopla.co.uk/property/uprn/100022744036/
+2,4,3,158,Terraced,Freehold,552932,0.0799082,51.5585318,IG1,IG1 1YW,"23 Belmont Road, Ilford, IG1 1YW",https://www.zoopla.co.uk/property/uprn/100022197583/
+1,3,1,92,Flat,Leasehold,686717,-0.1916122,51.5520524,NW6,NW6 1LL,"Flat 7, Cumberland Mansions, West End Lane, London, NW6 1LL",https://www.zoopla.co.uk/property/uprn/5021865/
+2,4,1,124,Terraced,Freehold,1095130,-0.0484595,51.5416821,E9,E9 7AN,"4 Cassland Road, London, E9 7AN",https://www.zoopla.co.uk/property/uprn/100021029893/
+1,2,1,93,Flat,Leasehold,836323,-0.1802203,51.5147457,W2,W2 3HB,"Flat 5, 119 Gloucester Terrace, London, W2 3HB",https://www.zoopla.co.uk/property/uprn/10033548388/
+2,2,1,85,Flat,Leasehold,843681,-0.1480789,51.4829449,SW11,SW11 8NR,"146 Howard Building, 368 Queenstown Road, London, SW11 8NR",https://www.zoopla.co.uk/property/uprn/121042083/
+2,3,2,137,Terraced,Freehold,838307,0.0172412,51.5882587,E18,E18 2DS,"28 Bushey Avenue, London, E18 2DS",https://www.zoopla.co.uk/property/uprn/100022248668/
+2,2,1,69,Flat,Leasehold,816349,-0.2088226,51.5446547,NW6,NW6 7BB,"45 Christchurch Avenue, London, NW6 7BB",https://www.zoopla.co.uk/property/uprn/202115146/
+2,3,1,123,Terraced,Freehold,833461,-0.1256098,51.6130107,N11,N11 2SL,"23 Highworth Road, London, N11 2SL",https://www.zoopla.co.uk/property/uprn/207033544/
+2,2,1,85,Flat,Leasehold,851584,-0.2542437,51.4863453,W4,W4 2DZ,"Flat 44, Renaissance Square Apartments, Palladian Gardens, London, W4 2DZ",https://www.zoopla.co.uk/property/uprn/10093259782/
+2,4,1,133,Flat,Leasehold,858396,-0.1842092,51.439035,SW18,SW18 3QS,"54A Quinton Street, London, SW18 3QS",https://www.zoopla.co.uk/property/uprn/100022683700/
+2,5,4,184,Detached,Freehold,787135,-0.2369126,51.3182674,KT17,KT17 3NS,"23 Rose Bushes, Epsom, KT17 3NS",https://www.zoopla.co.uk/property/uprn/100061448993/
+2,2,1,98,Flat,Leasehold,710464,-0.2129655,51.4650251,SW15,SW15 2JX,"Apartment 130, 18 Brewhouse Lane, London, SW15 2JX",https://www.zoopla.co.uk/property/uprn/121041545/
+5,4,4,187,Detached,Freehold,786915,-0.3208776,51.5592693,HA0,HA0 2NN,"32 Elms Lane, Wembley, HA0 2NN",https://www.zoopla.co.uk/property/uprn/202100998/
+2,3,1,95,Flat,Leasehold,878017,-0.0695996,51.5011786,SE1,SE1 2EB,"77 Providence Square, London, SE1 2EB",https://www.zoopla.co.uk/property/uprn/200003360168/
+2,2,1,123,Flat,Leasehold,853530,-0.1786144,51.51562,W2,W2 3UY,"71C Westbourne Terrace, London, W2 3UY",https://www.zoopla.co.uk/property/uprn/100023620150/
+2,8,3,217,Terraced,Freehold,834120,0.0630328,51.5653136,IG1,IG1 3DN,"9 Courtland Avenue, Ilford, IG1 3DN",https://www.zoopla.co.uk/property/uprn/100022204567/
+1,3,1,111,Terraced,Freehold,833461,-0.2217744,51.3978053,SW20,SW20 9EF,"145 Elm Walk, London, SW20 9EF",https://www.zoopla.co.uk/property/uprn/48025280/
+1,3,1,107,Terraced,Freehold,886292,0.0167325,51.4661819,SE3,SE3 9JJ,"25 Corner Green, London, SE3 9JJ",https://www.zoopla.co.uk/property/uprn/100020953619/
+2,3,2,176,Detached,Freehold,925508,-0.2730756,51.6193378,HA8,HA8 8PG,"24 Broadfields Avenue, Edgware, HA8 8PG",https://www.zoopla.co.uk/property/uprn/200015257/
+2,4,3,202,Detached,Freehold,856588,-0.2874692,51.3506804,KT19,KT19 7LF,"2 Lady Forsdyke Way, Epsom, KT19 7LF",https://www.zoopla.co.uk/property/uprn/200004009507/
+1,3,2,112,Terraced,Freehold,854983,-0.2809612,51.5228655,W3,W3 0LR,"127 Princes Gardens, London, W3 0LR",https://www.zoopla.co.uk/property/uprn/12096054/
+1,3,1,100,Terraced,Freehold,896456,-0.3114218,51.5006106,W5,W5 4TT,"6 Overdale Road, London, W5 4TT",https://www.zoopla.co.uk/property/uprn/12081586/
+1,3,2,140,Semi-Detached,Freehold,858199,-0.0537033,51.4207352,SE26,SE26 5HY,"14A Wiverton Road, London, SE26 5HY",https://www.zoopla.co.uk/property/uprn/100020445963/
+2,3,1,120,Terraced,Freehold,949758,-0.211046,51.4629365,SW15,SW15 2LG,"1A Oxford Road, London, SW15 2LG",https://www.zoopla.co.uk/property/uprn/10091501554/
+1,3,1,100,Semi-Detached,Freehold,862746,-0.3640873,51.4264053,TW12,TW12 1SL,"85 Uxbridge Road, Hampton Hill, Hampton, TW12 1SL",https://www.zoopla.co.uk/property/uprn/100022284617/
+2,4,2,181,Detached,Freehold,938245,-0.304619,51.5604295,HA0,HA0 2JH,"95 Harrowdene Road, Wembley, HA0 2JH",https://www.zoopla.co.uk/property/uprn/202089060/
+2,3,1,100,Terraced,Freehold,877073,-0.2268157,51.4090396,SW20,SW20 8BQ,"1 Prince George's Avenue, London, SW20 8BQ",https://www.zoopla.co.uk/property/uprn/48057749/
+2,4,1,130,Semi-Detached,Freehold,915663,-0.3140563,51.4342657,TW10,TW10 7LL,"65 Lock Road, Richmond, TW10 7LL",https://www.zoopla.co.uk/property/uprn/100022310716/
+1,3,1,165,Terraced,Freehold,2023082,-0.0976995,51.5346413,N1,N1 8NX,"13 Allingham Street, London, N1 8NX",https://www.zoopla.co.uk/property/uprn/5300001062/
+2,3,1,93,Flat,Leasehold,939175,-0.1847255,51.4644836,SW18,SW18 1TZ,"54 Commodore House, Juniper Drive, London, SW18 1TZ",https://www.zoopla.co.uk/property/uprn/10008159654/
+2,4,2,130,Terraced,Freehold,924827,0.023308,51.5746836,E11,E11 2RF,"6 Dangan Road, London, E11 2RF",https://www.zoopla.co.uk/property/uprn/100022251033/
+1,3,2,166,Semi-Detached,Freehold,968225,-0.3256821,51.5172082,W13,W13 0EB,"4 Lynton Avenue, London, W13 0EB",https://www.zoopla.co.uk/property/uprn/12074707/
+3,3,2,240,Flat,Leasehold,901761,0.0420687,51.4202932,BR7,BR7 5EJ,"1 The Manor House, Duggan Drive, Chislehurst, BR7 5EJ",https://www.zoopla.co.uk/property/uprn/10013152397/
+2,2,1,123,Flat,Leasehold,973238,-0.1089118,51.5434736,N1,N1 1QT,"22 Pissarro House, Augustas Lane, London, N1 1QT",https://www.zoopla.co.uk/property/uprn/10023222776/
+1,1,1,55,Flat,Leasehold,1158242,-0.1336121,51.5136266,W1D,W1D 3DD,"Flat 13, Soho Lofts, 10 Richmond Mews, London, W1D 3DD",https://www.zoopla.co.uk/property/uprn/100022798460/
+2,2,1,127,Terraced,Freehold,951593,-0.0803649,51.5398441,N1,N1 5AW,"2 Brides Place, De Beauvoir Road, London, N1 5AW",https://www.zoopla.co.uk/property/uprn/10008240697/
+1,3,2,100,Terraced,Freehold,949874,-0.2103683,51.4795267,SW6,SW6 7JZ,"57 Orbain Road, London, SW6 7JZ",https://www.zoopla.co.uk/property/uprn/34053124/
+3,2,1,103,Bungalow Property,Freehold,966481,-0.3881992,51.5887454,HA5,HA5 1BX,"37 Cranbourne Drive, Pinner, HA5 1BX",https://www.zoopla.co.uk/property/uprn/100021299972/
+1,3,2,102,Flat,Leasehold,934309,-0.1505636,51.5683275,N6,N6 6LR,"Flat 32, South Grove House, South Grove, London, N6 6LR",https://www.zoopla.co.uk/property/uprn/5019027/
+1,1,1,85,Flat,Leasehold,1050000,-0.1304507,51.5179737,WC1B,WC1B 3AH,"Flat 128, Bedford Court Mansions, Adeline Place, London, WC1B 3AH",https://www.zoopla.co.uk/property/uprn/5136424/
+1,1,1,54,Flat,Leasehold,707406,-0.1625262,51.497087,SW1X,SW1X 0AE,"Flat 6, 50 Pont Street, London, SW1X 0AE",https://www.zoopla.co.uk/property/uprn/217068800/
+2,3,2,129,Detached,Freehold,1090000,-0.3835484,51.5974317,HA5,HA5 3EY,"71 Love Lane, Pinner, HA5 3EY",https://www.zoopla.co.uk/property/uprn/100021303288/
+2,3,1,115,Flat,Leasehold,1095000,0.0024513,51.4881015,SE10,SE10 0UA,"Flat 180, 67 River Gardens Walk, London, SE10 0UA",https://www.zoopla.co.uk/property/uprn/10010254982/
+1,3,1,106,Terraced,Freehold,1100000,-0.3159026,51.4360907,TW10,TW10 7NH,"23 Sheridan Road, Richmond, TW10 7NH",https://www.zoopla.co.uk/property/uprn/100022317215/
+2,2,1,77,Flat,Leasehold,923428,-0.1404288,51.5426375,NW1,NW1 9PP,"Apartment 2, 8 Jeffrey's Place, London, NW1 9PP",https://www.zoopla.co.uk/property/uprn/5185502/
+2,2,3,108,Terraced,Leasehold,1128178,-0.1933644,51.5267652,W9,W9 2NP,"99E Elgin Avenue, London, W9 2NP",https://www.zoopla.co.uk/property/uprn/100022748577/
+1,3,1,100,Flat,Leasehold,1090027,-0.1478705,51.5373056,NW1,NW1 7AU,"Flat H, 15 Gloucester Avenue, London, NW1 7AU",https://www.zoopla.co.uk/property/uprn/5092770/
+2,4,3,156,Detached,Freehold,1150000,0.0322184,51.4083509,BR1,BR1 2WH,"8 High Grove, Bromley, BR1 2WH",https://www.zoopla.co.uk/property/uprn/100020401110/
+1,1,1,65,Flat,Leasehold,1200000,-0.1457424,51.5080727,W1J,W1J 5BY,"Flat B, 44 Clarges Mews, London, W1J 5BY",https://www.zoopla.co.uk/property/uprn/10033562748/
+2,4,1,126,Terraced,Freehold,1200000,-0.1413035,51.588756,N10,N10 3RP,"35 Muswell Hill Place, London, N10 3RP",https://www.zoopla.co.uk/property/uprn/100021204847/
+4,6,5,285,Detached,Freehold,1160196,-0.10522,51.333118,CR8,CR8 1AQ,"18 Oakwood Avenue, Purley, CR8 1AQ",https://www.zoopla.co.uk/property/uprn/100020667927/
+4,5,2,216,Detached,Freehold,1072500,-0.1561015,51.6505179,EN4,EN4 9HH,"64 Mount Pleasant, Barnet, EN4 9HH",https://www.zoopla.co.uk/property/uprn/200083193/
+1,4,3,199,Detached,Freehold,1295000,-0.1535778,51.6548549,EN4,EN4 9HJ,"16 Chalk Lane, Cockfosters, Barnet, EN4 9HJ",https://www.zoopla.co.uk/property/uprn/207161920/
+2,5,1,153,Terraced,Freehold,1477940,-0.2198086,51.4682406,SW15,SW15 1JU,"24 Bendemeer Road, London, SW15 1JU",https://www.zoopla.co.uk/property/uprn/100022615215/
+2,5,3,201,Detached,Freehold,1437634,-0.3470963,51.4317464,TW11,TW11 0RT,"20 Sunnyside Road, Teddington, TW11 0RT",https://www.zoopla.co.uk/property/uprn/100022326660/
+2,5,1,177,Terraced,Freehold,1356798,-0.0744861,51.4563398,SE22,SE22 9DJ,"24 Hansler Road, London, SE22 9DJ",https://www.zoopla.co.uk/property/uprn/200003444873/
+2,3,2,175,Semi-Detached,Freehold,1630000,-0.2804569,51.4646669,TW10,TW10 5EF,"10 Clydesdale Gardens, Richmond, TW10 5EF",https://www.zoopla.co.uk/property/uprn/100022305571/
+3,5,3,242,Semi-Detached,Freehold,1595000,-0.1330442,51.4647513,SW4,SW4 6EP,"14 Edgeley Road, London, SW4 6EP",https://www.zoopla.co.uk/property/uprn/100021835236/
+2,3,1,160,Flat,Leasehold,1595000,-0.213168,51.4653699,SW15,SW15 2JQ,"46 Putney Wharf Tower, Brewhouse Lane, London, SW15 2JQ",https://www.zoopla.co.uk/property/uprn/121041488/
+2,2,1,89,Flat,Leasehold,1650000,-0.1616087,51.4898155,SW3,SW3 4QE,"Flat 4, 11 Royal Avenue, London, SW3 4QE",https://www.zoopla.co.uk/property/uprn/217075532/
+2,6,1,280,Detached,Freehold,1515239,0.008793,51.3978104,BR2,BR2 0QA,"5 Durham Avenue, Bromley, BR2 0QA",https://www.zoopla.co.uk/property/uprn/100020396148/
+2,4,2,243,Detached,Freehold,1581867,-0.1747746,51.6648712,EN4,EN4 0LX,"5 Musgrave Close, Barnet, EN4 0LX",https://www.zoopla.co.uk/property/uprn/207176492/
+1,3,1,123,Semi-Detached,Freehold,1695000,-0.234999,51.4144047,SW20,SW20 0DH,"17 Melbury Gardens, London, SW20 0DH",https://www.zoopla.co.uk/property/uprn/48048638/
+2,4,1,141,Flat,Leasehold,1875000,-0.1528863,51.4760905,SW11,SW11 4BW,"61 York Mansions, Prince of Wales Drive, London, SW11 4BW",https://www.zoopla.co.uk/property/uprn/100022681028/
+2,6,2,216,Terraced,Freehold,1849124,-0.1510499,51.4374289,SW17,SW17 8QE,"57 Ritherdon Road, London, SW17 8QE",https://www.zoopla.co.uk/property/uprn/100022686101/
+3,4,2,140,Terraced,Freehold,1846214,-0.2025582,51.4734092,SW6,SW6 4UQ,"33 St Dionis Road, London, SW6 4UQ",https://www.zoopla.co.uk/property/uprn/34043795/
+1,6,2,202,Detached,Freehold,1870443,-0.1383333,51.5469837,NW5,NW5 2JY,"38 Patshull Road, London, NW5 2JY",https://www.zoopla.co.uk/property/uprn/5001894/
+2,5,3,216,Semi-Detached,Freehold,1891973,-0.2532312,51.4947606,W4,W4 1QQ,"64 Thornton Avenue, London, W4 1QQ",https://www.zoopla.co.uk/property/uprn/100021591001/
+1,3,1,105,Terraced,Freehold,2000000,-0.1974486,51.5065856,W8,W8 7PB,"73 Peel Street, London, W8 7PB",https://www.zoopla.co.uk/property/uprn/217065103/
+7,11,0,252,Semi-Detached,Freehold,2000000,-0.2702348,51.4920999,W4,W4 4EZ,"41 Arlington Gardens, London, W4 4EZ",https://www.zoopla.co.uk/property/uprn/100021578797/
+2,5,2,256,Terraced,Freehold,2150000,-0.0914161,51.4545574,SE24,SE24 9LG,"32 Beckwith Road, London, SE24 9LG",https://www.zoopla.co.uk/property/uprn/200003449512/
+2,1,1,121,Flat,Leasehold,2158253,-0.1938092,51.5126176,W2,W2 4TD,"Flat 5, 1 Dawson Place, London, W2 4TD",https://www.zoopla.co.uk/property/uprn/100022740855/
+3,5,1,181,Terraced,Freehold,2300000,-0.2414218,51.4734317,SW13,SW13 0DS,"9 Meredyth Road, London, SW13 0DS",https://www.zoopla.co.uk/property/uprn/100022295680/
+3,4,3,204,Semi-Detached,Freehold,2445011,0.0287917,51.5795436,E11,E11 2EP,"22 Grosvenor Road, London, E11 2EP",https://www.zoopla.co.uk/property/uprn/100022252938/
+1,6,2,224,Terraced,Freehold,2180568,-0.156235,51.5547572,NW3,NW3 2LE,"27 Courthope Road, London, NW3 2LE",https://www.zoopla.co.uk/property/uprn/5002123/
+3,4,4,293,Detached,Freehold,1856313,-0.3216453,51.6237828,HA7,HA7 3EQ,"2 Aylmer Close, Stanmore, HA7 3EQ",https://www.zoopla.co.uk/property/uprn/100021310101/
+3,5,2,225,Terraced,Freehold,2747515,-0.1986827,51.4749235,SW6,SW6 4AP,"39 Irene Road, London, SW6 4AP",https://www.zoopla.co.uk/property/uprn/34068465/
+4,6,2,305,Detached,Freehold,2643469,-0.3160222,51.5157301,W13,W13 8PX,"4 Denbigh Road, London, W13 8PX",https://www.zoopla.co.uk/property/uprn/12072443/
+4,5,2,270,Detached,Freehold,2627703,-0.1781524,51.5798862,N2,N2 0QT,"7 Spencer Drive, London, N2 0QT",https://www.zoopla.co.uk/property/uprn/200105456/
+6,6,4,350,Detached,Freehold,3000000,-0.2599619,51.4187003,KT2,KT2 7DU,"Abbotswood, Coombe Hill Road, Kingston upon Thames, KT2 7DU",https://www.zoopla.co.uk/property/uprn/100021757120/
+4,3,1,170,Flat,Freehold,3682734,-0.1293028,51.4946373,SW1P,SW1P 4LY,"Flat 40, Drake House, 76 Marsham Street, London, SW1P 4LY",https://www.zoopla.co.uk/property/uprn/10033628184/
+2,3,1,185,Flat,Freehold,4011299,-0.1293028,51.4946373,SW1P,SW1P 4LY,"Flat 50, Drake House, 76 Marsham Street, London, SW1P 4LY",https://www.zoopla.co.uk/property/uprn/10033628194/
+1,3,1,189,Flat,Freehold,4230667,-0.1293028,51.4946373,SW1P,SW1P 4LY,"Flat 57, Drake House, 76 Marsham Street, London, SW1P 4LY",https://www.zoopla.co.uk/property/uprn/10033628201/
+1,3,1,191,Flat,Freehold,4253051,-0.1293028,51.4946373,SW1P,SW1P 4LY,"Flat 58, Drake House, 76 Marsham Street, London, SW1P 4LY",https://www.zoopla.co.uk/property/uprn/10033628202/
+1,3,1,203,Flat,Leasehold,4360108,-0.1293028,51.4946373,SW1P,SW1P 4LY,"Flat 59, Drake House, 76 Marsham Street, London, SW1P 4LY",https://www.zoopla.co.uk/property/uprn/10033628203/
+3,4,2,213,Flat,Leasehold,3892953,-0.1942936,51.5000084,W8,W8 6TU,"Flat 81, 79–95 Iverna Court, London, W8 6TU",https://www.zoopla.co.uk/property/uprn/217042235/
+2,4,1,194,Flat,Leasehold,9830000,-0.1413164,51.5103531,W1S,W1S 3NB,"Apartment 502, 25 Cork Street, London, W1S 3NB",https://www.zoopla.co.uk/property/uprn/10033639071/
